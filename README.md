@@ -9,13 +9,13 @@ pip install difflib
 ## Code
 
 ### CNBC_videoid.py
-WebScrapy video id and url from [CNBC CEO Interviews] (https://www.cnbc.com/video-ceo-interviews/)
+WebScrapy video id and url from [CNBC CEO Interviews](https://www.cnbc.com/video-ceo-interviews/)
 
 ### CNBC_videodetail.py
 WebScrapy video information, include name of the show, potential host(s)
 
 ### CNBC_youtubdl.py
-Download CNBC video with [youtube_dl] (https://github.com/ytdl-org/youtube-dl)
+Download CNBC video with [youtube_dl](https://github.com/ytdl-org/youtube-dl)
 
 ### CNBC_videodetail.py
 Get baic infomation of video, includes number of frames. video width, video length and video duration
@@ -36,24 +36,24 @@ Final outputs.
 
 Include:
 
-#### video_id
+#### - video_id
 Each video has an unique id
 
-#### Interviewer
+#### - Interviewer
 Host(s) of this video, *can be no host
 
-#### Company
+#### - Company
 Company(s) which attent this show
 
-#### CEO
+#### - CEO
 CEO(s) who attent this show
 
-#### Tparty
+#### - Tparty
 If there is more than 2 people in the video. 
 
 Y means yes, N means no
 
-#### B_music_s
+#### - B_music_s
 When the host(s) speak first sentence, from 0 to 9999
 
  - 0: speak from beginning
@@ -64,7 +64,7 @@ When the host(s) speak first sentence, from 0 to 9999
 
  - other number: host(s) starts speaking at this second
 
-#### B1_music_s
+#### - B1_music_s
 When the beginning music stops, from 0 to 9999
 
  - 0: There is no music
@@ -75,7 +75,7 @@ When the beginning music stops, from 0 to 9999
 
  - other number: music stops at this second
 
-#### E_music_s
+#### - E_music_s
 When the ending music starts, from 0 to 9999
 
  - 0: There is no music
@@ -86,7 +86,7 @@ When the ending music starts, from 0 to 9999
 
  - other number: ending music starts, and there is this number of seconds until this video stop
 
-#### E1_music_s
+#### - E1_music_s
 When the host(s) finish talk, from 0 to 9999
 
  - 0: host(s) keeps talking until the last second
@@ -97,38 +97,38 @@ When the host(s) finish talk, from 0 to 9999
 
  - other number: the host(s) finish talk, and there is this number of seconds until this video stop
 
-#### hosts_count
+#### - hosts_count
 Number of host(s) in this video
 
 If missing, either video not be downloaded or there is no host for this show
 
-#### CEO_count
+#### - CEO_count
 Number of CEO(s) in this video
 
 If missing, either video not be downloaded or there is no CEO for this show
 
-#### height
+#### - height
 Video height
 
-#### nb_frames
+#### - nb_frames
 Number of frames in this video
 
-#### time
+#### - time
 Duration of this video (in second)
 
-#### width
+#### - width
 Video width
 
-#### CEO_origin
+#### - CEO_origin
 CEO name when manually recoded.
 
-#### Company_origin
+#### - Company_origin
 Company name when manually recoded.
 
-#### Interviewer_origin
+#### - Interviewer_origin
 Host name when manually recoded.
 
-#### *Special notations:
+#### - *Special notations:
   - (*): not sure about this person's name
 
   - (call): no movement in this video
