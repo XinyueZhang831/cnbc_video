@@ -146,13 +146,13 @@ Host name when manually recoded.
   - (record): this person is recorder
 
 ### CEOscount.csv
-CEOs' name and how many video they appeared
+CEOs' name and how many videos they appeared
 
 ### Companyscount.csv
-Companies' name and how many video they appeared
+Companies' name and how many videos they appeared
 
 ### Hostscount.csv
-Hosts' name and how many video they appeared
+Hosts' name and how many videos they appeared
 
 ## Statistics on current videos:
 Number of Host: 39, Number of CEO: 592, Number of Company: 572, Nunmber of Potential Video: 1138, Number of Download Video 
