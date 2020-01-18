@@ -1,0 +1,1139 @@
+,Unnamed: 0,video_id,Interviewer,Company,CEO,Show,Tparty,B_music_s,B1_music_s,E_music_s,E1_music_s
+0,0,7000114609,Jim Cramer,Paychex,Marty Mucci,,N,6,7,44,27
+1,1,7000114567,Sara Eisen / Wilfred Frost,Carnival,Arnold Donald,,Y,0,0,0,0
+2,2,7000114415,Jim Cramer,ThoughtSpot ,Sudheesh Nair,,N,7,8,30,27
+3,3,7000114412,Jim Cramer,Emergent BioSolutions,Bob Kramer ,,N,6,7,37,28
+4,4,7000114330,Morgan Brennan / Jon Fortt,Micron,Sanjay Mehrotra,,Y,0,0,0,0
+5,5,7000113988,Jim Cramer,Eli Lilly ,David Ricks,,N,6,6,33,27
+6,6,7000113985,Jim Cramer,Eli Lilly ,David Ricks,,N,0,0,27,26
+7,7,7000113927,Jon Fortt / Carl Quintanilla,Atari,Fred Chesnais,,Y,0,0,0,0
+8,8,7000113457,Jim Cramer,Biohaven Pharmaceutical,Vlad Coric,,N,4,5,45,27
+9,9,7000113455,Jim Cramer,Centene,Michael Neidorff,,N,5,5,40,28
+10,10,7000113451,Jim Cramer,Anaplan,Frank Calderoni,,N,6,6,43,28
+11,11,7000113429,Unknown / Wilfred Frost,Zoom Video,Eric Yuan,,Y,0,0,0,0
+12,12,7000113428,Unknown / Wilfred Frost,Zoom Video,Eric Yuan,,Y,0,0,0,0
+13,13,7000113419,Wilfred Frost,Morgan Stanley,James Gorman,,N,0,0,0,0
+14,14,7000113418,Wilfred Frost,Morgan Stanley,James Gorman,,N,0,0,0,0
+15,15,7000113403,Jim Cramer,Adobe,Shantanu Narayen,,N,0,0,40,32
+16,16,7000113335,Joe Kernen,Turning Point Therapeutics,Dr. Athena Countouriotis,,N,4,5,0,0
+17,17,7000113251,Jim Cramer,Robinhood,Vladimir Tenev,,N,6,7,53,27
+18,18,7000113250,Jim Cramer,Robinhood,Vladimir Tenev,,N,0,0,28,27
+19,19,7000113159,Jon Fortt / Morgan Brennan / Carl Quintanilla,Bil.com,Rene Lacerte,,Y,0,0,0,0
+20,20,7000113154,Jon Fortt / Morgan Brennan / Carl Quintanilla,Rocket Lab,Peter Beck,,Y,0,0,0,0
+21,21,7000113137,Morgan Brennan / Carl Quintanilla,Continental Resources,Harold Hamm / Bill Berry,,Y,0,0,0,0
+22,22,7000113101,Andrew Ross Sorkin / Joe Kernen,Wheels Up ,Kenny Dichter,,Y,0,0,0,0
+23,23,7000113105,Andrew Ross Sorkin,Delta Air Lines,Ed Bastian,,N,0,0,0,0
+24,24,7000113087,Andrew Ross Sorkin / Joe Kernen,Delta Air Lines,Ed Bastian,,Y,0,0,0,0
+25,25,7000113092,Joe Kernen,Delta Air Lines,Ed Bastian,,N,0,0,0,0
+26,26,7000113005,Jim Cramer,Palo Alto,Nikesh Arora,,N,6,7,38,27
+27,27,7000112949,Scott Wapner,DoubleLine Capital,Jeffrey Gundlach,,N,0,0,30,0
+28,28,7000112920,Frank Holland,UPS / CVS Health,David Abney / Larry Merlo,,Y,0,0,0,0
+29,29,7000112919,Wilfred Frost ,Bank of America,Brian Moynihan,,N,0,0,0,0
+30,30,7000112911,Wilfred Frost,The Carlyle Group,Kewsong Lee,,N,0,0,0,0
+31,31,7000112901,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Chevron,Michael Wirth,,Y,0,0,50,0
+32,32,7000112900,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Chevron,Michael Wirth,,Y,0,0,50,0
+33,33,7000112707,Jim Cramer,Extreme Networks,Ed Meyercord,,N,6,7,40,28
+34,34,7000112687,Wilfred Frost,Goldman Sachs,John Waldron,,N,2,3,0,0
+35,35,7000112685,Wilfred Frost,Goldman Sachs,John Waldron,,N,2,3,0,0
+36,36,7000112661,Jim Cramer,Nutanix,Dheeraj Pandey,,N,0,0,27,26
+37,37,7000112635,Jon Fortt / Morgan Brennan / Carl Quintanilla,MongoDB,Dev Ittycheria,,Y,0,0,0,0
+38,38,7000112631,Jon Fortt / Morgan Brennan / Carl Quintanilla,Stitch Fix,Katrina Lake,,Y,0,0,0,0
+39,39,7000112607,Andrew Ross Sorkin / Joe Kernen,SurveyMonkey,Zander Lurie,,Y,0,0,20,2
+40,40,7000112442,Scott Wapner,Snowflake,Frank Slootman / Brad Gerstner,,Y,0,0,0,0
+41,41,7000112414,David Faber / Jim Cramer,Coca-Cola,James Quincey,,Y,0,0,0,0
+42,42,7000112409,David Faber / Jim Cramer,Coca-Cola,James Quincey,,Y,0,0,0,0
+43,43,7000112225,Jim Cramer,Natera,Steve Chapman,,N,6,6,36,28
+44,44,7000112223,Jim Cramer,Grocery Outlet,Eric Lindberg,,N,5,6,46,28
+45,45,7000112218,Jim Cramer,Boot Barn,Jim Conroy,,N,18,19,74,59
+46,46,7000112216,Jim Cramer,Boot Barn,Jim Conroy,,N,0,0,29,28
+47,47,7000112185,Morgan Brennan,Microchip Technology,Steve Sanghi,,N,0,0,0,0
+48,48,7000112184,Morgan Brennan,Microchip Technology,Steve Sanghi,,N,0,0,0,0
+49,49,7000112157,Tyler Mathisen,Republic Services,Don Slager,,N,0,0,0,0
+50,50,7000112091,Unknown / Andrew Ross Sorkin / Joe Kernen,CrowdStrike,George Kurtz,,Y,0,4,0,0
+51,51,7000112008,Jim Cramer,Edwards Lifesciences,Michael Mussallem,,N,6,6,43,28
+52,52,7000112004,Jim Cramer,ServiceNow,Bill McDermott,,N,6,6,34,27
+53,53,7000112002,Jim Cramer,Chipotle,Brian Niccol / John Hartung,,Y,18,18,29,28
+54,54,7000111990,Jim Cramer,Chipotle,Brian Niccol / John Hartung,,Y,0,0,28,27
+55,55,7000111941,Tyler Mathisen,WaFd Bank,Brent Beardall,,N,0,0,0,0
+56,56,7000111882,Unknown / Becky Quick / Joe Kernen,Slack,Stewart Butterfield,,Y,0,0,0,0
+57,57,7000111875,Unknown / Becky Quick / Joe Kernen,CVS,Larry Merlo,,Y,0,0,0,0
+58,58,7000111887,Unknown / Becky Quick / Joe Kernen,CVS,Larry Merlo,,Y,0,0,0,0
+59,59,7000111806,Jim Cramer,Avita Medical,Dr. Michael Perry,,N,6,6,40,29
+60,60,7000111804,Jim Cramer,Robinhood,Vladimir Tenev / Baiju Buhatt,,Y,8,9,45,30
+61,61,7000111802,Jim Cramer,Mattel,Ynon Kreiz,,N,3,3,36,29
+62,62,7000111803,Jim Cramer,Robinhood,Vladimir Tenev / Baiju Buhatt,,Y,0,0,27,27
+63,63,7000111764,Bill Griffeth / Seema Mody,Crocs,Andrew Rees,,Y,0,0,0,0
+64,64,7000111756,Bill Griffeth / Seema Mody,Canaccord Genuity,Dan Daviau,,Y,0,0,0,0
+65,65,7000111713,Kate Rogers,Papa John's,Rob Lynch,,N,0,0,0,0
+66,66,7000111688,Becky Quick / Joe Kernen / Unknown / Unknown / Unknown,ConocoPhillips,Ryan Lance,Squawk Box,Y,0,0,0,0
+67,67,7000111614,Jim Cramer,PPG Industries,Michael McGarry,,N,6,6,37,28
+68,68,7000111610,Jim Cramer,Coupa,Rob Bernshteyn,,N,3,4,40,29
+69,69,7000111609,Jim Cramer,Salesforce,Keith Block,,N,4,4,37,30
+70,70,7000111595,Jim Cramer,Salesforce,Keith Block,,N,0,0,27,27
+71,71,7000111582,Morgan Brennan / Wilfred Frost / Michael Santoli(*),Cleveland-Cliffs,Lourenco Goncalves,Closing Bell,Y,0,3,0,0
+72,72,7000111581,Morgan Brennan / Wilfred Frost / Michael Santoli(*),Cleveland-Cliffs,Lourenco Goncalves,Closing Bell,Y,0,3,0,0
+73,73,7000111403,Jim Cramer,eHealth,Scott Flanders,,N,6,6,44,28
+74,74,7000111399,Jim Cramer,CyberArk,Udi Mokady,,N,6,6,41,30
+75,75,7000111146,Contessa Brewer,Mall of America,Jill Renslow,Closing Bell,N,0,0,0,0
+76,76,7000111114,Morgan Brennan / David Faber / Unknown,Ethan Allen,Farooq Kathwari,Squawk on the Street,Y,0,0,0,0
+77,77,7000110875,Brian Sullivan,Countr,Manon Roux,The Exchange,N,0,0,0,0
+78,78,7000110696,Jim Cramer,Full Harvest ,Christine Moseley,,N,8,8,33,29
+79,79,7000110689,Jim Cramer,Agnico Eagle,Sean Boyd,,N,6,6,44,30
+80,80,7000110666,Courtney Reagan / Jim Cramer,Hormel Foods,Jim Snee,Closing Bell,Y,0,4,0,0
+81,81,7000110667,Courtney Reagan / Jim Cramer / Wilfred Frost,Hormel Foods,Jim Snee,Closing Bell,Y,0,4,0,0
+82,82,7000110633,Meg Tirrell,Global Blood Therapeutics,Ted Love,The Exchange,N,0,0,0,0
+83,83,7000110611,Jon Fortt / Morgan Brennan,Hewlett Packard Enterprise,Antonio Neri ,Squawk Alley,N,0,0,0,0
+84,84,7000110603,Morgan Brennan / Carl Quintanilla / David Faber,Dollar Tree,Gary Philbin,Squawk on the Street,Y,0,0,0,0
+85,85,7000110511,Jim Cramer ,Carbon,Ellen Kullman / Joseph DeSimone,,Y,9,9,42,28
+86,86,7000110507,Jim Cramer ,Bristol-Myers Squibb,Giovanni Caforio,,N,6,6,41,29
+87,87,7000110489,Courtney Reagan / Wilfred Frost / Michael Santoli,CQS / London Stock Exchange Group,Xavier Rolet,Closing Bell,Y,0,0,0,0
+88,88,7000110487,Courtney Reagan / Wilfred Frost / Michael Santoli,PayPal / Affirm,Max Levchin,Closing Bell,Y,0,4,0,0
+89,89,7000110486,Courtney Reagan / Wilfred Frost / Michael Santoli,PayPal / Affirm,Max Levchin,Closing Bell,Y,0,4,0,0
+90,90,7000110478,Courtney Reagan / Wilfred Frost / Becky Quick(*),The Blackstone Group,Stephen Schwarzman,Closing Bell,Y,0,3,0,0
+91,91,7000110477,Courtney Reagan / Wilfred Frost / Becky Quick(*),The Blackstone Group,Steve Schwarzman,Closing Bell,Y,0,3,0,0
+92,92,7000110390,Becky Quick / Joe Kernen / Andrew Ross Sorkin / Unknown,Flexjet,Michael Silvestro,Squawk Box,Y,0,0,0,0
+93,93,7000110192,Jim Cramer,Twitter / United Airlines / RH / Airbnb,,,Y,9999,9999,9999,9999
+94,94,7000110244,Jim Cramer,Five9,Rowan Trollope,,N,11,11,39,29
+95,95,7000110242,Jim Cramer,SoFi,Anthony Noto,,N,10,10,30,29
+96,96,7000110241,Jim Cramer,Clorox,Benno Dorer,,N,10,11,36,30
+97,97,7000110230,Jim Cramer,SoFi,Anthony Noto,,N,0,0,28,27
+98,98,7000110228,Jim Cramer,Clorox,Benno Dorer,,N,0,0,27,27
+99,99,7000110131,Jon Fortt / Morgan Brennan / Carl Quintanilla,Intuit,Sasan Goodarzi,Squawk Alley,Y,0,4,0,0
+100,100,7000109983,Jim Cramer,Advanced Micro Devices,Lisa Su,,N,7,8,34,27
+101,101,7000109977,Jim Cramer,United Airlines,Oscar Munoz ,,N,11,11,37,29
+102,102,7000109975,Jim Cramer,United Airlines,Oscar Munoz ,,N,0,0,28,28
+103,103,7000109946,Wilfred Frost,Zillow,Richard Barton,Closing Bell,N,0,0,0,0
+104,104,7000109945,Wilfred Frost,Zillow,Richard Barton,Closing Bell,N,0,0,0,0
+105,105,7000109914,Dominic Chu,Uncle Jack’s Steakhouse,Willie Degel,The Exchange,N,0,0,0,0
+106,106,7000109906,David Faber,Charter,Tom Rutledge ,,N,0,0,0,0
+107,107,7000109884,David Faber ,Sirius XM,Jim Meyer,,N,0,0,0,0
+108,108,7000109882,Carl Quintanilla / Leslie Picker,Sonos,Patrick Spence,Squawk on the Street,N,0,0,0,0
+109,109,7000109878,David Faber,Liberty Media,Greg Maffei,,N,0,0,0,0
+110,110,7000109721,Jim Cramer,PagerDuty,Jennifer Tejada,Mad Money’s,N,0,0,0,0
+111,111,7000109717,Jim Cramer,Tableau,Adam Selipsky,,N,10,10,39,29
+112,112,7000109715,Jim Cramer,Okta,Todd McKinnon,Mad Money’s,N,10,10,35,29
+113,113,7000109642,Phil LeBeau,Jaguar Land Rover,Ralf Speth,Fast Money Halftime Report,N,0,0,0,0
+114,114,7000109592,Becky Quick,Target,Brian Cornell,Squawk Box,N,0,0,0,0
+115,115,7000109591,Becky Quick,Target,Brian Cornell,Squawk Box,N,3,4,0,0
+116,116,7000109492,Jim Cramer,Nvidia,Jensen Huang,Mad Money’s,N,7,7,40,28
+117,117,7000109493,Jim Cramer,RH,Gary Friedman,Mad Money’s,N,7,7,40,34
+118,118,7000109489,Jim Cramer (cannot download),Salesforce,Marc Benioff,Mad Money’s,N,10,10,36,30
+119,119,7000109479,Jim Cramer,Salesforce,Marc Benioff,Mad Money’s,N,0,0,27,27
+120,120,7000109444,Kate Rogers / Bill Griffeth / Courtney Reagan,Chipotle,Brian Niccol,,Y,0,0,0,0
+121,121,7000109430,Becky Quick,Walmart, Vivek Shah,,N,3,4,0,0
+122,122,7000109393,Carl Quintanilla / Contessa Brewer / David Faber,Warby Parker,Neil Blumenthal,Squawk on the Street,Y,0,0,0,0
+123,123,7000109404,Jon Fortt,Qualcomm,Steve Mollenkopf ,,N,0,0,0,0
+124,124,7000109337,Joe Kernen / Contessa Brewer / Melissa Lee(*) / Andrew Ross Sorkin,Eldorado,Tom Reeg,Squawk Box,N,0,5,0,0
+125,125,7000109261,Jim Cramer,Zendesk,Mikkel Svane,,N,8,8,37,28
+126,126,7000109259,Jim Cramer,Airbnb,Brian Chesky,,N,8,8,33,29
+127,127,7000109256,Jim Cramer,Levi’s,Chip Bergh,Mad Money’s,N,9,10,43,33
+128,128,7000109253,Jim Cramer,Airbnb,Brian Chesky,,N,0,0,27,27
+129,129,7000109250,Jim Cramer,Levi’s,Chip Bergh,Mad Money’s,N,0,0,27,27
+130,130,7000108993,Jim Cramer,LivePerson,Robert LoCascio,Mad Money’s,N,6,6,38,29
+131,131,7000108992,Jim Cramer,LivePerson,Robert LoCascio,Mad Money’s,N,0,0,27,27
+132,132,7000108768,Jim Cramer,BioMarin,Jean-Jacques Bienaimé,Mad Money’s,N,6,6,45,28
+133,133,7000108765,Jim Cramer,ViacomCBS,Bob Bakish,Mad Money’s,N,6,6,42,29
+134,134,7000108731,Jim Cramer,ViacomCBS,Bob Bakish,Mad Money’s,N,0,0,28,28
+135,135,7000108672,Jim Cramer,Cisco Systems,Chuck Robbins,,N,0,0,0,0
+136,136,7000108668,Jim Cramer / David Faber,Cisco Systems,Chuck Robbins,Squawk on the Street,Y,0,0,0,0
+137,137,7000108547,Jim Cramer,Hersha Hospitality,Jay Shah,Mad Money’s,N,6,6,42,28
+138,138,7000108538,Jim Cramer,Dexcom,Kevin Sayer,,N,0,0,28,28
+139,139,7000108544,Jim Cramer,Dexcom,Kevin Sayer,,N,6,6,39,28
+140,140,7000108431,Andrew Ross Sorkin / Becky Quick,PayPal,Daniel Schulman,Squawk Box,Y,0,0,0,0
+141,141,7000108425,Andrew Ross Sorkin / Becky Quick / Joe Kernen,Just Capital / PayPal,Paul Tudor Jones / Dan Schulman,Squawk Box,Y,0,0,24,0
+142,142,7000108288,Jim Cramer,Micron,Sanjay Mehrotra,Mad Money’s,N,6,6,41,28
+143,143,7000108287,Jim Cramer,RealReal,Julie Wainwright,Mad Money’s,N,6,6,41,30
+144,144,7000108286,Jim Cramer,PayPal,John Rainey,Mad Money’s,N,6,6,34,29
+145,145,7000108263,Wilfred Frost / Courtney Reagan,Tilray,Brendan Kennedy,Closing Bell,N,0,0,0,0
+146,146,7000108262,Wilfred Frost / Courtney Reagan,Tilray,Brendan Kennedy,Closing Bell,N,0,0,0,0
+147,147,7000108237,Tyler Mathisen,Rockwell Automation,Blake Moret,The Exchange,N,0,0,0,0
+148,148,7000108174,Carl Quintanilla / Unknown,Dell Technologies,Michael Dell,Squawk Box,N,0,0,0,0
+149,149,7000108085,Jim Cramer,Charles River Labs,James Foster,Mad Money’s,N,6,6,40,30
+150,150,7000108080,Jim Cramer,Norwegian Cruise Line,Frank Del Rio,Mad Money’s,N,17,17,41,29
+151,151,7000108058,Jim Cramer,Norwegian Cruise Line,Frank Del Rio,Mad Money’s,N,0,0,0,27
+152,152,7000108008,Scott Wapner / Dominic Chu,T-Mobile,John Legere / Unknown / Unknown / Unknown / Unknown,Fast Money Halftime Report,N,0,0,0,0
+153,153,7000107735,Jim Cramer,Starbucks,Kevin Johnson,Mad Money’s,N,87,87,54,48
+154,154,7000107733,Jim Cramer,Starbucks,Kevin Johnson,Mad Money’s,N,0,0,28,28
+155,155,7000107637,Jon Fortt / Morgan Brennan / Carl Quintanilla,Mirror,Brynn Putnam,Squawk Alley,N,0,0,0,0
+156,156,7000107630,Jon Fortt / Morgan Brennan,SurveyMonkey,Zander Lurie,Squawk Alley,N,0,0,0,0
+157,157,7000107518,Jim Cramer,Brixmor Property Group,James Taylor,,N,6,6,37,28
+158,158,7000107491,Julia Boorstin,Disney,Bob Iger,Closing Bell,N,0,4,0,0
+159,159,7000107500,Wilfred Frost / Courtney Reagan,AMC Entertainment,Adam Aron,Closing Bell,N,0,4,0,0
+160,160,7000107499,Wilfred Frost,AMC Entertainment,Adam Aron,Closing Bell,N,0,4,0,0
+161,161,7000107492,Julia Boorstin,Disney,Bob Iger,Closing Bell,N,0,0,0,0
+162,162,7000107434,Jon Fortt / Morgan Brennan / Carl Quintanilla,Roku,Anthony Wood,Squawk Alley,N,0,0,0,0
+163,163,7000107387,Joe Kernen / Melissa Lee(*) / Andrew Ross Sorkin,Postmates,Bastian Lehmann,Squawk Box,N,0,0,0,0
+164,164,7000107378,Joe Kernen / Melissa Lee(*) / Andrew Ross Sorkin,Nielsen Holdings,David Kenny,Squawk Box,N,0,4,0,0
+165,165,7000107325,Jim Cramer,First Horizon,Bryan Jordan,,N,6,6,33,28
+166,166,7000107317,Jim Cramer,CVS,Larry Merlo,Mad Money’s,N,6,6,36,29
+167,167,7000107312,Jim Cramer,CVS,Larry J. Merlo,Mad Money’s,N,0,0,27,27
+168,168,7000107250,Frank Holland / Unknown,Winnebago,Michael Happe,,N,0,0,0,0
+169,169,7000107210,Andrew Ross Sorkin,Boeing,Dennis Muilenburg,,N,0,0,0,0
+170,170,7000107209,Andrew Ross Sorkin,Boeing,Dennis Muilenburg,,N,0,0,0,0
+171,171,7000107207,Andrew Ross Sorkin,Boeing,Dennis Muilenburg,,N,0,0,0,0
+172,172,7000107097,Jim Cramer,Twilio,Jeff Lawson,Mad Money’s,N,0,0,28,28
+173,173,7000107090,Jim Cramer,Twilio,Jeff Lawson,Mad Money’s,N,6,6,33,29
+174,174,7000107045,Sharon Epperson,Charles Schwab,Walter Bettinger,,N,0,0,0,0
+175,175,7000107023,Jon Fortt,Adobe,Shantanu Narayen,,N,0,0,0,0
+176,176,7000107021,Carl Quintanilla  / Unknown (only appears shortly),Peloton,John Foley,Squawk on the Street,N,0,0,0,0
+177,177,7000106992,Joe Kernen / Becky Quick / Phil LeBeau,Boeing,David Calhoun,Squawk Box,N,0,0,0,0
+178,178,7000106989,Joe Kernen,Bruin Sports Capital,George Pyne,Squawk Box,N,0,4,0,0
+179,179,7000106994,Becky Quick,Boeing,David Calhoun,Squawk Box,N,0,0,0,0
+180,180,7000106991,Phil LeBeau,Boeing,David Calhoun,Squawk Box,N,0,0,0,0
+181,181,7000106990,Phil LeBeau,Boeing,David Calhoun,Squawk Box,N,0,0,0,0
+182,182,7000106929,Jim Cramer,J2 Global,Vivek Shah,Mad Money’s,N,6,6,34,27
+183,183,7000106884,Scott Wapner / Melissa Lee(*),Boot Barn,James Conroy,Power Lunch,N,0,0,0,0
+184,184,7000106745,Becky Quick / Joe Kernen / Andrew Ross Sorkin,RyanAir,Neil Sorahan,Squawk Box,N,0,0,0,0
+185,185,7000106598,Brian Sullivan / Courtney Reagan,ZipRecruiter,Ian Siegel,Closing Bell,N,0,5,0,0
+186,186,7000106550,Scott Wapner,BNP Paribas USA,Jean-Yves Fillion / Unknown / Unknown / Unknown / Unknown,Fast Money Halftime Report,N,0,0,0,0
+187,187,7000106525,Jon Fortt,Global Payments,Jeff Sloan,Squawk Alley,N,0,0,0,0
+188,188,7000106507,Jim Cramer,Starbucks,Kevin Johnson,Squawk on the Street,N,0,0,0,0
+189,189,7000106506,Jim Cramer / Carl Quintanilla / David Faber ,Starbucks,Kevin Johnson,Squawk on the Street,N,0,14,0,0
+190,190,7000106495,Becky Quick / Andrew Ross Sorkin / Unknown / Unknown,OZY / Avenue Capital Group,Carlos Watson / Marc Lasry,Squawk Box,Y,0,0,0,0
+191,191,7000106423,Jim Cramer,Columbia Sportswear,Tim Doyle,,N,0,0,28,28
+192,192,7000106425,Jim Cramer,,,Mad Money’s,,7,7,63,29
+193,193,7000106426,Jim Cramer,Smarties,Liz Dee,Mad Money’s,N,20,20,35,28
+194,194,7000106422,Jim Cramer,Columbia Sportswear,Tim Doyle,,N,6,7,36,30
+195,195,7000106406,Wilfred Frost / Courtney Reagan,International Paper,Mark Sutton,Closing Bell,N,0,3,0,0
+196,196,7000106407,Wilfred Frost / Courtney Reagan,International Paper,Mark Sutton,Closing Bell,N,0,3,0,0
+197,197,7000106185,Jim Cramer ,Trex,Jim Cline,Mad Money’s,N,6,6,34,28
+198,198,7000106178,Jim Cramer,Wingstop,Charlie Morrison,Mad Money’s,N,19,19,49,31
+199,199,7000106171,Jim Cramer ,Wingstop,Charles R. Morrison,Mad Money’s,N,0,0,27,27
+200,200,7000106085,Jon Fortt / Morgan Brennan / Carl Quintanilla,Lime,Brad Bao,Squawk Alley,N,5,2,0,0
+201,201,7000106073,David Faber,WarnerMedia,John Stankey,,N,0,0,0,0
+202,202,7000106048,Joe Kernen / Becky Quick / Andrew Ross Sorkin,Southern Company,Tom Fanning,Squawk Box,N,0,0,0,0
+203,203,7000105954,Jim Cramer ,Zebra Technologies,Anders Gustafsson,,,0,0,27,27
+204,204,7000105955,Jim Cramer,Zebra Technologies,Anders Gustafsson,Mad Money’s,N,6,6,38,29
+205,205,7000105899,Courtney Reagan / Unknown / Unknown,Lululemon,Calvin McDonald,,N,0,0,0,0
+206,206,7000105866,Phil LeBeau,Boeing,Dennis Muilenburg,,N,0,0,0,0
+207,207,7000105860,Andrew Ross Sorkin / Phil LeBeau,General Motors,Dhivya Suryadevara,,,0,7,0,0
+208,208,7000105855,Joe Kernen / Becky Quick / Andrew Ross Sorkin,Beyond Meat,Ethan Brown,Squawk Box,N,0,3,0,0
+209,209,7000105849,Joe Kernen / Becky Quick / Andrew Ross Sorkin,"AutoNation,",Cheryl Miller,Squawk Box,N,0,0,4,0
+210,210,7000105715,Kelly Evans,Allbirds,Tim Brown,The Exchange,N,0,0,0,0
+211,211,7000105718,Kelly Evans,Quicken Loans,Jay Farner,The Exchange,N,0,0,0,0
+212,212,7000105696,Jon Fortt / Morgan Brennan / Carl Quintanilla,Untuckit,Aaron Sanandres,Squawk Alley,N,0,0,0,0
+213,213,7000105677,Morgan Brennan,Virgin Galactic,Sir Richard Branson / George Whitesides / Chamath Palihapitiya,,Y,0,0,0,0
+214,214,7000105467,Jim Cramer,Ellevest,Sallie L. Krawcheck,,,0,0,27,27
+215,215,7000105454,Jim Cramer,American Airlines,Doug Parker,,N,0,0,28,28
+216,216,7000105458,Jim Cramer,American Airlines,Doug Parker,,N,6,6,33,30
+217,217,7000105385,Jon Fortt,NetApp,George Kurian,Squawk Alley,N,0,0,0,0
+218,218,7000105356,Phil LeBeau / Andrew Ross Sorkin,United Airlines,Oscar Munoz,,N,0,0,0,0
+219,219,7000105353,Becky Quick / Andrew Ross Sorkin,Tesla / Baron Capital,Robyn Denholm / Ron Baron,Squawk Box,Y,0,0,0,0
+220,220,7000105346,Becky Quick,Brookfield Asset Management / Baron Capital ,Bruce Flatt / Ron Baron,,Y,0,0,0,0
+221,221,7000105351,Becky Quick,Tesla / Baron Capital,Robyn Denholm / Ron Baron,Squawk Box,Y,0,0,0,0
+222,222,7000105256,Jim Cramer,American Electric Power,Nick Akins,Mad Money’s,N,7,7,34,28
+223,223,7000105239,Jim Cramer,Centene,Michael Neidorff,Mad Money’s,N,6,7,42,28
+224,224,7000105180,David Faber / Leslie Picker,Align Technology,Joe Hogan,Squawk on the Street,N,0,0,0,0
+225,225,7000105173,Jim Cramer / Carl Quintanilla  / David Faber,Southwest Airlines,Gary Kelly,Squawk Box,N,0,15,0,0
+226,226,7000105170,Jim Cramer,Dow,Jim Fitterling,Squawk on the Street,N,0,0,0,0
+227,227,7000105165,Becky Quick / Andrew Ross Sorkin,Twitter,Ned Segal,Squawk Box,N,0,0,0,0
+228,228,7000105057,Jim Cramer,ServiceNow,John Donahoe,Mad Money’s,N,0,0,28,28
+229,229,7000105036,Jim Cramer,CSX,Jim Foote,Mad Money’s,N,0,0,27,27
+230,230,7000105040,Jim Cramer,CSX,Jim Foote,Mad Money’s,N,16,16,42,29
+231,231,7000105011,Wilfred Frost / Morgan Brennan,Hawaiian Holdings,Peter Ingram,Closing Bell,N,0,0,0,0
+232,232,7000104991,Kate Rogers / Kelly Evans,Chipotle,Brian Niccol,The Exchange,N,0,3,0,0
+233,233,7000104961,David Faber / Jim Cramer,ServiceNow,Bill McDermott,Squawk on the Street,N,0,0,0,0
+234,234,7000104946,Joe Kernen / Becky Quick / Andrew Ross Sorkin,Nasdaq,Adena Friedman,Squawk Box,N,0,4,24,0
+235,235,7000104950,Joe Kernen / Becky Quick / Andrew Ross Sorkin,Honeywell,Darius Adamczyk,Squawk Box,N,0,0,20,0
+236,236,7000104948,Joe Kernen / Becky Quick / Andrew Ross Sorkin / Unknown (recording),Biogen,Michel Vounatsos,Squawk Box,N,0,9,0,0
+237,237,7000104874,Jim Cramer,Victress Capital, Lori Cashman / Suzanne Norris,Mad Money’s,Y,9,9,40,30
+238,238,7000104873,Jim Cramer,,,Mad Money’s,,9999,5,9999,9999
+239,239,7000104870,Jim Cramer,Logitech,Bracken Darrell,Mad Money’s,N,6,6,31,28
+240,240,7000104868,Jim Cramer,Hasbro,Brian Goldner,,N,6,6,44,30
+241,241,7000104811,Meg Tirrell / Kelly Evans,Vertex Pharmaceuticals,Jeffrey Leiden,The Exchange,N,0,0,0,0
+242,242,7000104781,Leslie Picker / Carl Quintanilla  / David Faber,Nordstrom,Erik Nordstrom,Squawk on the Street,N,0,0,0,0
+243,243,7000104808,Julia Boorstin,Disney,Bob Iger,,N,0,0,0,0
+244,244,7000104783,Julia Boorstin,Discovery,David Zaslav,,N,0,0,0,0
+245,245,7000104775,Jim Cramer / Carl Quintanilla  / David Faber,UPS,David Abney,,N,0,0,0,0
+246,246,7000104762,Courtney Reagan,Under Armour,Kevin Plank / Patrik Frisk,,Y,0,0,0,0
+247,247,7000104761,Joe Kernen / Becky Quick / Courtney Reagan,Under Armour,Kevin Plank / Patrik Frisk,,Y,0,0,0,0
+248,248,7000104637,Jim Cramer,StockX,Scott Cutler,Mad Money’s,N,0,0,28,28
+249,249,7000104632,Jim Cramer,StockX,Scott Cutler,Mad Money’s,N,0,0,28,28
+250,250,7000104623,Jim Cramer,StockX,Scott Cutler,Mad Money’s,N,18,19,42,28
+251,251,7000104530,Morgan Brennan / Carl Quintanilla  / David Faber,Inspire Brands,Paul Brown,Squawk on the Street,N,0,5,0,0
+252,252,7000104120,Tyler Mathisen / Kelly Evans,Reata Pharma,Warren Huff,Power Lunch,N,0,0,0,0
+253,253,7000104056,Joe Kernen / Andrew Ross Sorkin,WD-40,Garry Ridge,Squawk Box,N,0,0,0,0
+254,254,7000104037,Joe Kernen / Andrew Ross Sorkin / Unknown,Snap-On,Nick Pinchuk,Squawk Box,N,0,1,38,0
+255,255,7000103980,Jim Cramer,Arrowhead Pharmaceuticals,Christopher Anzalone,Mad Money’s,N,6,6,35,29
+256,256,7000103942,Wilfred Frost ,Goldman Sachs,David Solomon,,N,0,0,0,0
+257,257,7000103943,Wilfred Frost ,Goldman Sachs,David Solomon,,N,0,0,0,0
+258,258,7000103883,Courtney Reagan / Carl Quintanilla  / David Faber,Union Pacific,Lance Fritz,Squawk on the Street,N,0,0,0,0
+259,259,7000103840,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,Thrive Global,Arianna Huffington,Squawk Box,N,0,0,16,0
+260,260,7000103767,Jim Cramer,Wex,Melissa Smith,Mad Money’s,N,6,6,37,29
+261,261,7000103747,Jim Cramer,Salesforce,Marc Benioff,Mad Money’s,N,0,0,28,28
+262,262,7000103745,Jim Cramer,Salesforce,Marc Benioff,Mad Money’s,N,0,0,27,27
+263,263,7000103775,Jim Cramer,Salesforce,Marc Benioff,Mad Money’s,N,6,6,35,28
+264,264,7000103693,Jon Fortt / Carl Quintanilla,Virgin / Under Armour,Sir Richard Branson / Kevin Plank,Squawk Alley,Y,0,0,0,0
+265,265,7000103669,Jim Cramer / Carl Quintanilla  / David Faber,Salesforce,Marc Benioff,Squawk on the Street,N,0,0,0,0
+266,266,7000103644,Phil LeBeau / Becky Quick,Volvo,Håkan Samuelsson,,N,0,0,0,0
+267,267,7000103648,Phil LeBeau / Andrew Ross Sorkin / Becky Quick / Unknown,United Airlines,Oscar Munoz,,N,0,0,0,0
+268,268,7000103464,Joe Kernen / Andrew Ross Sorkin / Becky Quick,CalPERS,Marcie Frost ,Squawk Box,N,0,0,0,0
+269,269,7000103451,Joe Kernen / Andrew Ross Sorkin / Becky Quick,BlackRock,Larry Fink,Squawk Box,N,0,2,22,0
+270,270,7000103443,Joe Kernen / Andrew Ross Sorkin / Unknown,Johnson & Johnson,Joseph Wolk,Squawk Box,N,0,0,0,0
+271,271,7000103440,Joe Kernen / Andrew Ross Sorkin / Becky Quick,BlackRock,Larry Fink,Squawk Box,N,0,0,0,0
+272,272,7000103439,Joe Kernen / Andrew Ross Sorkin / Becky Quick,BlackRock,Larry Fink,Squawk Box,N,0,0,0,0
+273,273,7000103266,Carl Quintanilla / Morgan Brennan / Leslie Picker,PAG,Weijian Shan,Squawk on the Street,N,0,0,0,0
+274,274,7000103252,Joe Kernen / Andrew Ross Sorkin / Becky Quick,The Operation Hope,John Hope Bryant,,N,0,0,3,0
+275,275,7000103065,Jim Cramer,Mickey Drexler,Mickey Drexler ,,N,0,0,28,28
+276,276,7000103050,Jim Cramer,Wendy’s,Todd Penegor ,,N,9,10,50,33
+277,277,7000103047,Jim Cramer,Wendy’s,Todd Penegor ,,N,0,0,28,28
+278,278,7000102935,Joe Kernen,SAP,Bill McDermott,Squawk Box,N,4,2,16,0
+279,279,7000102853,Jim Cramer,J. Crew,Mickey Drexler,,N,8,9,44,27
+280,280,7000102856,Jim Cramer,Hormel Foods,Jim Snee ,,N,6,7,40,29
+281,281,7000102855,Jim Cramer,Hormel Foods,Jim Snee,,N,0,0,27,27
+282,282,7000102754,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Turning Point Therapeutics,Dr. Athena Countouriotis,Squawk Box,N,0,0,11,0
+283,283,7000102739,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Delta Air Lines,Ed Bastian,Squawk Box,N,0,0,0,0
+284,284,7000102738,Joe Kernen,Delta Air Lines,Ed Bastian,Squawk Box,N,0,0,0,0
+285,285,7000102744,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Delta Air Lines,Ed Bastian,Squawk Box,N,0,15,0,0
+286,286,7000102579,Jon Fortt / Morgan Brennan / Carl Quintanilla,DataWallet,Serafin Lion Engel,Squawk Alley,N,0,0,0,0
+287,287,7000102445,Jim Cramer,Domino’s,Ritch Allison,,N,0,0,27,27
+288,288,7000102446,Jim Cramer,Domino’s,Ritch Allison,,N,9,9,49,31
+289,289,7000102286,Jim Cramer,RingCentral,Vlad Shmunis,Mad Money’s,N,18,18,44,29
+290,290,7000101890,Jon Fortt / Morgan Brennan / Carl Quintanilla,Vice Media,Nancy Dubuc,Squawk Alley,N,0,5,0,0
+291,291,7000101727,Jim Cramer,Constellation Brands,Bill Newlands,,N,6,6,35,29
+292,292,7000101726,Jim Cramer,Constellation Brands,Bill Newlands,,N,0,0,28,28
+293,293,7000101526,Jim Cramer,Paychex,Marty Mucci,Mad Money’s,N,6,6,38,28
+294,294,7000101525,Jim Cramer,Paychex,Marty Mucci,Mad Money’s,N,0,0,28,28
+295,295,7000101403,Becky Quick,Adidas,Kasper Rorsted,Squawk Box,N,0,0,0,0
+296,296,7000101314,Jim Cramer,Consolidated Edison,John McAvoy,Mad Money’s,N,6,7,37,28
+297,297,7000101241,Jon Fortt / Morgan Brennan / Carl Quintanilla,Snowflake,Frank Slootman,Squawk Alley,N,0,0,0,0
+298,298,7000101240,Jon Fortt / Morgan Brennan / Carl Quintanilla,UPS,David Abney,Squawk Alley,N,0,0,0,0
+299,299,7000101223,David Faber,U.S. Steel,David Burritt,Squawk on the Street,N,0,5,0,0
+300,300,7000101200,Becky Quick / Andrew Ross Sorkin / Michael Santoli(*),IWG,Mark Dixon,Squawk Box,N,0,0,0,0
+301,301,7000101203,Becky Quick / Andrew Ross Sorkin / Michael Santoli(*),Papa John's,Rob Lynch,Squawk Box,N,0,11,0,0
+302,302,7000101191,Michael Santoli,Paychex,Marty Mucci,Squawk Box,N,0,0,0,0
+303,303,7000100862,Jim Cramer,GoodRX,Doug Hirsch,Mad Money’s,N,0,0,27,27
+304,304,7000100858,Jim Cramer,GoodRX,Doug Hirsch,Mad Money’s,N,8,9,48,28
+305,305,7000100754,Jim Cramer / Carl Quintanilla  / David Faber,Micron,Sanjay Mehrotra,Squawk on the Street,N,0,0,0,0
+306,306,7000100752,Jim Cramer,Micron,Sanjay Mehrotra,Squawk on the Street,N,0,0,0,0
+307,307,7000100739,Joe Kernen / Wilfred Frost / Becky Quick / Unknown,Vining Sparks,Marty Mosby,Squawk Box,N,0,0,0,0
+308,308,7000100736,Joe Kernen / Becky Quick / Unknown,DraftKings,Jason Robins,Squawk Box,N,0,0,0,0
+309,309,7000100735,Joe Kernen,DraftKings,Jason Robins,Squawk Box,N,0,0,0,0
+310,310,7000100669,Jim Cramer,Taylor Morrison,Sheryl Palmer,,N,6,6,36,28
+311,311,7000100670,Jim Cramer,Taylor Morrison,Sheryl Palmer,,N,0,0,28,28
+312,312,7000100579,David Faber ,IBM / Verizon / Qualcomm,Ginni Rometty / Hans Vestberg / Steven Mollenkopf,,Y,0,0,0,0
+313,313,7000100440,Tyler Mathisen /Becky Quick,United Airlines,Oscar Munoz,,,7,7,0,0
+314,314,7000100558,Jim Cramer / David Faber,Philip Morris ,Andre Calantzopoulos,Squawk on the Street,N,0,0,0,0
+315,315,7000100560,Jim Cramer / David Faber,Philip Morris ,Andre Calantzopoulos,Squawk on the Street,N,0,0,0,0
+316,316,7000100557,David Faber,Philip Morris ,Andre Calantzopoulos,Squawk on the Street,N,0,0,0,0
+317,317,7000100545,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Discovery,David Zaslav,Squawk Box,N,0,0,35,0
+318,318,7000100548,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Peloton,John Foley,Squawk Box,N,0,0,0,0
+319,319,7000100547,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Peloton,John Foley,Squawk Box,N,0,0,0,0
+320,320,7000100546,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Discovery,David Zaslav,Squawk Box,N,0,0,0,0
+321,321,7000100471,Jim Cramer,Twilio,Jeff Lawson,,N,6,11,35,29
+322,322,7000100472,Jim Cramer,Twilio,Jeff Lawson,,N,0,0,27,27
+323,323,7000100351,Courtney Reagan,Best Buy,Corie Barry,,N,0,0,0,0
+324,324,7000100333,Courtney Reagan,Best Buy,Corie Barry,,N,0,0,0,0
+325,325,7000100262,Jim Cramer,GW Pharmaceuticals,Justin Gover ,,N,6,7,39,28
+326,326,7000100260,Jim Cramer,Disney,Bob Iger,Mad Money’s,N,6,10,45,30
+327,327,7000100213,Kate Rogers,Domino’s,Ritch Allison,Power Lunch,Y,0,0,0,0
+328,328,7000100149,Andrew Ross Sorkin / Becky Quick,Motorola Solutions,Greg Brown,SQUAWK BOX,Y,0,3,0,0
+329,329,7000100150,Joe Kernen / Becky Quick,United Airlines,Oscar Munoz,SQUAWK BOX,Y,0,4,0,0
+330,330,7000100134,Joe Kernen / Andrew Ross Sorkin / Unknown,Match Group Group,Mandy Ginsberg,SQUAWK BOX,Y,0,2,33,0
+331,331,7000100081,Jim Cramer,Nutanix,Dheeraj Pandey,MAD MONEY WITH JIM CRAMER,N,6,7,55,29
+332,332,7000100082,Jim Cramer,Canopy Growth,Mark Zekulin,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+333,333,7000100072,Jim Cramer,Canopy Growth,Mark Zekulin,MAD MONEY WITH JIM CRAMER,N,6,6,40,31
+334,334,7000100014,Kelly Evans,Allianz,Olive Bäte,THE EXCHANGE,N,0,0,0,0
+335,335,7000099781,Jim Cramer,Zscaler ,Jay Chaudhry,MAD MONEY WITH JIM CRAMER,N,6,7,40,28
+336,336,7000099651,Bertha Coombs / Joe Kernen / Becky Quick,Humana,Bruce Broussard,SQUAWK BOX,N,0,14,0,0
+337,337,7000099566,Jim Cramer,Expedia Group ,Mark Okerstrom,MAD MONEY WITH JIM CRAMER,N,6,6,38,29
+338,338,7000099517,Leslie Picker / Joe Kernen,PIMCO / Vice President of the United States / Omega Advisors,Emmanuel Roman / Mike Pence / Leon Cooperman / Unknown / Unknown / Unknown,POWER LUNCH,Y,0,0,0,0
+339,339,7000099375,Jim Cramer,Cronos,Mike Gorenstein,MAD MONEY WITH JIM CRAMER,N,6,6,40,29
+340,340,7000099373,Jim Cramer,Tech Data,Rich Hume,MAD MONEY WITH JIM CRAMER,N,6,6,35,28
+341,341,7000099370,Jim Cramer,Agco,Martin Richenhagen,MAD MONEY WITH JIM CRAMER,N,24,25,42,34
+342,342,7000099367,Jim Cramer,,,MAD MONEY WITH JIM CRAMER,,9,8,52,42
+343,343,7000099308,Seema Mody,Booking Holdings,Glenn Fogel,THE EXCHANGE,N,0,0,0,0
+344,344,7000099159,Jim Cramer,Adobe,Shantanu Narayen,MAD MONEY WITH JIM CRAMER,N,6,7,50,28
+345,345,7000099106,Brian Sullivan,Tellurian,Meg Gentle,THE EXCHANGE,N,0,0,0,0
+346,346,7000099073,David Faber ,Viacom,Bob Bakish,SQUAWK ALLEY,N,0,0,0,0
+347,347,7000099072,David Faber ,Viacom,Bob Bakish,SQUAWK ALLEY,N,0,0,0,0
+348,348,7000099053,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Blackstone ,Stephen Schwarzman,SQUAWK BOX,Y,0,0,2,0
+349,349,7000098909,Kelly Evans / Meg Tirrell(*),Aimmune Therapeutics,Dr. Jayson Dallas,THE EXCHANGE,N,0,0,0,0
+350,350,7000098522,Jim Cramer,CrowdStrike,George Kurtz,MAD MONEY WITH JIM CRAMER,N,6,7,41,29
+351,351,7000098430,Carl Quintanilla / Courtney Reagan / David Faber,Continental Resources,Harold Hamm,SQUAWK ON THE STREET,Y,0,0,0,0
+352,352,7000098188,Joe Kernen / Becky Quick / Michael Santoli(*),Bumble,Whitney Wolfe Herd,SQUAWK BOX,Y,0,0,0,0
+353,353,7000098089,Jim Cramer,Vmware,Sanjay Poonen,MAD MONEY WITH JIM CRAMER,N,6,7,50,29
+354,354,7000097993,Josh Lipton / Jon Fortt,Google Cloud,Thomas Kurian,SQUAWK ALLEY,Y,0,0,0,0
+355,355,7000097981,Meg Tirrell,Baxter,José Almeida,SQUAWK ON THE STREET,N,0,0,0,0
+356,356,7000097966,Joe Kernen / Becky Quick / Michael Santoli(*),Cantor Fitzgerald,Howard Lutnick,SQUAWK BOX,Y,0,0,0,0
+357,357,7000097961,Joe Kernen / Becky Quick / Michael Santoli(*),Microsoft,Brad Smith,SQUAWK BOX,Y,0,0,29,0
+358,358,7000097957,Joe Kernen / Becky Quick / Michael Santoli(*),Microsoft,Brad Smith,SQUAWK BOX,Y,0,0,0,0
+359,359,7000097880,Jim Cramer,Alteryx,Dean Stoecker,MAD MONEY WITH JIM CRAMER,N,6,7,41,29
+360,360,7000097876,Jim Cramer,Zoom Video Communications,Eric Yuan,MAD MONEY WITH JIM CRAMER,N,6,7,49,29
+361,361,7000097795,Morgan Brennan,Polaris,Scott Wine,SQUAWK ALLEY,Y,0,0,0,0
+362,362,7000097796,Jon Fortt / Morgan Brennan / Carl Quintanilla,Verishop,Imran Khan,,,0,0,0,0
+363,363,7000097780,David Faber,Altice USA,Dexter Goei,SQUAWK ON THE STREET,Y,0,0,0,0
+364,364,7000097534,Jim Cramer,Talend / Splunk / Equinix,Mike Tuchen / Doug Merritt / Charles Meyers,MAD MONEY WITH JIM CRAMER,Y,9999,9999,9999,9999
+365,365,7000097566,Jim Cramer,At Home,Lee Bird,MAD MONEY WITH JIM CRAMER,N,28,29,38,29
+366,366,7000042754,Andrew Ross Sorkin / Unknown,DocuSign,Dan Springer,SQUAWK BOX,Y,0,0,0,0
+367,367,7000097307,Kelly Evans,Choice Hotel,Pat Pacious,THE EXCHANGE,N,0,0,0,0
+368,368,7000097257,Jim Cramer / David Faber,Palo Alto,Nikesh Arora,SQUAWK ON THE STREET,Y,0,0,0,0
+369,369,7000097250,Andrew Ross Sorkin / Becky Quick,Slack,Stewart Butterfield,SQUAWK BOX,Y,0,3,0,0
+370,370,7000097244,Andrew Ross Sorkin / Becky Quick,Slack,Stewart Butterfield,SQUAWK BOX,Y,0,3,0,0
+371,371,7000097242,"Andrew Ross Sorkin / Eric Cantor (Guest Host, Moelis & Co)",Canopy Growth,Mark Zekulin,SQUAWK BOX,N,0,0,4,0
+372,372,7000097118,Kelly Evans / Melissa Lee(*),Planet Fitness,Chris Rondeau,POWER LUNCH,Y,0,0,0,0
+373,373,7000096907,Kelly Evans,Casabella,Bruce Kaminstein,THE EXCHANGE,N,0,0,0,0
+374,374,7000096867,Seema Mody / David Faber,Ethan Allen,Farooq Kathwari,SQUAWK ON THE STREET,Y,0,0,0,0
+375,375,7000045051,Andrew Ross Sorkin,WarnerMedia,John Stankey,POWER LUNCH,N,0,0,0,0
+376,376,7000096405,David Faber / Sara Eisen / Michael Santoli,BNP Paribas USA,Jean-Yves Fillion,SQUAWK ON THE STREET,Y,0,4,0,0
+377,377,7000096225,David Faber / Sara Eisen,Columbia Sportswear,Tim Boyle,SQUAWK ON THE STREET,Y,0,6,0,0
+378,378,7000096206,Joe Kernen / Becky Quick / Unknown,EY global,Carmine Di Sibio,SQUAWK BOX,Y,0,0,0,0
+379,379,7000096031,Jon Fortt / Leslie Picker,Hewlett Packard Enterprise,Antonio Neri,SQUAWK ALLEY,Y,0,0,0,0
+380,380,7000096037,Jon Fortt / Leslie Picker / Sara Eisen,Puris,Tyler Lorenzen,SQUAWK ALLEY,Y,0,0,0,0
+381,381,7000096034,Jon Fortt,Autodesk,Andrew Anagnos,SQUAWK ALLEY,Y,0,0,0,0
+382,382,7000095920,Jim Cramer,Splunk,Doug Merritt,MAD MONEY WITH JIM CRAMER,N,6,7,37,29
+383,383,7000095924,Jim Cramer,Nestlé Global,Mark Schneider,MAD MONEY WITH JIM CRAMER,N,21,22,35,29
+384,384,7000095825,Jim Cramer / Sara Eisen / David Faber,Hasbro,Brian Goldner,SQUAWK ON THE STREET,Y,0,0,0,0
+385,385,7000095701,Jim Cramer,Starbucks,Kevin Johnson,MAD MONEY WITH JIM CRAMER,N,6,7,37,29
+386,386,7000095257,Jim Cramer,Talend,Mike Tuchen,MAD MONEY WITH JIM CRAMER,N,7,7,35,29
+387,387,7000095254,Jim Cramer,Salesforce,Keith Block,MAD MONEY WITH JIM CRAMER,N,21,22,41,29
+388,388,7000095253,Jim Cramer,Salesforce,Keith Block,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+389,389,7000095169,Morgan Brennan / Carl Quintanilla,Box,Aaron Levie,SQUAWK ALLEY,Y,0,0,0,0
+390,390,7000094973,Jon Fortt / Morgan Brennan,Jumia,Poignonnec (call),SQUAWK ALLEY,Y,0,0,0,0
+391,391,7000094952,Becky Quick,Bank of America,Brian Moynihan,SQUAWK BOX,N,0,0,0,0
+392,392,7000094951,Becky Quick,Bank of America,Brian Moynihan,SQUAWK BOX,N,0,0,0,0
+393,393,7000094807,Kate Rogers / Carl Quintanilla,Domino’s,Richard Allison,THE EXCHANGE,N,0,0,0,0
+394,394,7000094806,Kate Rogers,Domino’s,Richard Allison,THE EXCHANGE,N,0,0,13,0
+395,395,7000094744,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Canopy Growth Corporation,Bruce Linton,SQUAWK BOX,Y,0,0,0,0
+396,396,7000094644,Becky Quick,Fortune,Alan Murray,THE EXCHANGE,N,0,0,0,0
+397,397,7000094108,Jim Cramer,AMN Healthcare ,Susan Salka,MAD MONEY WITH JIM CRAMER,N,6,7,45,29
+398,398,7000094105,Jim Cramer,Waste Management,James Fish,MAD MONEY WITH JIM CRAMER,N,18,18,43,29
+399,399,7000094011,Jim Cramer / David Faber,Cisco,Chuck Robbins,SQUAWK ON THE STREET,Y,0,0,0,0
+400,400,7000094012,Jim Cramer,Cisco,Chuck Robbins ,SQUAWK ON THE STREET,Y,0,0,0,0
+401,401,7000093904,Jim Cramer,Village Farms,Michael DeGiglio,MAD MONEY WITH JIM CRAMER,N,6,7,41,30
+402,402,7000093812,Andrew Ross Sorkin,ViacomCBS,Robert Bakish,SQUAWK BOX,N,0,0,0,0
+403,403,7000093809,Kayla Tausche / Andrew Ross Sorkin,ViacomCBS,Robert Bakish,SQUAWK BOX,N,0,16,0,0
+404,404,7000093715,Jim Cramer,Novocure ,Bill Doyle,MAD MONEY WITH JIM CRAMER,N,6,7,35,28
+405,405,7000093711,Jim Cramer,Zebra Technologies,Anders Gustafsson,MAD MONEY WITH JIM CRAMER,N,20,20,38,28
+406,406,7000093621,Carl Quintanilla / Contessa Brewer,Scotts Miracle-Gro ,James Hagedorn,SQUAWK ON THE STREET,Y,0,0,0,0
+407,407,7000093505,Jim Cramer,Keurig DR Pepper Inc,Bob Gamgort ,MAD MONEY WITH JIM CRAMER,N,17,17,32,28
+408,408,7000093502,Jim Cramer,Take-Two ,Strauss Zelnick,MAD MONEY WITH JIM CRAMER,N,19,19,38,30
+409,409,7000093206,Scott Wapner / Courtney Reagan,Ansys,Ajei Gopal,POWER LUNCH,Y,0,0,0,0
+410,410,7000093177,Deirdre Bosa ,Dropbox,Drew Houston,SQUAWK ALLEY,Y,0,0,0,0
+411,411,7000093060,Jim Cramer,Five9,Rowan Trollope,MAD MONEY WITH JIM CRAMER,N,6,7,35,28
+412,412,7000093058,Jim Cramer,PetIQ,Cord Christensen,MAD MONEY WITH JIM CRAMER,N,6,6,44,30
+413,413,7000093057,Jim Cramer,PetIQ,Cord Christensen,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+414,414,7000092976,Morgan Brennan / David Faber / Michael Santoli,Roku,Anthony Wood,SQUAWK ALLEY,Y,0,0,0,0
+415,415,7000092942,Andrew Ross Sorkin / Melissa Lee(*) / John W. Schoen / Unknown,IAC,Joey Levin,SQUAWK BOX,Y,0,0,11,0
+416,416,7000092858,Jim Cramer,Kim Blickenstaff,Tandem Diabetes Car,MAD MONEY WITH JIM CRAMER,N,6,7,43,28
+417,417,7000092857,Jim Cramer,GW Pharmaceuticals,Justin Gover,MAD MONEY WITH JIM CRAMER,,6,7,37,28
+418,418,7000092774,Deirdre Bosa / Jon Fortt / Morgan Brennan / Sara Eisen,Visa,Al Kelly,SQUAWK ALLEY,N,0,0,0,0
+419,419,7000092667,Jim Cramer,Former Yankees (slugger) / Barstool Sports,Alex Rodriguez / Erika Nardini,MAD MONEY WITH JIM CRAMER,Y,12,14,45,34
+420,420,7000092659,Jim Cramer,Etsy,Josh Silverman,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+421,421,7000092661,Jim Cramer,Etsy,Josh Silverman,MAD MONEY WITH JIM CRAMER,N,12,17,34,34
+422,422,7000092450,Jim Cramer,Aphria interim,Irwin Simon,MAD MONEY WITH JIM CRAMER,N,0,0,0,0
+423,423,7000092085,Jon Fortt / Morgan Brennan,SurveyMonkey,Zander Lurie,SQUAWK ALLEY,Y,0,0,0,0
+424,424,7000092082,Jon Fortt / Morgan Brennan,DoorDash,Tony Xu,SQUAWK ALLEY,Y,0,0,0,0
+425,425,7000091967,Jim Cramer,SeatGeek,Russell D’Souza,MAD MONEY WITH JIM CRAMER,N,8,9,38,28
+426,426,7000091965,Jim Cramer,Hologic,Stephen MacMillan,MAD MONEY WITH JIM CRAMER,N,6,6,36,28
+427,427,7000091905,Aditi Roy,Pat Brown,Impossible Foods,THE EXCHANGE,N,0,0,0,0
+428,428,7000091882,Jon Fortt / Morgan Brennan / Carl Quintanilla,Dynatrace,John van Siclen,SQUAWK ALLEY,Y,0,0,0,0
+429,429,7000091880,Morgan Brennan,Virgin Orbit,Dan Hart,SQUAWK ALLEY,Y,0,0,0,0
+430,430,7000091879,Jon Fortt / Morgan Brennan,Zynga,Frank Gibeau,SQUAWK ALLEY,Y,0,0,0,0
+431,431,7000091872,Sara Eisen,Restaurant Brands,José Cil,SQUAWK ON THE STREET,Y,0,0,0,0
+432,432,7000091848,David Faber / Joe Kernen / Andrew Ross Sorkin,Verizon,Hans Vestberg ,SQUAWK BOX,N,0,0,0,0
+433,433,7000091851,Andrew Ross Sorkin,Verizon,Hans Vestberg ,SQUAWK BOX,N,0,0,0,0
+434,434,7000091760,Jim Cramer,Martin Marietta Materials,Howard Nye,MAD MONEY WITH JIM CRAMER,N,6,6,40,29
+435,435,7000091677,Jon Fortt / Morgan Brennan / Carl Quintanilla,Tom Leighton,Akamai ,SQUAWK ALLEY,Y,0,0,0,0
+436,436,7000091658,Jim Cramer,Advanced Micro Devices,Lisa Su,SQUAWK ON THE STREET,Y,0,0,0,0
+437,437,7000091648,Joe Kernen / Becky Quick,Southern Company,Thomas Fanning,SQUAWK BOX,Y,0,0,0,0
+438,438,7000091551,Jim Cramer,NYSE,Stacey Cunningham,MAD MONEY WITH JIM CRAMER,N,7,8,35,29
+439,439,7000091547,Jim Cramer,Levi’s,Charles Bergh,MAD MONEY WITH JIM CRAMER,N,25,25,34,29
+440,440,7000091491,Scott Wapner,The Gabelli Funds,Mario Gabelli / Unknown / Unknown / Unknown / Unknown / Unknown,HALFTIME REPORT,N,0,0,0,0
+441,441,7000091490,Scott Wapner,The Gabelli Funds,Mario Gabelli / Unknown / Unknown / Unknown / Unknown / Unknown,HALFTIME REPORT,N,0,0,0,0
+442,442,7000091472,Jon Fortt / Morgan Brennan / Carl Quintanilla,Philip Morris,André Calantzopoulos,SQUAWK ALLEY,Y,0,0,0,0
+443,443,7000091442,Joe Kernen / Melissa Lee(*),Eli Lilly ,David Ricks,SQUAWK BOX,Y,0,0,0,0
+444,444,7000091440,Joe Kernen / Melissa Lee(*) / Andrew Ross Sorkin / Unknown,Procter & Gamble,Jon Moeller,,,0,6,0,0
+445,445,7000091433,Joe Kernen / Melissa Lee(*) / Andrew Ross Sorkin,Compass,Robert Reffkin,SQUAWK BOX,Y,5,8,0,0
+446,446,7000091356,Jim Cramer,Exact Sciences ,Kevin Conroy,MAD MONEY WITH JIM CRAMER,N,7,7,50,30
+447,447,7000091361,Jim Cramer,Agnico Eagle Mines,Sean Boyd,MAD MONEY WITH JIM CRAMER,N,6,7,35,29
+448,448,7000091242,Joe Kernen / Andrew Ross Sorkin / Phil LeBeau / Michael Santoli,Caryn Seidman-Becker,CLEAR,SQUAWK BOX,Y,0,0,0,0
+449,449,7000090976,Carl Quintanilla / Sara Eisen / David Faber,Expedia Group,Mark Okerstrom,SQUAWK ON THE STREET,Y,0,0,0,0
+450,450,7000090965,Carl Quintanilla / Sara Eisen / David Faber,Starbucks,Kevin Johnson,SQUAWK ON THE STREET,Y,0,0,0,0
+451,451,7000090964,Sara Eisen / David Faber,Starbucks,Kevin Johnson,SQUAWK ON THE STREET,Y,0,0,0,0
+452,452,7000090950,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Waste Management,Jim Fish,SQUAWK BOX,Y,0,3,0,0
+453,453,7000090857,Jim Cramer,Align Technology,Joe Hogan,MAD MONEY WITH JIM CRAMER,N,6,7,50,30
+454,454,7000090855,Jim Cramer,Royal Caribbean ,Richard Fain,MAD MONEY WITH JIM CRAMER,N,17,18,33,29
+455,455,7000090856,Jim Cramer,Royal Caribbean ,Richard Fain,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+456,456,7000090808,Tyler Mathisen / Melissa Lee(*),Group 1 Auto,Earl Hesterberg,POWER LUNCH,Y,0,0,0,0
+457,457,7000090798,Phil LeBeau / Kelly Evans,American Airlines,Doug Parke,THE EXCHANGE,N,1,0,0,0
+458,458,7000090758,Jim Cramer / Carl Quintanilla  / David Faber,Southwest Airlines,Gary Kelly,Squawk Box,Y,0,0,0,0
+459,459,7000090757,Jim Cramer,Southwest Airlines,Gary Kelly,Squawk Box,Y,0,0,0,0
+460,460,7000090740,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Taboola,Adam Singolda,SQUAWK BOX,Y,0,0,0,0
+461,461,7000090662,Jim Cramer,ServiceNow,John Donahoe ,MAD MONEY WITH JIM CRAMER,N,6,7,32,29
+462,462,7000090657,Jim Cramer,First Horizon,Bryan Jordan,MAD MONEY WITH JIM CRAMER,N,6,7,35,29
+463,463,7000090604,Meg Tirrell,Sage,Jeff Jonas,POWER LUNCH,Y,0,0,0,0
+464,464,7000090592,Kate Rogers,Beyond Meat / Dunkin’,Ethan Brown / David Hoffman,THE EXCHANGE,Y,2,0,0,0
+465,465,7000090569,Carl Quintanilla / Sara Eisen / David Faber,Chubb,Evan Greenberg,SQUAWK ON THE STREET,Y,0,0,0,0
+466,466,7000090562,Jim Cramer / Carl Quintanilla  / David Faber,UPS,David Abney ,SQUAWK ON THE STREET,Y,0,0,0,0
+467,467,7000090549,Phil LeBeau / Joe Kernen,GM Cruise,Dan Ammann,SQUAWK BOX,N,0,12,0,0
+468,468,7000090537,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Nasdaq,Adena Friedman,SQUAWK BOX,Y,0,0,16,0
+469,469,7000090465,Jim Cramer,FUBU,Daymond John,MAD MONEY WITH JIM CRAMER,N,8,9,41,29
+470,470,7000090460,Jim Cramer,Hasbro,Brian Goldner,MAD MONEY WITH JIM CRAMER,N,6,7,35,30
+471,471,7000090360,Sara Eisen,Coca-Cola,James Quincey,SQUAWK ON THE STREET,Y,0,0,0,0
+472,472,7000090358,Sara Eisen,Coca-Cola,James Quincey,SQUAWK ON THE STREET,Y,0,0,0,0
+473,473,7000090343,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*),AutoNation,Mike Jackson / Cheryl Miller ,SQUAWK BOX,Y,0,5,0,0
+474,474,7000090251,Jim Cramer,Home Depot,Carol Tomé,,,0,0,28,28
+475,475,7000090250,Jim Cramer,Home Depot,Carol Tomé,MAD MONEY WITH JIM CRAMER,N,6,6,36,30
+476,476,7000090219,Sara Eisen,Equifax,Mark Begor,CLOSING BELL,Y,0,0,0,0
+477,477,7000089931,Jon Fortt / Leslie Picker / Carl Quintanilla,Medallia,Leslie Stretch,SQUAWK ALLEY,Y,0,0,0,0
+478,478,7000089888,Joe Kernen / Becky Quick,BlackRock,Larry Fink,SQUAWK BOX,Y,0,0,15,0
+479,479,7000089882,Joe Kernen / Becky Quick,BlackRock,Larry Fink,SQUAWK BOX,Y,0,0,0,0
+480,480,7000089883,Joe Kernen / Becky Quick,BlackRock,Larry Fink,SQUAWK BOX,Y,0,0,0,0
+481,481,7000089813,Jim Cramer,Nucor,John Ferriola,MAD MONEY WITH JIM CRAMER,N,6,6,33,29
+482,482,7000089526,Morgan Brennan / Carl Quintanilla,Turo,Andre Haddad,SQUAWK ALLEY,Y,0,0,0,0
+483,483,7000089500,Phil LeBeau / Andrew Ross Sorkin ,United Airlines,Oscar Munoz,SQUAWK BOX,N,0,0,0,0
+484,484,7000089496,Joe Kernen / Andrew Ross Sorkin / Becky Quick /Kevin O’Leary,IAC,Joey Levin,SQUAWK BOX,Y,0,3,0,0
+485,485,7000089414,Jim Cramer,Domino’s,Ritch Allison,MAD MONEY WITH JIM CRAMER,N,6,7,40,30
+486,486,7000089367,Tyler Mathisen,Snap-On,Nick Pinchuk,POWER LUNCH,N,0,0,0,0
+487,487,7000089291,Joe Kernen / Becky Quick / Meg Tirrell ,Johnson & Johnson,Joseph Wolk,SQUAWK BOX,Y,0,5,0,0
+488,488,7000089216,Jim Cramer,VMWare,Sanjay Poonen,MAD MONEY WITH JIM CRAMER,N,6,6,42,29
+489,489,7000089114,Meg Tirrell / Wilfred Frost /Melissa Lee(*),Gilead Sciences,Daniel O’Day,SQUAWK BOX,N,0,0,0,0
+490,490,7000088882,Morgan Brennan / Deirdre Bosa,Caliva,Dennis O’Malley,SQUAWK ALLEY,Y,0,0,0,0
+491,491,7000088867,Phil LeBeau,Ford / Volkswagen Group,Jim Hackett / Herbert Diess,SQUAWK ON THE STREET,Y,0,0,0,0
+492,492,7000088849,Julia Boorstin,IAC,Joey Levin,SQUAWK BOX,N,0,0,0,0
+493,493,7000088654,Julia Boorstin,Wasserman,Casey Wasserman,SQUAWK BOX,N,0,0,0,0
+494,494,7000088645,Julia Boorstin,Verizon,Hans Vestberg,SQUAWK BOX,N,0,0,0,0
+495,495,7000088641,Julia Boorstin,Verizon,Hans Vestberg,SQUAWK BOX,N,0,0,0,0
+496,496,7000088640,Phil LeBeau / Melissa Lee(*),Delta Air Lines,Ed Bastian,SQUAWK BOX,N,0,0,0,0
+497,497,7000088447,Julia Boorstin,the dtx company,Tim Armstrong,,N,0,0,0,0
+498,498,7000088437,Julia Boorstin,Discovery Communications,David Zaslav,SQUAWK BOX,N,0,0,0,0
+499,499,7000088438,Julia Boorstin,Discovery Communications,David Zaslav,SQUAWK BOX,N,0,0,0,0
+500,500,7000088286,Morgan Brennan / Carl Quintanilla / Deirdre Bosa,Quip,Simon Enever,SQUAWK ALLEY,Y,0,0,0,0
+501,501,7000088268,Carl Quintanilla / Sara Eisen / David Faber,General Mills,Jeff Harmening,SQUAWK ON THE STREET,Y,0,0,0,0
+502,502,7000088258,Jim Cramer / David Faber,IBM / Red Hat,Ginni Rometty / Jim Whitehurst,SQUAWK ON THE STREET,Y,0,0,0,0
+503,503,7000088259,Jim Cramer,IBM / Red Hat,Ginni Rometty / Jim Whitehurst,SQUAWK ON THE STREET,Y,0,0,0,0
+504,504,7000088249,Joe Kernen / Michael Santoli / Melissa Lee(*),Virgin Group / Social Capital,Richard Branson / Chamath Palihapitiya,Squawk Box,Y,0,0,27,0
+505,505,7000088142,Jim Cramer,Constellation Brands,Bill Newlands,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+506,506,7000088144,Jim Cramer,Vici Propeties,Ed Pitoniak,MAD MONEY WITH JIM CRAMER,N,22,22,39,28
+507,507,7000088080,Deirdre Bosa / Morgan Brennan / Carl Quintanilla,Billionaire Tech,Tom Siebel,SQUAWK ALLEY,Y,0,0,0,0
+508,508,7000088073,Morgan Brennan / Carl Quintanilla / David Faber,IMAX,Richard Gelfond,SQUAWK ON THE STREET,Y,0,0,0,0
+509,509,7000087770,Deirdre Bosa / Morgan Brennan / Wilfred Frost,DataWallet,Serafin Lion Engel,SQUAWK ALLEY,Y,0,0,0,0
+510,510,7000087593,Deirdre Bosa / Morgan Brennan,STRIVR,Derek Belch,SQUAWK ALLEY,Y,0,4,0,0
+511,511,7000087556,Melissa Lee(*) / Andrew Ross Sorkin / Wilfred Frost / Kevin O’Leary / Unknown,Canopy Growth,Bruce Linton (call),SQUAWK BOX,Y,0,1,0,0
+512,512,7000087549,Melissa Lee(*) / Andrew Ross Sorkin / Wilfred Frost / Kevin O’Leary,Canopy Growth,Bruce Linton (call),SQUAWK BOX,Y,0,3,0,0
+513,513,7000087382,Deirdre Bosa / Morgan Brennan / Sara Eisen,CNEX Labs,Alan Armstrong,SQUAWK ALLEY,Y,0,0,0,0
+514,514,7000087336,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Peek.com,Ruzwana Bashir,SQUAWK BOX,Y,0,3,0,0
+515,515,7000086976,Kelly Evans / Tyler Mathisen,Constellation Brands,Bill Newlands,POWER LUNCH,Y,0,0,0,0
+516,516,7000086743,Jon Fortt,TripActions,Ariel Cohen,SQUAWK ALLEY,Y,0,0,0,0
+517,517,7000086736,Bertha Coombs,Change Healthcare,Neil De Crescenzo,SQUAWK ALLEY,N,0,0,0,0
+518,518,7000086731,Wilfred Frost,Morgan Stanley,James Gorman,SQUAWK ON THE STREET,N,0,0,0,0
+519,519,7000086714,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Galaxy Digital,Michael Novogratz,SQUAWK BOX,Y,0,0,16,0
+520,520,7000086705,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Adaptive Biotechnologies,Chad Robins,SQUAWK BOX,Y,0,0,13,0
+521,521,7000086482,Jon Fortt / Morgan Brennan / Andrew Ross Sorkin,Micron,Sanjay Mehrotra,SQUAWK ALLEY,Y,0,0,0,0
+522,522,7000086280,Sara Eisen / David Faber,Evenflo,Jon Chamberlain,SQUAWK ON THE STREET,Y,0,0,0,0
+523,523,7000086248,Joe Kernen / Andrew Ross Sorkin / Becky Quick,United Therapeutics,Martine Rothblatt,SQUAWK BOX,Y,0,0,0,0
+524,524,7000086250,Joe Kernen / Andrew Ross Sorkin / Becky Quick,United Therapeutics,Martine Rothblatt,SQUAWK BOX,Y,0,0,0,0
+525,525,7000086073,Courtney Reagan / Sara Eisen / David Faber,Home Depot,Craig Menear,SQUAWK ON THE STREET,N,0,0,0,0
+526,526,7000085821,Melissa Lee(*),Mount Sinai Health System,Ken David,POWER LUNCH,Y,0,0,0,0
+527,527,7000085743,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Shake Shack,Randy Garutti,SQUAWK BOX,Y,0,0,0,0
+528,528,7000085742,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Shake Shack,Randy Garutti,SQUAWK BOX,Y,0,0,3,0
+529,529,7000085685,Jim Cramer,MongoDB,Dev Ittycheria,MAD MONEY WITH JIM CRAMER,N,6,7,49,28
+530,530,7000085684,Jim Cramer,Caterpillar,Jim Umpleby,MAD MONEY WITH JIM CRAMER,N,20,21,40,29
+531,531,7000085625,Meg Tirrell / Kelly Evans,Boston Scientific,Mike Mahoney,THE EXCHANGE,N,0,0,0,0
+532,532,7000085626,Kelly Evans,Boston Market,Frances Allen,THE EXCHANGE,N,0,0,0,0
+533,533,7000085581,Carl Quintanilla / Sara Eisen / David Faber,Cowen,Jeff Solomon,SQUAWK ON THE STREET,Y,0,0,0,0
+534,534,7000085559,Andrew Ross Sorkin,Slack,Stewart Butterfield,SQUAWK BOX,N,0,0,0,0
+535,535,7000085557,Meg Tirrell / Joe Kernen,Merck,Ken Frazier,SQUAWK BOX,N,0,0,0,0
+536,536,7000085544,Contessa Brewer / Joe Kernen,Wynn,Matthew Maddox,SQUAWK BOX,N,0,0,0,0
+537,537,7000085416,Deirdre Bosa,Huawei,Ren Zhengfei (Chinese),,,16,9999,25,25
+538,538,7000085400,Jon Fortt,Adobe,Shantanu Narayen,SQUAWK ALLEY,Y,0,0,0,0
+539,539,7000085405,Jon Fortt,LinkedIn,Jeff Weiner,SQUAWK ALLEY,N,0,0,0,0
+540,540,7000085403,Jon Fortt,LinkedIn,Jeff Weiner,SQUAWK ALLEY,N,0,0,0,0
+541,541,7000085399,Jon Fortt / Morgan Brennan,Adobe,Shantanu Narayen,SQUAWK ALLEY,Y,0,5,0,0
+542,542,7000085390,Deirdre Bosa,Huawei,Ren Zhengfei (Chinese),SQUAWK ON THE STREET,N,0,0,0,0
+543,543,7000085384,Julia Boorstin,Quibi,Meg Whitma / Jeff Katzenberg,SQUAWK ON THE STREET,Y,0,0,0,0
+544,544,7000085366,Brian Sullivan,Chevron,Michael Wirth,SQUAWK BOX,N,0,0,0,0
+545,545,7000085351,Becky Quick,Target,Brian Cornell,SQUAWK BOX,Y,0,0,0,0
+546,546,7000085347,Becky Quick,KPMG U.S.,Lynne Doughtie,SQUAWK BOX,Y,0,0,0,0
+547,547,7000085352,Becky Quick,Target,Brian Cornell,SQUAWK BOX,Y,0,1,0,0
+548,548,7000085341,Joe Kernen / Andrew Ross Sorkin / Brian Sullivan,Devon Energy,David Hager,SQUAWK BOX,Y,0,10,0,0
+549,549,7000085263,Jim Cramer,Union Pacific,Lance Fritz ,MAD MONEY WITH JIM CRAMER,N,22,22,40,29
+550,550,7000085156,Andrew Ross Sorkin / Becky Quick,Verishop,Imran Khan,,,0,0,0,0
+551,551,7000085151,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,The Hersey Company,Michele Buck,SQUAWK BOX,Y,0,0,65,0
+552,552,7000085149,Julia Boorstin / Andrew Ross Sorkin / Becky Quick,Facebook,David Marcus,SQUAWK BOX,Y,0,0,0,0
+553,553,7000085142,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,Aston Martin,Andy Palmer,SQUAWK BOX,Y,2,2,0,0
+554,554,7000085068,Jim Cramer,Handshake,Garrett Lord,MAD MONEY WITH JIM CRAMER,N,8,9,35,30
+555,555,7000085061,Jim Cramer,IFF,Andreas Fibig,MAD MONEY WITH JIM CRAMER,N,23,23,37,29
+556,556,7000085004,Phil LeBeau,Airbus,Guillamume Faury,,,0,0,0,0
+557,557,7000084936,Phil LeBeau,United Technologies,Greg Hayes,SQUAWK BOX,N,0,0,0,0
+558,558,7000084763,Jim Cramer,RH,Gary Friedman,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+559,559,7000084768,Jim Cramer,Centene,Michael Neidorff,MAD MONEY WITH JIM CRAMER,N,6,6,39,30
+560,560,7000084765,Jim Cramer,RH,Gary Friedman,MAD MONEY WITH JIM CRAMER,N,6,7,39,29
+561,561,7000084687,Jon Fortt / Morgan Brennan / Carl Quintanilla,Puris,Tyler Lorenzen,SQUAWK ALLEY,Y,0,0,0,0
+562,562,7000084669,Jim Cramer / Carl Quintanilla,Chewy,Sumit Singh,SQUAWK ON THE STREET,Y,0,0,0,0
+563,563,7000084569,Jim Cramer,Dexcom,Kevin Sayer,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+564,564,7000084567,Jim Cramer,Dexcom,Kevin Sayer,MAD MONEY WITH JIM CRAMER,N,6,7,41,30
+565,565,7000084513,Kelly Evans,Ginkgo Bioworks,Jason Kelly,THE EXCHANGE,N,0,0,0,0
+566,566,7000084488,Jon Fortt / Morgan Brennan / Carl Quintanilla,LeafLink ,Ryan Smith,SQUAWK ALLEY,Y,0,0,0,0
+567,567,7000084481,Sara Eisen / Carl Quintanilla,Fiverr,Micha Kaufman,SQUAWK ON THE STREET,Y,0,0,0,0
+568,568,7000084365,Jim Cramer,Quicken Loans,Jay Farner,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+569,569,7000084361,Jim Cramer,Quicken Loans,Jay Farner,MAD MONEY WITH JIM CRAMER,N,9,9,35,29
+570,570,7000084289,Jon Fortt / Morgan Brennan,CrowdStrike,George Kurtz,SQUAWK ALLEY,Y,0,0,0,0
+571,571,7000084280,Carl Quintanilla,Delta Air Lines,Ed Bastian,AIRLINES,N,0,0,0,0
+572,572,7000084277,Carl Quintanilla,Delta Air Lines,Ed Bastian,SQUAWK ON THE STREET,N,0,0,0,0
+573,573,7000084181,Jim Cramer,EQT,Rob McNally,MAD MONEY WITH JIM CRAMER,N,6,7,47,29
+574,574,7000084174,Jim Cramer,Tableau,Adam Selipsky,MAD MONEY WITH JIM CRAMER,N,6,7,40,29
+575,575,7000084137,Josh Lipton / Brian Sullivan,Take-Two,Strauss Zelnick,POWER LUNCH,N,0,0,0,0
+576,576,7000084132,Brian Sullivan / Melissa Lee(*),Duke Energy, Lynn Good,POWER LUNCH,Y,0,0,0,0
+577,577,7000084122,Carl Quintanilla,Goldman Sachs,David Solomon,THE EXCHANGE,N,0,0,0,0
+578,578,7000084119,Carl Quintanilla,Goldman Sachs,David Solomon,THE EXCHANGE,N,0,0,0,0
+579,579,7000084117,Carl Quintanilla,Goldman Sachs,David Solomon,THE EXCHANGE,N,0,0,0,0
+580,580,7000084088,Carl Quintanilla,Vox Media,Jim Bankoff,SQUAWK ON THE STREET,Y,0,0,0,0
+581,581,7000083975,Jim Cramer,Ansys,Ajei Gopal,MAD MONEY WITH JIM CRAMER,N,20,20,35,29
+582,582,7000083973,Jim Cramer,Marvell Technology,Matt Murphy,MAD MONEY WITH JIM CRAMER,N,6,6,39,28
+583,583,7000083963,Jim Cramer,Salesforce,Marc Benioff,MAD MONEY WITH JIM CRAMER,N,6,6,42,29
+584,584,7000083854,Jim Cramer / Carl Quintanilla,United Technologies / Raytheon,Greg Hayes / Tom Kennedy,SQUAWK ON THE STREET,Y,0,0,0,0
+585,585,7000083853,Jim Cramer / Carl Quintanilla,United Technologies / Raytheon,Greg Hayes / Tom Kennedy,SQUAWK ON THE STREET,Y,0,0,0,0
+586,586,7000083848,Jim Cramer / Carl Quintanilla,United Technologies / Raytheon,Greg Hayes / Tom Kennedy,SQUAWK ON THE STREET,Y,0,0,0,0
+587,587,7000083850,Jim Cramer / Carl Quintanilla,United Technologies / Raytheon,Greg Hayes / Tom Kennedy,SQUAWK ON THE STREET,Y,0,0,0,0
+588,588,7000083849,Jim Cramer / Carl Quintanilla,United Technologies,Greg Hayes,SQUAWK BOX,Y,0,0,0,0
+589,589,7000083479,Jim Cramer,Boot Barn,James Conroy,MAD MONEY WITH JIM CRAMER,N,21,22,40,29
+590,590,7000083388,Carl Quintanilla,Stew Leonard’s,"Stew Leonard, Jr.,",SQUAWK ALLEY,Y,0,0,0,0
+591,591,7000083382,Jon Fortt / Morgan Brennan / Carl Quintanilla,Revolve,Mike Karanikolas / Michael Mente,SQUAWK ALLEY,Y,0,0,0,0
+592,592,7000083380,Jon Fortt / Morgan Brennan,PagerDuty,Jennifer Tejada,Squawk Alley,N,0,0,0,0
+593,593,7000083197,Jon Fortt / Morgan Brennan / Carl Quintanilla,Stitch Fix,Katrina Lake (call),SQUAWK ALLEY,Y,0,0,0,0
+594,594,7000083189,Carl Quintanilla / Sara Eisen / David Faber,Dana Inc.,Jim Kamsickas,SQUAWK ON THE STREET,Y,0,0,0,0
+595,595,7000082963,Jon Fortt / David Faber,Jeff Wilke,Amazon,SQUAWK ON THE STREET,N,0,0,0,0
+596,596,7000082951,Brian Sullivan / Becky Quick,Shell,Ben van Beurden ,SQUAWK BOX,N,0,3,0,0
+597,597,7000082883,Jim Cramer,Emergent BioSolutions,Robert Kramer Sr.,MAD MONEY WITH JIM CRAMER,N,6,7,45,29
+598,598,7000082881,Jim Cramer,Chipotle,Jack Hartung,MAD MONEY WITH JIM CRAMER,N,20,20,42,28
+599,599,7000082879,Jim Cramer,Salesforce,Marc Benioff,MAD MONEY WITH JIM CRAMER,N,6,7,48,38
+600,600,7000082707,Jim Cramer,Wingstop,Charlie Morrison,MAD MONEY WITH JIM CRAMER,N,21,21,53,45
+601,601,7000082705,Jim Cramer,Brinks,Douglas Pertz,MAD MONEY WITH JIM CRAMER,N,6,6,43,29
+602,602,7000082658,Meg Tirrell / Melissa Lee,Guardant Health ,Helmy Eltoukhy,POWER LUNCH,N,0,0,0,0
+603,603,7000082625,Jon Fortt / Morgan Brennan / David Faber,Boingo,Mike Finley,SQUAWK ALLEY,Y,0,0,0,0
+604,604,7000082618,Meg Tirrell,AstraZeneca,Pascal Soriot,SQUAWK ALLEY,N,0,0,0,0
+605,605,7000082602,Jim Cramer / David Faber,DowDuPont / Corteva Agriscience,Ed Breen / Jim Collins,SQUAWK ON THE STREET,Y,0,0,0,0
+606,606,7000082584,Meg Tirrell / Joe Kernen,Iovance Biotherapeutics,Maria Fardis,SQUAWK BOX,N,0,0,0,0
+607,607,7000082524,Jim Cramer,IBM,Ginni Rometty,MAD MONEY WITH JIM CRAMER,N,6,6,33,29
+608,608,7000082519,Jim Cramer,Okta,Todd McKinnon ,MAD MONEY WITH JIM CRAMER,N,7,7,42,29
+609,609,7000082514,Jim Cramer,Workday / Logiric / PVH / AGCO Cooperation / Canopy Growth / Acreage Holdings / Mondelez International,Aneel Bhusri / Bracken Darrell / Manny Chirico / Martin Richenhagen / Bruce Linton / Kevin P Murphy / Dirk Van de Put,MAD MONEY WITH JIM CRAMER,Y,9999,9999,9999,9999
+610,610,7000082517,Jim Cramer,IBM,Todd McKinnon,MAD MONEY WITH JIM CRAMER,N,0,0,32,27
+611,611,7000082458,Bertha Coombs,Cigna,David Cordani,THE EXCHANGE,N,0,0,0,0
+612,612,7000082425,Jon Fortt,Vmware,Pat Gelsinger,SQUAWK ALLEY,Y,0,0,0,0
+613,613,7000082403,Andrew Ross Sorkin,Delta Air Lines,Ed Bastian,SQUAWK BOX,N,0,0,0,0
+614,614,7000082379,Andrew Ross Sorkin,Focus Brands,Kat Cole,SQUAWK BOX,N,0,0,14,0
+615,615,7000082297,Jim Cramer,Pioneer Natural Resources,Scott Sheffield,MAD MONEY WITH JIM CRAMER,N,6,6,40,30
+616,616,7000082301,Jim Cramer,Canopy Growth / Acreage,Bruce Linton / Kevin P. Murphy,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+617,617,7000082302,Jim Cramer,Canopy Growth / Acreage,Bruce Linton / Kevin P. Murphy,MAD MONEY WITH JIM CRAMER,N,28,29,46,33
+618,618,7000082261,Kelly Evans / Tyler Mathisen / Melissa Lee(*),Wyndham Destinations,Michael Brown,POWER LUNCH,Y,0,0,0,0
+619,619,7000082252,Kelly Evans,Joann Stores,Wade Miquelon,THE EXCHANGE,N,0,0,0,0
+620,620,7000082212,Jim Cramer / Phil LeBeau,United Airlines,Oscar Munoz,SQUAWK ON THE STREET,Y,0,0,0,0
+621,621,7000082210,Jim Cramer,United Airlines,Oscar Munoz,SQUAWK ON THE STREET,Y,0,0,0,0
+622,622,7000082209,Jim Cramer (call),United Airlines,Oscar Munoz,SQUAWK ON THE STREET,Y,0,0,0,0
+623,623,7000082107,Jim Cramer,Agco,Martin Richenhagen,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+624,624,7000082106,Jim Cramer,Agco,Martin Richenhagen,MAD MONEY WITH JIM CRAMER,N,20,20,45,30
+625,625,7000082104,Jim Cramer,Logitech,Bracken Darrell,MAD MONEY WITH JIM CRAMER,N,18,18,39,29
+626,626,7000082103,Jim Cramer,PVH,Manny Chirico,MAD MONEY WITH JIM CRAMER,N,6,6,33,30
+627,627,7000082025,Carl Quintanilla,McDonald’s,Steve Easterbrook,SQUAWK ALLEY,N,0,0,0,0
+628,628,7000082032,Jon Fortt / Morgan Brennan / Carl Quintanilla,iRobot,Colin Angle,SQUAWK ALLEY,Y,0,5,0,0
+629,629,7000082013,Carl Quintanilla,McDonald’s,Steve Easterbrook,SQUAWK ON THE STREET,N,0,0,0,0
+630,630,7000082016,Sara Eisen,Hilton,Christopher Nassetta,SQUAWK ON THE STREET,N,0,0,0,0
+631,631,7000082004,Carl Quintanilla / Jim Cramer,McDonald’s,Steve Easterbrook,SQUAWK ON THE STREET,N,0,0,0,0
+632,632,7000081999,Carl Quintanilla / Jim Cramer / David Faber,McDonald’s,Steve Easterbrook,SQUAWK ON THE STREET,N,0,0,0,0
+633,633,7000081906,Jim Cramer,Workday,Aneel Bhusri,MAD MONEY WITH JIM CRAMER,N,6,7,46,30
+634,634,7000081902,Jim Cramer,Mondelez International,Dirk Van de Put,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+635,635,7000081901,Jim Cramer,Mondelez International,Dirk Van de Put,MAD MONEY WITH JIM CRAMER,N,17,17,50,40
+636,636,7000081823,Carl Quintanilla / Sara Eisen / David Faber,Ace Hardware,John Venhuizen,SQUAWK ON THE STREET,Y,0,0,0,0
+637,637,7000081821,Carl Quintanilla / Sara Eisen / David Faber,Global Payments,Jeff Sloan,SQUAWK ON THE STREET,Y,0,0,0,0
+638,638,7000081472,Jane Wells / Jon Fortt / Morgan Brennan / Carl Quintanilla,Beyond Meat,Ethan Brown,SQUAWK ALLEY,N,0,0,0,0
+639,639,7000081465,Carl Quintanilla / Sara Eisen / David Faber,Hewlett Packard Enterprise,Antonio Neri,SQUAWK ON THE STREET,Y,0,0,0,0
+640,640,7000081461,David Faber,Moelis & Company,Ken Moelis,SQUAWK ON THE STREET,N,0,0,0,0
+641,641,7000081450,Joe Kernen / Andrew Ross Sorkin / Becky Quick,The Purple Carrot / Morningstar,"Andy Levitt / R.J. Hottovy,",SQUAWK BOX,Y,0,0,0,0
+642,642,7000081357,Jim Cramer,TG Therapeutics,Michael Weiss,MAD MONEY WITH JIM CRAMER,N,0,0,0,0
+643,643,7000081279,Jon Fortt / Morgan Brennan / Carl Quintanilla,American Elements,Michael Silver,SQUAWK ALLEY,Y,0,0,0,0
+644,644,7000081091,Deirdre Bosa / Morgan Brennan,Oculus,Palmer Luckey,SQUAWK ALLEY,N,0,0,0,0
+645,645,7000081178,Jim Cramer,RingCentral,Vlad Shmunis ,MAD MONEY WITH JIM CRAMER,N,6,7,41,29
+646,646,7000081176,Jim Cramer,Edgewell Personal Care / Harry's / Harry's,Rod Little / Andy Katz-Mayfield / Jeff Raider,MAD MONEY WITH JIM CRAMER,Y,21,21,40,30
+647,647,7000081172,Jim Cramer,IDEXX,Jonathan Ayers,MAD MONEY WITH JIM CRAMER,N,6,6,58,43
+648,648,7000080964,Jim Cramer,Novartis,Vasant Narasimhan,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+649,649,7000080966,Jim Cramer,Novartis,Vasant Narasimhan,MAD MONEY WITH JIM CRAMER,N,21,21,35,29
+650,650,7000080927,Sara Eisen / Wilfred Frost / Unknown (record),BankUnited,Rajinder Singh,CLOSING BELL,Y,0,0,0,0
+651,651,7000080883,Deirdre Bosa / Morgan Brennan,Y Combinator,Michael Seibel ,SQUAWK ALLEY,N,0,0,0,0
+652,652,7000080858,Jim Cramer / David Faber,Novartis,Dr. Vasant Narasimhan,SQUAWK ON THE STREET,Y,0,0,0,0
+653,653,7000080746,Jim Cramer,Take-Two,Strauss Zelnick,MAD MONEY WITH JIM CRAMER,N,16,17,38,29
+654,654,7000080648,Joe Kernen / Andrew Ross Sorkin / Becky Quick,RyanAir,Michael O’Leary ,SQUAWK BOX,Y,0,0,39,0
+655,655,7000080468,Jim Cramer,Proofpoint,Gary Steele,MAD MONEY WITH JIM CRAMER,N,21,21,43,32
+656,656,7000080469,Jim Cramer,Pinterest,Ben Silbermann,MAD MONEY WITH JIM CRAMER,N,25,25,41,29
+657,657,7000080466,Jim Cramer,Pinterest,Ben Silbermann,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+658,658,7000080465,Jim Cramer,Nvidia,Jensen Huang,MAD MONEY WITH JIM CRAMER,N,27,27,33,29
+659,659,7000080464,Jim Cramer,Nvidia,Jensen Huang,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+660,660,7000080401,Kelly Evans,Duolingo,Luis von Ahn,THE EXCHANGE,N,0,0,0,0
+661,661,7000080390,Julia Boorstin,Facebook,Sheryl Sandberg,SQUAWK ON THE STREET,N,0,0,0,0
+662,662,7000080385,Jon Fortt / Morgan Brennan / Carl Quintanilla,Avantor,Michael Stubblefield,SQUAWK ALLEY,Y,0,0,0,0
+663,663,7000080333,Joe Kernen / Andrew Ross Sorkin,Away,Steph Korey,SQUAWK BOX,Y,0,5,16,0
+664,664,7000080347,Andrew Ross Sorkin,Zipline,Keller Rinaudo,SQUAWK BOX,Y,6,10,0,0
+665,665,7000080341,Andrew Ross Sorkin,Luckin,Reinout Schakel,SQUAWK BOX,Y,0,0,0,0
+666,666,7000080197,,Verizon,Hans Vestberg,CLOSING BELL,Y,0,0,0,0
+667,667,7000080171,Diana Olick / Kelly Evans,Taylor Morrison,Sheryl Palmer,THE EXCHANGE,N,0,0,0,0
+668,668,7000080174,Kelly Evans,Ginkgo Bioworks,Jason Kelly,THE EXCHANGE,N,0,0,0,0
+669,669,7000080015,Jim Cramer,Cisco Systems,Chuck Robbins / Kelly Kramer ,,,18,19,39,30
+670,670,7000080021,Jim Cramer,GoodRX,Doug Hirsch,MAD MONEY WITH JIM CRAMER,N,12,14,42,29
+671,671,7000080022,Jim Cramer,GoodRX,Doug Hirsch,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+672,672,7000080018,Jim Cramer,Roku,Anthony Wood,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+673,673,7000080019,Jim Cramer,Roku,Anthony Wood,MAD MONEY WITH JIM CRAMER,N,20,20,37,30
+674,674,7000079972,Kelly Evans / Tyler Mathisen,Phononic,Tony Atti,POWER LUNCH,Y,0,0,0,0
+675,675,7000079936,Julia Boorstin / Jon Fortt / Morgan Brennan / Carl Quintanilla,CLEAR ,Caryn Seidman-Becker,,,0,8,0,0
+676,676,7000079935,Kate Rogers,Restaurant Brands,Jose Cil,SQUAWK ALLEY,N,0,0,0,0
+677,677,7000079899,Meg Tirrell / Joe Kernen,Johnson & Johnson,Alex Gorsky,SQUAWK BOX,N,0,4,0,0
+678,678,7000079896,Julia Boorstin / Melissa Lee(*) / Wilfred Frost / Joe Kernen,Indigo AG,David Perry,,,0,0,0,0
+679,679,7000079813,Jim Cramer,Trade Desk,Jeff Green,MAD MONEY WITH JIM CRAMER,N,26,26,42,36
+680,680,7000079810,Jim Cramer,Adobe,Shantanu Narayen ,MAD MONEY WITH JIM CRAMER,N,25,26,43,30
+681,681,7000079809,Jim Cramer,Adobe,Shantanu Narayen ,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+682,682,7000079611,Jim Cramer,Workday,Aneel Bhushri,MAD MONEY WITH JIM CRAMER,N,5,6,43,34
+683,683,7000079608,Jim Cramer,Twitter,Ned Segal,MAD MONEY WITH JIM CRAMER,N,7,8,43,37
+684,684,7000079609,Jim Cramer,Twitter,Ned Segal,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+685,685,7000079605,Jim Cramer,Williams-Sonoma,Laura Alber,MAD MONEY WITH JIM CRAMER,N,5,5,37,29
+686,686,7000079316,Jim Cramer,LivePerson,Robert Locascio,MAD MONEY WITH JIM CRAMER,N,6,6,36,27
+687,687,7000079105,Jim Cramer,Etsy,Josh Silverman,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+688,688,7000079077,Andrew Ross Sorkin,Uber,Dara Khosrowshahi,,,9999,9999,9999,9999
+689,689,7000079109,Jim Cramer,Bausch Health,Joe Papa,MAD MONEY WITH JIM CRAMER,N,6,6,43,30
+690,690,7000079106,Jim Cramer,Etsy,Josh Silverman,MAD MONEY WITH JIM CRAMER,N,20,20,32,28
+691,691,7000079057,Tyler Mathisen,Vanguard,Tim Buckley,POWER LUNCH,N,0,0,0,0
+692,692,7000079026,Jon Fortt,Twilio,Jeff Lawson,SQUAWK ALLEY,Y,0,0,0,0
+693,693,7000078864,Jim Cramer,Nestlé Global,Mark Schneider,MAD MONEY WITH JIM CRAMER,N,6,7,32,30
+694,694,7000078861,Jim Cramer,Wendy's,Todd Penegor ,MAD MONEY WITH JIM CRAMER,N,6,7,35,30
+695,695,7000078859,Jim Cramer,Under Armour,Kevin Plank,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+696,696,7000078858,Jim Cramer,Under Armour,Kevin Plank,MAD MONEY WITH JIM CRAMER,N,21,22,35,28
+697,697,7000078802,Tyler Mathisen,CBRE,Bob Sulentic,POWER LUNCH,Y,0,0,0,0
+698,698,7000078727,Jon Fortt / Morgan Brennan / Carl Quintanilla,Match Group,Mandy Ginsberg,SQUAWK ALLEY,Y,0,5,0,0
+699,699,7000078720,Carl Quintanilla / Sara Eisen / David Faber,Parsons Corp.,Charles Harrington,SQUAWK ON THE STREET,Y,0,0,0,0
+700,700,7000078716,Carl Quintanilla / Sara Eisen / David Faber,SoFi,Anthony Noto,SQUAWK ON THE STREET,Y,0,0,0,0
+701,701,7000078612,Jim Cramer,1-800-Flowers.com,Chris McCann,MAD MONEY WITH JIM CRAMER,N,18,18,40,29
+702,702,7000078609,Jim Cramer,Teladoc,Jason Gorevic,MAD MONEY WITH JIM CRAMER,N,6,7,42,30
+703,703,7000078547,Scott Wapner,DoubleLine Capital,Jeffrey Gundlach,HALFTIME REPORT,N,0,0,0,0
+704,704,7000078546,Scott Wapner,DoubleLine Capital,Jeffrey Gundlach,HALFTIME REPORT,N,0,0,0,0
+705,705,7000078433,Jim Cramer,Funko,Brian Mariotti,MAD MONEY WITH JIM CRAMER,N,6,7,40,29
+706,706,7000078359,Kelly Evans (call),Glenview Capital,Larry Robbins,THE EXCHANGE,N,0,3,0,0
+707,707,7000078328,Becky Quick,Apple ,Tim Cook ,TECH,N,0,0,0,0
+708,708,7000078068,Becky Quick / Melissa Lee(*),Dairy Queen,Troy Bader,POWER LUNCH,Y,0,0,0,0
+709,709,7000078030,Jon Fortt / Morgan Brennan,Tableau,Adam Selipsky,SQUAWK ALLEY,N,0,0,0,0
+710,710,7000078025,Sara Eisen,Adidas,Kasper Rorsted,SQUAWK ON THE STREET,N,0,0,0,0
+711,711,7000078020,Carl Quintanilla / Sara Eisen / David Faber,Dunkin’,David Hoffmann,SQUAWK ON THE STREET,Y,0,0,0,0
+712,712,7000078000,Becky Quick,Reddit and Initialized Capital,Alexis Ohanian,SQUAWK BOX,Y,0,0,0,0
+713,713,7000077990,Becky Quick,Brooks Running Company / Benjamin Moore Paints,Jim Weber / Dan Calkins,SQUAWK BOX,Y,0,0,0,0
+714,714,7000077992,Becky Quick,GAMCO Investors,Mario Gabelli,SQUAWK BOX,Y,0,0,0,0
+715,715,7000077793,Frank Holland,Beyond Meat,Ethan Brown,HALFTIME REPORT,N,0,0,0,0
+716,716,7000077785,Jon Fortt / Morgan Brennan,Fitbit,James Park,SQUAWK ALLEY,Y,0,0,0,0
+717,717,7000077783,Jon Fortt / Morgan Brennan,Zynga,Frank Gibeau,SQUAWK ALLEY,Y,0,0,0,0
+718,718,7000077775,Jim Cramer / Sara Eisen / David Faber,Dow,Jim Fitterling,SQUAWK ON THE STREET,Y,0,0,0,0
+719,719,7000077766,Jim Cramer / Carl Quintanilla / David Faber,Citigroup,Michael Corbat,SQUAWK ON THE STREET,Y,0,0,0,0
+720,720,7000077673,Jim Cramer,Chegg,Dan Rosensweig,MAD MONEY WITH JIM CRAMER,N,7,7,35,30
+721,721,7000077668,Jim Cramer,Advanced Micro Devices,Lisa Su,MAD MONEY WITH JIM CRAMER,N,6,7,34,28
+722,722,7000077669,Jim Cramer,Advanced Micro Devices,Lisa Su,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+723,723,7000077567,Jon Fortt / Morgan Brennan / Carl Quintanilla,Akamai ,Tom Leighton,SQUAWK ALLEY,Y,0,0,0,0
+724,724,7000077556,Carl Quintanilla / Sara Eisen,Mondelez,Dirk Van de Put ,SQUAWK ON THE STREET,Y,0,0,0,0
+725,725,7000077455,Jim Cramer,Zebra Technologies,Anders Gustafsson,MAD MONEY WITH JIM CRAMER,N,5,6,70,60
+726,726,7000077456,Jim Cramer,Shopify,Harley Finkelstein,MAD MONEY WITH JIM CRAMER,N,22,23,35,29
+727,727,7000077417,Sara Eisen / Wilfred Frost,Rio Tinto,Jean-Sebastian Jacques,CLOSING BELL,Y,0,0,0,0
+728,728,7000077401,Brian Sullivan / Kelly Evans ,BP,Bob Dudley,THE EXCHANGE,N,0,0,0,0
+729,729,7000077376,Contessa Brewer / Carl Quintanilla,Greycroft,Alan Patricof,SQUAWK ALLEY,Y,0,0,0,0
+730,730,7000077375,David Faber,Quibi,Meg Whitman,SQUAWK ALLEY,Y,0,0,0,0
+731,731,7000077373,David Faber,Ebay,Devin Wenig,SQUAWK ON THE STREET,N,0,0,0,0
+732,732,7000077370,Sara Eisen / Carl Quintanilla,Stifel,Ron Kruszewski,SQUAWK ON THE STREET,Y,3,5,0,0
+733,733,7000077235,Jim Cramer,3M,Mike Roman,MAD MONEY WITH JIM CRAMER,N,24,24,37,29
+734,734,7000077234,Jim Cramer,3M,Mike Roman,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+735,735,7000077132,Deirdre Bosa / Carl Quintanilla,Airbnb / RXR Realty,Brian Chesky / Scott Rechler,SQUAWK ALLEY,Y,0,0,0,0
+736,736,7000077131,David Faber,Goldman Sachs,David Solomon,SQUAWK ON THE STREET,N,0,0,0,0
+737,737,7000076982,Jim Cramer,MarketAxess,Rick McVey ,MAD MONEY WITH JIM CRAMER,N,6,6,34,28
+738,738,7000076977,Jim Cramer,Cypres Semiconductor,Hassane El-Khoury,MAD MONEY WITH JIM CRAMER,N,7,7,38,28
+739,739,7000076974,Jim Cramer,Columbia Sportswear,Tim Boyle,MAD MONEY WITH JIM CRAMER,N,18,18,35,29
+740,740,7000076877,David Faber / Michael Santoli / Courtney Reagan,Intel,Bob Swan (call),SQUAWK ALLEY,Y,0,0,0,0
+741,741,7000076856,Jim Cramer / David Faber,Starbucks,Kevin Johnson,SQUAWK ON THE STREET,Y,0,2,0,0
+742,742,7000076845,Becky Quick / Unknown,GrubHub,Matt Maloney,SQUAWK BOX,Y,0,0,0,0
+743,743,7000076837,Joe Kernen,AutoNation,Carl Liebert,SQUAWK BOX,Y,0,0,8,0
+744,744,7000076737,Jim Cramer,Centene,Michael Neidorff,MAD MONEY WITH JIM CRAMER,N,6,6,40,29
+745,745,7000076731,Jim Cramer,Align Technology,Joe Hogan,MAD MONEY WITH JIM CRAMER,N,6,6,38,28
+746,746,7000076638,Morgan Brennan / David Faber,UPS,David Abney,SQUAWK ALLEY,Y,0,12,0,0
+747,747,7000076627,Sara Eisen,Lululemon,Calvin McDonald,SQUAWK ON THE STREET,Y,0,0,0,0
+748,748,7000076624,Kate Rogers / Jim Cramer,Chipotle,Brian Niccol,SQUAWK ON THE STREET,N,0,0,0,0
+749,749,7000076622,Jim Cramer / David Faber,Southwest Airlines,Gary Kelly,SQUAWK ON THE STREET,Y,0,0,0,0
+750,750,7000076610,Joe Kernen / Michael Santoli / Becky Quick,Comcast,Brian Roberts,SQUAWK BOX,Y,0,6,0,0
+751,751,7000076609,Joe Kernen,Comcast,Brian Roberts,SQUAWK BOX,Y,0,0,0,0
+752,752,7000076608,Joe Kernen / Michael Santoli / Becky Quick,Comcast,Brian Roberts,SQUAWK BOX,Y,0,0,0,0
+753,753,7000076514,Jim Cramer,ServiceNow,John Donahoe,MAD MONEY WITH JIM CRAMER,N,6,6,35,30
+754,754,7000076511,Jim Cramer,Zuora,Tien Tzuo,MAD MONEY WITH JIM CRAMER,N,6,6,41,29
+755,755,7000076510,Jim Cramer,Zuora,Tien Tzuo,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+756,756,7000076506,Jim Cramer,Domino’s,Ritch Allison,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+757,757,7000076508,Jim Cramer,Domino’s,Ritch Allison,MAD MONEY WITH JIM CRAMER,N,24,24,40,30
+758,758,7000076476,Sara Eisen / Wilfred Frost,Hawaiian Airlines,Peter Ingram,CLOSING BELL,Y,0,0,0,0
+759,759,7000076462,Phil LeBeau,United Airlines,Oscar Munoz,THE EXCHANGE,N,0,0,0,0
+760,760,7000076294,Sara Eisen / Wilfred Frost,Six Flag Entertainment,Jim Reid-Anderson,CLOSING BELL,Y,0,0,0,0
+761,761,7000076406,Joe Kernen / Becky Quick / Michael Santoli(*) / Unknown,Nasdaq ,Adena Friedman,SQUAWK BOX,Y,0,3,0,0
+762,762,7000076395,Joe Kernen / Becky Quick / Michael Santoli(*) / Unknown,SAP,Bill McDermott,SQUAWK BOX,Y,0,0,0,0
+763,763,7000076400,David Faber,Occidental,Vicki Hollub,SQUAWK BOX,N,0,0,0,0
+764,764,7000076321,Jim Cramer,Hasbro,Brian Goldner,MAD MONEY WITH JIM CRAMER,N,7,7,31,30
+765,765,7000076322,Jim Cramer,Hasbro,Brian Goldner,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+766,766,7000076226,Carl Quintanilla / Sara Eisen ,Philip Morris,André Calantzopoulos,SQUAWK ON THE STREET,Y,0,0,0,0
+767,767,7000076217,Sara Eisen,Coca-Cola,James Quincey ,SQUAWK ON THE STREET,Y,0,0,0,0
+768,768,7000076219,Sara Eisen,Coca-Cola,James Quincey ,SQUAWK ON THE STREET,Y,0,0,0,0
+769,769,7000075859,Jim Cramer, Five Below,Joel Anderson,MAD MONEY WITH JIM CRAMER,N,6,7,39,29
+770,770,7000075798,Brian Sullivan,BB&T,Kelly King,THE EXCHANGE,N,0,0,0,0
+771,771,7000075778,Jon Fortt / Morgan Brennan / Carl Quintanilla / David Faber,Pinterest,Ben Silbermann,SQUAWK ALLEY,Y,0,0,0,0
+772,772,7000075632,Sara Eisen / Wilfred Frost / Michael Santoli,Audible,Donald Katz,CLOSING BELL,Y,0,0,0,0
+773,773,7000075742,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*),Blackstone,Steve Schwarzman,SQUAWK BOX,Y,0,0,0,0
+774,774,7000075741,Joe Kernen / Andrew Ross Sorkin,Blackstone,Steve Schwarzman,SQUAWK BOX,Y,0,0,0,0
+775,775,7000075740,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*),Blackstone,Steve Schwarzman,SQUAWK BOX,Y,0,0,0,0
+776,776,7000075649,Jim Cramer,First Horizon,Bryan Jordan,MAD MONEY WITH JIM CRAMER,N,6,7,33,29
+777,777,7000075550,Jim Cramer / Carl Quintanilla / David Faber,Qualcomm,Steve Mollenkopf,SQUAWK ON THE STREET,Y,0,0,0,0
+778,778,7000075547,Jim Cramer / Carl Quintanilla / David Faber,Qualcomm,Steve Mollenkopf,SQUAWK ON THE STREET,Y,0,0,0,0
+779,779,7000075535,Phil LeBeau,Porsche North America,Klaus Zellmer,SQUAWK BOX,N,0,0,0,0
+780,780,7000075473,Jim Cramer,Santander,Ana Botin,MAD MONEY WITH JIM CRAMER,N,6,6,45,29
+781,781,7000075411,Phil LeBeau / Tyler Mathisen,Mercedes-Benz USA,Dietmar Exler,THE EXCHANGE,N,0,0,0,0
+782,782,7000075343,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*),BlackRock,Larry Fink,SQUAWK BOX,Y,0,4,38,0
+783,783,7000075336,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*),BlackRock,Larry Fink,SQUAWK BOX,Y,0,0,0,0
+784,784,7000075335,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*),BlackRock,Larry Fink,SQUAWK BOX,Y,0,0,0,0
+785,785,7000075338,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*),BlackRock,Larry Fink,SQUAWK BOX,Y,0,0,37,0
+786,786,7000075272,Jim Cramer,Chevron,Mike Wirth,MAD MONEY WITH JIM CRAMER,N,6,7,35,29
+787,787,7000075267,Jim Cramer,Conagra,Sean Connolly,MAD MONEY WITH JIM CRAMER,N,6,7,45,29
+788,788,7000075226,Kelly Evans,Bridgestone Golf,Dan Murphy,POWER LUNCH,Y,0,0,0,0
+789,789,7000074974,Jim Cramer,Bristol-Myers,Giovanni Caforio,MAD MONEY WITH JIM CRAMER,N,6,7,39,30
+790,790,7000074973,Jim Cramer,Bristol-Myers,Giovanni Caforio,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+791,791,7000074873,David Faber,Disney,Bob Iger ,SQUAWK ON THE STREET,Y,0,0,0,0
+792,792,7000074835,David Faber,Disney,Bob Iger ,SQUAWK ON THE STREET,Y,0,0,0,0
+793,793,7000074823,David Faber,Disney,Bob Iger ,SQUAWK ON THE STREET,Y,0,0,0,0
+794,794,7000074822,David Faber,Disney,Bob Iger ,SQUAWK BOX,Y,0,0,0,0
+795,795,7000074787,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Chevron,Michael Wirth,SQUAWK BOX,Y,0,0,0,0
+796,796,7000074783,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Chevron,Michael Wirth,SQUAWK BOX,Y,0,6,0,0
+797,797,7000074732,Jim Cramer,StockX,Josh Luber,MAD MONEY WITH JIM CRAMER,N,7,9,32,29
+798,798,7000074731,Jim Cramer,Macy's,Jeffrey Gennette,MAD MONEY WITH JIM CRAMER,N,6,7,33,29
+799,799,7000074730,Jim Cramer,Macy's,Jeffrey Gennette,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+800,800,7000074637,Jon Fortt / Morgan Brennan / Carl Quintanilla,PagerDuty,Jennifer Tejada,SQUAWK ALLEY,Y,0,0,0,0
+801,801,7000074617,Carl Quintanilla / Jim Cramer,Anthony Noto,SoFi,,,0,0,0,0
+802,802,7000074519,Jim Cramer,Ollie’s,Mark Butler,MAD MONEY WITH JIM CRAMER,N,6,7,34,29
+803,803,7000074515,Jim Cramer,Kohl’s,Michelle Gass,MAD MONEY WITH JIM CRAMER,N,6,7,34,29
+804,804,7000074425,Jon Fortt / Morgan Brennan / Carl Quintanilla,Levi's,Chip Bergh,SQUAWK ALLEY,Y,0,0,0,0
+805,805,7000074423,Jon Fortt / Morgan Brennan / Carl Quintanilla,Levi's,Chip Bergh,SQUAWK ALLEY,Y,0,0,0,0
+806,806,7000074377,Andrew Ross Sorkin / Melissa Lee(*),Delta Air Lines,Ed Bastian,SQUAWK BOX,N,0,0,0,0
+807,807,7000074378,Phil LeBeau (call),Delta Air Lines,Ed Bastian,SQUAWK BOX,N,0,0,0,0
+808,808,7000074232,Jim Cramer,Hannon Armstrong,Jeff Eckel ,MAD MONEY WITH JIM CRAMER,N,6,7,37,29
+809,809,7000074126,Carl Quintanilla / Morgan Brennan / David Faber,Alcon,David Endicott,SQUAWK ON THE STREET,Y,0,0,0,0
+810,810,7000074035,Jim Cramer,Dirty Lemon-parent Iris Nova,Zak Normandin,MAD MONEY WITH JIM CRAMER,N,9,9,43,29
+811,811,7000074032,Jim Cramer,2U,Christopher Paucek ,MAD MONEY WITH JIM CRAMER,N,6,6,39,29
+812,812,7000073990,Seema Mody,Norwegian Cruise Line ,Frank Del Rio,POWER LUNCH,N,0,0,0,0
+813,813,7000073933,Sara Eisen / Carl Quintanilla,Philip Morris,André Calantzopoulos,SQUAWK ON THE STREET,Y,0,7,0,0
+814,814,7000073735,Jim Cramer,Alder Biopharmaceuticals,Robert Azelby,MAD MONEY WITH JIM CRAMER,N,6,7,32,28
+815,815,7000073628,Sara Eisen,Under Armour,Kevin Plank (call),SQUAWK ON THE STREET,Y,0,0,0,0
+816,816,7000073493,Jim Cramer,Constellation ,Bill Newlands,MAD MONEY WITH JIM CRAMER,N,6,7,35,30
+817,817,7000073488,Jim Cramer,GrubHub,Matt Maloney,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+818,818,7000073489,Jim Cramer,GrubHub,Matt Maloney,MAD MONEY WITH JIM CRAMER,N,6,7,37,29
+819,819,7000073437,Contessa Brewer,Walmart,Doug McMillon,POWER LUNCH,Y,0,1,0,0
+820,820,7000073435,Contessa Brewer,Walmart,Doug McMillon,POWER LUNCH,Y,0,0,0,0
+821,821,7000073434,Contessa Brewer,Walmart,Doug McMillon,POWER LUNCH,Y,0,0,0,0
+822,822,7000073377,Morgan Brennan / Carl Quintanilla / Michael Santoli,Affirm,Max Levchin,SQUAWK ALLEY,Y,0,0,0,0
+823,823,7000073334,Joe Kernen / Andrew Ross Sorkin / Becky Quick,RigUp,Xuan Yong,,,6,6,13,0
+824,824,7000073225,Sara Eisen / Wilfred Frost,Box,Aaron Levie,CLOSING BELL,Y,0,0,0,0
+825,825,7000073222,Sara Eisen / Wilfred Frost,Signet,Gina Drosos,CLOSING BELL,Y,0,0,0,0
+826,826,7000073176,Jon Fortt / Morgan Brennan / Carl Quintanilla,Verizon,Hans Vestberg,SQUAWK ALLEY,Y,0,0,0,0
+827,827,7000073182,Jon Fortt / Morgan Brennan,Matternet,Andreas Raptopoulos,SQUAWK ALLEY,Y,0,0,0,0
+828,828,7000073069,Jim Cramer,Yext,Howard Lerman,MAD MONEY WITH JIM CRAMER,N,6,7,32,30
+829,829,7000071823,Carl Quintanilla / Sara Eisen,Barneys New York,Daniella Vitale,SQUAWK ON THE STREET,Y,0,0,0,0
+830,830,7000072987,Wilfred Frost,Bank of America ,Brian Moynihan,HALFTIME REPORT,N,0,0,0,0
+831,831,7000072985,Wilfred Frost,Bank of America ,Brian Moynihan,HALFTIME REPORT,N,0,0,0,0
+832,832,7000072956,Jim Cramer / Carl Quintanilla ,Dow Inc.,Jim Fitterling,SQUAWK ON THE STREET,Y,0,0,0,0
+833,833,7000072812,Kelly Evans / Tyler Mathisen / Melissa Lee(*),Alexandria Real Estate Equities,Joel Marcus,POWER LUNCH,Y,0,0,0,0
+834,834,7000072768,Morgan Brennan,FreightWaves,Craig Fuller,SQUAWK ALLEY,Y,0,0,0,0
+835,835,7000072748,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,Discovery,David Zaslav,SQUAWK BOX,Y,0,0,0,0
+836,836,7000072371,Jim Cramer,Hello Alfred,Marcela Sapone / Jessica Beck,MAD MONEY WITH JIM CRAMER,Y,0,0,14,0
+837,837,7000072088,Kelly Evans / Tyler Mathisen,Redfin,Glenn Kelman,POWER LUNCH,Y,0,0,0,0
+838,838,7000072036,Jon Fortt / Morgan Brennan / David Faber,Ellevest,Sallie Krawcheck,SQUAWK ALLEY,Y,0,0,0,0
+839,839,7000072005,Jim Cramer / David Faber,ServiceNow,John Donahoe,SQUAWK ON THE STREET,Y,0,0,0,0
+840,840,7000071995,Joe Kernen / Michael Santoli /  Kayla Tausche,Nucor,John Ferriola,SQUAWK BOX,Y,0,0,0,0
+841,841,7000071920,Jim Cramer,Paychex,Martin Mucci ,MAD MONEY WITH JIM CRAMER,N,6,7,40,29
+842,842,7000071913,Jim Cramer,PVH,Manny Chirico,MAD MONEY WITH JIM CRAMER,N,6,7,35,29
+843,843,7000071710,Jim Cramer,Five9,Rowan Trollope,MAD MONEY WITH JIM CRAMER,N,6,7,34,29
+844,844,7000071510,Jim Cramer,Thermo Fisher Scientific,Marc Casper,MAD MONEY WITH JIM CRAMER,N,6,7,37,29
+845,845,7000071509,Jim Cramer,Pegasystems,Alan Trefler,MAD MONEY WITH JIM CRAMER,N,6,7,33,29
+846,846,7000071224,Jim Cramer,Planet Fitness,Chris Rondeau,MAD MONEY WITH JIM CRAMER,N,6,6,36,28
+847,847,7000071219,Jim Cramer,Iridium Communications,Matthew Desch,MAD MONEY WITH JIM CRAMER,N,6,7,41,29
+848,848,7000071113,Sara Eisen / Carl Quintanilla,Papa John's / Starboard Value / NBA hall of famer ,Steve Ritchie / Jeffrey Smith / Shaquille O’Neal,SQUAWK ON THE STREET,Y,0,0,0,0
+849,849,7000071094,Joe Kernen / Becky Quick / Wilfred Frost,Rent the Runway,Jennifer Hyman,SQUAWK BOX,Y,0,0,0,0
+850,850,7000070934,Josh Lipton,Oracle,Mark Hurd (call),SQUAWK ALLEY,Y,0,0,0,0
+851,851,7000070925,Jon Fortt / Julia Boorstin / Carl Quintanilla,Levi's,Charles Bergh,SQUAWK ALLEY,Y,0,0,0,0
+852,852,7000070910,Jim Cramer / Carl Quintanilla,Micron Technology,Sanjay Mehrotra,SQUAWK ON THE STREET,Y,0,0,0,0
+853,853,7000070756,Kayla Tausche,J.P. Morgan / American University,Jamie Dimon / Sylvia Mathews Burwell,THE EXCHANGE,Y,0,0,0,0
+854,854,7000070755,Kayla Tausche,J.P. Morgan / American University,Jamie Dimon / Sylvia Mathews Burwell,THE EXCHANGE,Y,0,0,0,0
+855,855,7000070487,Joe Kernen / Melissa Lee / Becky Quick,Proofpoint,Gary Steele,SQUAWK BOX,Y,0,0,0,0
+856,856,7000070404,Sara Eisen / Wilfred Frost,Fidelity National Information Services,Gary Norcross,CLOSING BELL,Y,0,0,0,0
+857,857,7000070403,Sara Eisen / Wilfred Frost,Tilray ,Brendan Kennedy,CLOSING BELL,Y,0,0,30,30
+858,858,7000070400,Michael Santoli / Wilfred Frost,Tilray ,Brendan Kennedy,CLOSING BELL,Y,0,0,0,0
+859,859,7000070294,Joe Kernen / Becky Quick / Unknown,Marriott International,Arne Sorenson,SQUAWK BOX,Y,0,0,12,0
+860,860,7000070021,Jon Fortt / Contessa Brewer / Carl Quintanilla,Kayak,Steve Hafner,SQUAWK ALLEY,Y,0,0,0,0
+861,861,7000069987,Joe Kernen / Becky Quick / Unknown,Ulta Beauty,Mary Dillon,SQUAWK BOX,Y,0,0,0,0
+862,862,7000069853,Kelly Evans,Bank of America,Brian Moynihan,THE EXCHANGE,N,0,0,0,0
+863,863,7000069851,Kelly Evans,Bank of America,Brian Moynihan,THE EXCHANGE,N,0,0,0,0
+864,864,7000069481,Brian Sullivan / Contessa Brewer,BP,Bob Dudley,CLOSING BELL,N,0,0,0,0
+865,865,7000069480,Wilfred Frost / Brian Sullivan,BP,Bob Dudley,CLOSING BELL,Y,0,0,0,0
+866,866,7000069429,Brian Sullivan / Melissa Lee,Chevron,Michael Wirth,,,0,0,0,0
+867,867,7000069404,Brian Sullivan,Hess,John Hess,,,0,0,0,0
+868,868,7000069391,Joe Kernen,Siemens AG,Joe Kaeser,SQUAWK BOX,Y,0,0,5,0
+869,869,7000069285,Morgan Brennan / Wilfred Frost,Bloomin’ Brands,Liz Smith joins,CLOSING BELL,Y,0,0,0,0
+870,870,7000069230,Jon Fortt / Morgan Brennan / Carl Quintanilla,Nvidia,Jensen Huang (call),SQUAWK ALLEY,Y,0,0,0,0
+871,871,7000069214,David Faber,SoftBank,Masayoshi Son,SQUAWK ON THE STREET,Y,0,0,0,0
+872,872,7000069216,Michael Santoli / David Faber / Carl Quintanilla / Unknown,Sotheby’s,Tad Smith,SQUAWK ON THE STREET,Y,0,0,0,0
+873,873,7000069017,Sara Eisen / Wilfred Frost,Williams-Sonoma,Laura Alber,CLOSING BELL,Y,0,0,0,0
+874,874,7000069009,Kelly Evans / Tyler Mathisen,Invitae,Sean George,POWER LUNCH,Y,0,0,0,0
+875,875,7000069016,David Faber,SoftBank,Masayoshi Son,SQUAWK ON THE STREET,N,0,0,0,0
+876,876,7000068973,David Faber,SoftBank,Masayoshi Son,SQUAWK ALLEY,N,0,0,0,0
+877,877,7000068964,David Faber,SoftBank,Masayoshi Son,SQUAWK ALLEY,N,0,0,0,0
+878,878,7000068960,David Faber,SoftBank,Masayoshi Son,SQUAWK ON THE STREET,N,2,2,0,0
+879,879,7000068953,Carl Quintanilla / Sara Eisen / David Faber,SoftBank,Masayoshi Son,SQUAWK ON THE STREET,N,0,0,0,0
+880,880,7000068944,Carl Quintanilla / Jim Cramer / David Faber,SoftBank,Masayoshi Son,SQUAWK ON THE STREET,N,0,0,15,0
+881,881,7000068943,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Etsy,Josh Silverman,SQUAWK BOX,Y,0,3,0,0
+882,882,7000068794,Phil LeBeau (not show),Alaska Airlines,Brad Tilden,CLOSING BELL,N,0,0,0,0
+883,883,7000068782,Phil LeBeau / Melissa Lee,American Airlines,Doug Parker ,POWER LUNCH,N,0,0,0,0
+884,884,7000068767,Phil LeBeau,United Airlines,Oscar Munoz,HALFTIME REPORT,N,0,0,20,20
+885,885,7000068747,Jon Fortt / Morgan Brennan / Carl Quintanilla,Carvana,Ernie Garcia,SQUAWK ALLEY,Y,0,0,0,0
+886,886,7000068733,Sara Eisen / Carl Quintanilla,Canopy Growth,Bruce Linton,SQUAWK ON THE STREET,Y,0,0,0,0
+887,887,7000068722,Becky Quick,Exxon,Darren Woods,SQUAWK BOX,N,0,4,0,0
+888,888,7000068700,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Again Capital,John Kilduff,SQUAWK BOX,Y,0,0,0,0
+889,889,7000068698,Becky Quick / Joe Kernen / Andrew Ross Sorkin,Exxon,Darren Woods,SQUAWK BOX,N,2,5,0,0
+890,890,7000068556,Sara Eisen / Wilfred Frost,CSX,Jim Foote,CLOSING BELL,Y,0,0,0,0
+891,891,7000068516,Jon Fortt / Morgan Brennan / Carl Quintanilla,Siemens USA,Barbara Humpton,SQUAWK ALLEY,Y,0,0,0,0
+892,892,7000068513,Carl Quintanilla / Sara Eisen,Suntory Holdings,Takeshi Niinami,SQUAWK ON THE STREET,Y,0,0,0,0
+893,893,7000068301,Brian Sullivan / Becky Quick,Newmont Mining,Gary Goldberg,SQUAWK BOX,N,0,0,0,0
+894,894,7000068296,Courtney Reagan / Becky Quick,Target,Brian Cornell,SQUAWK BOX,N,0,0,0,0
+895,895,7000067825,Jon Fortt / Contessa Brewer,Autodesk,Andrew Anagnost,SQUAWK ALLEY,Y,0,0,0,0
+896,896,7000067639,Melissa Lee / Tyler Mathisen,Horizon Pharma,Timothy Walbert,POWER LUNCH,Y,0,0,7,0
+897,897,7000067559,Andrew Ross Sorkin,Barrick Gold,Mark Bristow,SQUAWK BOX,Y,3,8,3,0
+898,898,7000066863,Becky Quick / Joe Kernen,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+899,899,7000066839,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+900,900,7000066842,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+901,901,7000066840,Joe Kernen,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+902,902,7000066837,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+903,903,7000066835,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+904,904,7000066834,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+905,905,7000066833,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+906,906,7000066832,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+907,907,7000066831,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+908,908,7000066829,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+909,909,7000066828,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+910,910,7000066825,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+911,911,7000066824,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+912,912,7000066823,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+913,913,7000066813,Becky Quick ,Berkshire Hathaway,Warren Buffett,SQUAWK BOX,N,0,0,0,0
+914,914,7000066548,Jon Fortt / Morgan Brennan,Intuit,Sasan Goodarzi,SQUAWK ALLEY,Y,0,0,0,0
+915,915,7000066528,Wilfred Frost / Morgan Brennan / Carl Quintanilla,HPE,Antonio Neri,SQUAWK ON THE STREET,Y,0,0,0,0
+916,916,7000066507,Joe Kernen / Becky Quick / Unknown,AutoNation,Mike Jackson / Carl Liebert,SQUAWK BOX,Y,0,6,0,0
+917,917,7000066368,Sara Eisen / Wilfred Frost,Hormel Foods,Jim Snee,CLOSING BELL,Y,0,0,0,0
+918,918,7000066123,Jim Cramer,Shopify / Hasbro / Twilio / SendGrid / IFF / Tableau / Norfolk Southern / Ventas,Harley Finkelstein / Brian Goldner / Jeff Lawson / Sameer Dholakia / Andreas Fibig / Adam Selipsky / James A. Squires / Debra Cafaro,MAD MONEY WITH JIM CRAMER,Y,9999,9999,9999,9999
+919,919,7000066088,Kelly Evans / Tyler Mathisen / Melissa Lee,Tilray,Brendan Kennedy,POWER LUNCH,Y,0,0,0,0
+920,920,7000066067,Kelly Evans,Ritchie Bros,Ravi Saligram,THE EXCHANGE,N,0,0,0,0
+921,921,7000065897,Wilfred Frost,PayPal,Dan Schulman,CLOSING BELL,N,0,0,0,0
+922,922,7000065529,Jim Cramer,Johnson & Johnson,Alex Gorsky,MAD MONEY WITH JIM CRAMER,N,6,7,35,29
+923,923,7000065528,Jim Cramer,Johnson & Johnson,Alex Gorsky,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+924,924,7000065416,Aditi Roy / Carl Quintanilla,Canopy Growth,Bruce Linton,SQUAWK ON THE STREET,N,0,0,0,0
+925,925,7000065322,Jim Cramer,Waste Management,Jim Fish,MAD MONEY WITH JIM CRAMER,N,6,6,35,30
+926,926,7000065318,Jim Cramer,Twilio / SendGrid,Jeff Lawson / Sameer Dholakia,MAD MONEY WITH JIM CRAMER,Y,6,7,43,29
+927,927,7000065316,Jim Cramer,Twilio / SendGrid,Jeff Lawson / Sameer Dholakia,MAD MONEY WITH JIM CRAMER,Y,0,0,28,28
+928,928,7000065278,Melissa Lee / Tyler Mathisen,Ryder System,Robert Sanchez,POWER LUNCH,Y,0,0,0,0
+929,929,7000065244,Jon Fortt / Morgan Brennan / David Faber,SurveyMonkey,Zander Lurie,SQUAWK ALLEY,Y,0,0,0,0
+930,930,7000065239,Jon Fortt / Morgan Brennan / David Faber,Six Flag Entertainment,Jim Reid-Anderson,SQUAWK ALLEY,Y,0,0,0,0
+931,931,7000065232,Michael Santoli / Sara Eisen,Coca-Cola,James Quincey,SQUAWK ON THE STREET,Y,0,5,0,0
+932,932,7000065210,Jim Cramer,Cisco,Chuck Robbins,SQUAWK ON THE STREET,Y,0,0,0,0
+933,933,7000065211,Jim Cramer / David Faber,Cisco,Chuck Robbins,SQUAWK ON THE STREET,Y,0,0,0,0
+934,934,7000065106,Jim Cramer,Tableau,Adam Selipsky ,MAD MONEY WITH JIM CRAMER,N,7,7,37,29
+935,935,7000065102,Jim Cramer,International Flavors & Fragrances,Andreas Fibig ,MAD MONEY WITH JIM CRAMER,N,18,18,42,29
+936,936,7000065078,Leslie Picker / Sara Eisen / Wilfred Frost,Goldman Sachs,David Solomon,CLOSING BELL,N,0,0,0,0
+937,937,7000065077,Leslie Picker / Wilfred Frost,Goldman Sachs,David Solomon,CLOSING BELL,N,0,0,0,0
+938,938,7000065074,Leslie Picker,Goldman Sachs,David Solomon,CLOSING BELL,N,0,0,0,0
+939,939,7000065075,Sara Eisen,Goldman Sachs,David Solomon,CLOSING BELL,N,0,0,0,0
+940,940,7000065072,Leslie Picker,Goldman Sachs,David Solomon,CLOSING BELL,N,0,0,0,0
+941,941,7000065018,Phil LeBeau,BMW North America,Bernhard Kuhnt ,SQUAWK ON THE STREET,N,0,0,0,0
+942,942,7000064907,Jim Cramer,Ventas,Deb Cafaro,MAD MONEY WITH JIM CRAMER,N,6,7,40,29
+943,943,7000064825,Jon Fortt,AT&T Communications,John Donovan ,SQUAWK ALLEY,N,0,0,0,0
+944,944,7000064824,Jon Fortt,IBM,Ginni Rometty,SQUAWK ALLEY,N,0,0,0,0
+945,945,7000064823,Jon Fortt,IBM,Ginni Rometty,SQUAWK ALLEY,N,0,0,0,0
+946,946,7000064821,Morgan Brennan / Carl Quintanilla,Chegg,Dan Rosensweig,SQUAWK ALLEY,Y,0,0,0,0
+947,947,7000064692,Jim Cramer,Hasbro,Brian Goldner,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+948,948,7000064695,Jim Cramer,S&P Global,Doug Peterson,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+949,949,7000064694,Jim Cramer,Hasbro,Brian Goldner,MAD MONEY WITH JIM CRAMER,N,6,7,34,29
+950,950,7000064690,Jim Cramer,Norfolk Southern,James A. Squires,MAD MONEY WITH JIM CRAMER,N,6,7,35,30
+951,951,7000064696,Jim Cramer,S&P Global ,Doug Peterson,MAD MONEY WITH JIM CRAMER,N,6,7,33,29
+952,952,7000064617,Carl Quintanilla / Sara Eisen / David Faber,Spirit Airlines,Ted Christie,SQUAWK ON THE STREET,Y,0,0,0,0
+953,953,7000064444,Jim Cramer,Evolus / IAC / Clorox,David Moatazedi / Joey Levin / Benno O. Dorer,MAD MONEY WITH JIM CRAMER,Y,9999,9999,9999,9999
+954,954,7000064386,Jon Fortt / Carl Quintanilla,Zendesk,Mikkel Svane,SQUAWK ALLEY,Y,0,0,0,0
+955,955,7000064263,Jim Cramer,Evolus,David Moatazedi,MAD MONEY WITH JIM CRAMER,N,6,7,39,29
+956,956,7000064260,Jim Cramer,IAC ,Joey Levin,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+957,957,7000064262,Jim Cramer,IAC ,Joey Levin,MAD MONEY WITH JIM CRAMER,N,7,7,41,29
+958,958,7000064216,Kelly Evans / Tyler Mathisen,Dunkin’,David Hoffman,POWER LUNCH,Y,0,0,0,0
+959,959,7000064174,David Faber,BB&T / SunTrust,Kelly King / Bill Rogers,SQUAWK ON THE STREET,Y,0,0,0,0
+960,960,7000064060,Jim Cramer,Centene,Michael Neidorff,MAD MONEY WITH JIM CRAMER,N,7,7,44,28
+961,961,7000064005,Kelly Evans / Tyler Mathisen,New York Times ,Mark Thompson,POWER LUNCH,Y,0,0,0,0
+962,962,7000064004,Kelly Evans / Tyler Mathisen,New York Times ,Mark Thompson,POWER LUNCH,Y,0,0,0,0
+963,963,7000063971,Sara Eisen / David Faber,Take-Two,Strauss Zelnick,SQUAWK ON THE STREET,Y,0,5,0,0
+964,964,7000063852,Jim Cramer,MaxMyInterest,Gary Zimmerman,MAD MONEY WITH JIM CRAMER,N,9,9,35,28
+965,965,7000063847,Jim Cramer,Shark Tank,Robert Herjavec,MAD MONEY WITH JIM CRAMER,N,9,9,39,28
+966,966,7000063656,Jim Cramer,Clorox,Benno Dorer ,MAD MONEY WITH JIM CRAMER,N,6,6,34,20
+967,967,7000063427,Jim Cramer,Carbon,Joseph DeSimone,MAD MONEY WITH JIM CRAMER,N,9,10,37,29
+968,968,7000063422,Jim Cramer,ADP,Carlos Rodriguez,MAD MONEY WITH JIM CRAMER,N,6,6,34,28
+969,969,7000063360,Jim Cramer,PayPal / Meritor / Nucor / RBN Energy / American Electric Power,John Rainey / Jay Craig / John J. Ferriola / Rusty Braziel / Nick Akins,MAD MONEY WITH JIM CRAMER,Y,9999,9999,9999,9999
+970,970,7000063299,Joe Kernen / Wilfred Frost / Becky Quick,Exxon,Darren Woods,SQUAWK BOX,Y,0,0,0,0
+971,971,7000063110,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Koch Disruptive Technologies / Desktop Metal,Chase Koch / Ric Fulop,SQUAWK BOX,Y,0,0,35,0
+972,972,7000063098,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Koch Disruptive Technologies / Desktop Metal,Chase Koch / Ric Fulop,SQUAWK BOX,Y,0,0,0,0
+973,973,7000063093,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Kraft Group,Robert Kraft,SQUAWK BOX,Y,0,0,0,0
+974,974,7000062986,Jim Cramer,ServiceNow,John Donahoe,MAD MONEY WITH JIM CRAMER,N,6,6,45,28
+975,975,7000062984,Jim Cramer,American Electric Power,Nick Akins,MAD MONEY WITH JIM CRAMER,N,6,7,45,29
+976,976,7000062979,Jim Cramer,Domino’s,Ritch Allison,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+977,977,7000062982,Jim Cramer,Domino’s,Ritch Allison,MAD MONEY WITH JIM CRAMER,N,14,14,44,30
+978,978,7000062907,Phil LeBeau / Kelly Evans,Boeing,Dennis Muilenburg,THE EXCHANGE,N,0,0,0,0
+979,979,7000062906,Phil LeBeau / Kelly Evans,Boeing,Dennis Muilenburg,THE EXCHANGE,N,0,0,0,0
+980,980,7000062893,Jon Fortt / Morgan Brennan / Seema Mody,Royal Caribbean,Richard Fain,SQUAWK ALLEY,Y,0,0,0,0
+981,981,7000062519,Kelly Evans / Melissa Lee / Unknown,Noah Kerner,Acorns,POWER LUNCH,Y,0,0,0,0
+982,982,7000062860,Jim Cramer / David Faber,Advanced Micro Devices,Lisa Su,SQUAWK ON THE STREET,Y,0,20,0,0
+983,983,7000062858,Jim Cramer,Advanced Micro Devices,Lisa Su,SQUAWK ON THE STREET,Y,0,19,0,0
+984,984,7000062844,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Wheels Up,Kenny Dichter,SQUAWK BOX,Y,0,0,21,0
+985,985,7000062762,Jim Cramer,Nucor,John Ferriola,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+986,986,7000062761,Jim Cramer,Nucor,John Ferriola,MAD MONEY WITH JIM CRAMER,N,6,7,51,29
+987,987,7000062724,Morgan Brennan / Wilfred Frost,Mount Sinai Health System,Dr. Kenneth Davis,CLOSING BELL,Y,0,0,0,0
+988,988,7000062255,Jim Cramer,Wells Fargo,Tim Sloan,MAD MONEY WITH JIM CRAMER,N,6,7,34,29
+989,989,105701286,Jim Cramer,Wells Fargo,Tim Sloan,MAD MONEY WITH JIM CRAMER,N,8888,8888,8888,8888
+990,990,7000062140,Andrew Ross Sorkin,Vista Equity Partners,Robert F. Smith,SQUAWK BOX,Y,0,0,0,0
+991,991,7000062052,Jim Cramer,Okta,Todd McKinnon,MAD MONEY WITH JIM CRAMER,N,6,7,39,30
+992,992,7000062050,Jim Cramer,Okta,Todd McKinnon,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+993,993,7000062047,Jim Cramer,United Rentals,Mike Kneeland / Matthew Flannery,MAD MONEY WITH JIM CRAMER,Y,6,7,46,29
+994,994,7000061992,Kelly Evans / Phil LeBeau ,American Airlines,Doug Parker,THE EXCHANGE,N,0,0,0,0
+995,995,7000061958,Carl Quintanilla / David Faber,Union Pacific,Lance Fritz,SQUAWK ON THE STREET,Y,0,0,0,0
+996,996,7000061947,Sara Eisen,Procter & Gamble,David Taylor,SQUAWK ON THE STREET,N,0,0,0,0
+997,997,7000061943,Jim Cramer / Carl Quintanilla,Southwest Airlines,Gary Kelly,SQUAWK ON THE STREET,Y,0,0,0,0
+998,998,7000061930,Joe Kernen / Andrew Ross Sorkin / Becky Quick,EY,Mark Weinberger,SQUAWK BOX,Y,8888,8888,8888,8888
+999,999,7000061922,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Goldman Sachs,David Solomon,SQUAWK BOX,Y,0,0,0,0
+1000,1000,7000061923,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Goldman Sachs,David Solomon,SQUAWK BOX,Y,0,0,0,0
+1001,1001,7000061917,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Morgan Stanley,James Gorman,SQUAWK BOX,Y,0,0,0,0
+1002,1002,7000061913,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Workday,Aneel Bhusri,SQUAWK BOX,Y,0,0,0,0
+1003,1003,7000061910,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Humana,Bruce Broussard,SQUAWK BOX,Y,0,0,3,0
+1004,1004,7000061895,Joe Kernen / Andrew Ross Sorkin / Becky Quick,TPG,Jim Coulter,SQUAWK BOX,Y,0,0,0,0
+1005,1005,7000061679,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan,Jamie Dimon ,SQUAWK BOX,Y,0,0,0,0
+1006,1006,7000061674,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Uber,Dara Khosrowshahi,SQUAWK BOX,Y,0,0,0,0
+1007,1007,7000061720,Jim Cramer / David Faber / Carl Quintanilla,Viacom,Bob Bakish,SQUAWK ON THE STREET,Y,0,0,0,0
+1008,1008,7000061671,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Uber,Dara Khosrowshahi,SQUAWK BOX,Y,0,0,0,0
+1009,1009,7000061669,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Bernard Tyson,Kaiser Permanente,SQUAWK BOX,Y,0,0,6,0
+1010,1010,7000061666,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan Chase,Jamie Dimon,SQUAWK BOX,Y,0,0,0,0
+1011,1011,7000061665,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan Chase,Jamie Dimon,SQUAWK BOX,Y,0,0,0,0
+1012,1012,7000061667,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan Chase,Jamie Dimon,SQUAWK BOX,Y,0,0,6,0
+1013,1013,7000061663,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan Chase,Jamie Dimon,SQUAWK BOX,Y,0,0,0,0
+1014,1014,7000061727,Joe Kernen / Andrew Ross Sorkin / Becky Quick,PayPal,Dan Schulman,SQUAWK BOX,Y,0,0,0,0
+1015,1015,7000061660,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Dell Technologies,Michael Dell,SQUAWK BOX,Y,0,0,11,0
+1016,1016,7000061658,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Anheuser-Busch Inbev,Carlos Brito,SQUAWK BOX,Y,0,2,0,0
+1017,1017,7000061662,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Cisco,Chuck Robbins,SQUAWK BOX,Y,0,0,18,0
+1018,1018,7000061653,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Coca-Cola,James Quincey,SQUAWK BOX,Y,0,0,0,0
+1019,1019,7000061644,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Chevron,Michael Wirth,SQUAWK BOX,Y,0,0,0,0
+1020,1020,7000061643,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Chevron,Michael Wirth,SQUAWK BOX,Y,0,0,0,0
+1021,1021,7000061565,Jim Cramer,Logitech International,Bracken Darrell ,MAD MONEY WITH JIM CRAMER,N,21,21,41,30
+1022,1022,7000061519,Kelly Evans / Tyler Mathisen,Priceline.com,Brett Keller,POWER LUNCH,Y,0,0,0,0
+1023,1023,7000061450,Sara Eisen,ValueAct Capital,Jeff Ubben,WORLDWIDE EXCHANGE,N,0,0,0,0
+1024,1024,7000061433,Joe Kernen /Andrew Ross Sorkin / Becky Quick,BP,Bob Dudley,SQUAWK BOX,Y,0,0,44,0
+1025,1025,7000061429,Joe Kernen /Andrew Ross Sorkin / Becky Quick,IBM,Ginni Rometty,SQUAWK BOX,Y,0,0,0,0
+1026,1026,7000061422,Joe Kernen /Andrew Ross Sorkin / Becky Quick,UPS,David Abney,SQUAWK BOX,Y,0,0,0,0
+1027,1027,7000061413,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Marriott International,Arne Sorenson,SQUAWK BOX,Y,0,0,0,0
+1028,1028,7000061414,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Marriott International,Arne Sorenson,SQUAWK BOX,Y,0,0,0,0
+1029,1029,7000061409,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Blackstone,Steve Schwarzman,SQUAWK BOX,Y,0,0,0,0
+1030,1030,7000061403,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Bank of America,Brian Moynihan,SQUAWK BOX,Y,0,0,0,0
+1031,1031,7000061404,Sara Eisen,Salesforce,Marc Benioff,WORLDWIDE EXCHANGE,N,0,0,0,0
+1032,1032,7000060493,Michael Santoli / Andrew Ross Sorkin / Becky Quick,1-800-GOT-JUNK,Brian Scudamore,SQUAWK BOX,Y,0,0,0,0
+1033,1033,7000060394,Jim Cramer,Appian Corp.,Matt Calkins,MAD MONEY WITH JIM CRAMER,N,6,6,34,28
+1034,1034,7000060388,Jim Cramer,Kirkland Lake Gold,Tony Makuch,MAD MONEY WITH JIM CRAMER,N,0,0,26,26
+1035,1035,7000060389,Jim Cramer,Kirkland Lake Gold,Tony Makuch,MAD MONEY WITH JIM CRAMER,N,6,6,13,2
+1036,1036,7000060212,Jim Cramer,New Relic,Lew Cirne,MAD MONEY WITH JIM CRAMER,N,6,7,35,29
+1037,1037,7000060110,Joe Kernen / Andrew Ross Sorkin / Becky Quick,BlackRock,Larry Fink,SQUAWK BOX,Y,0,0,33,0
+1038,1038,7000060094,Phil LeBeau / Andrew Ross Sorkin / Becky Quick,United Airlines,Oscar Munoz,SQUAWK BOX,N,0,0,0,0
+1039,1039,7000060087,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Larry Fink,BlackRock,SQUAWK BOX,Y,0,0,33,0
+1040,1040,7000060086,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Larry Fink,BlackRock,SQUAWK BOX,Y,0,0,0,0
+1041,1041,7000059937,Kate Rogers / Melissa Lee / Kelly Evans / Tyler Mathisen,Domino’s,Ritch Allison,POWER LUNCH,N,0,0,0,0
+1042,1042,7000059885,Kate Rogers / Sara Eisen,Chipotle,Brian Niccol,SQUAWK ON THE STREET,N,0,0,0,0
+1043,1043,7000059848,Andrew Ross Sorkin / Becky Quick,Tilray / Privateer Holdings,Brendan Kennedy,SQUAWK BOX,Y,0,0,0,0
+1044,1044,7000059845,Phil LeBeau,Delta Air Lines,Ed Bastian,SQUAWK BOX,N,0,1,0,0
+1045,1045,7000059846,Andrew Ross Sorkin / Becky Quick,Delta Air Lines,Ed Bastian,SQUAWK BOX,N,0,0,0,0
+1046,1046,7000059777,Jim Cramer,,,MAD MONEY WITH JIM CRAMER,,6,6,39,30
+1047,1047,7000059776,Jim Cramer,,,MAD MONEY WITH JIM CRAMER,,0,0,28,28
+1048,1048,7000059748,Sara Eisen / Wilfred Frost,Kroger,Rodney McMullen,CLOSING BELL,N,0,0,0,0
+1049,1049,7000059652,Phil LeBeau,Fiat Chrysler,Mike Manley,SQUAWK BOX,N,1,1,0,0
+1050,1050,7000059637,Phil LeBeau,Volkswagen U.S.,Scott Keogh,,N,0,0,0,0
+1051,1051,7000059624,Phil LeBeau,Ford,Jim Hackett,SQUAWK BOX,N,0,0,0,0
+1052,1052,7000059412,Jim Cramer,Apple / EDXCOM / Canopy Growth Corporation / Allergan / Novartis / Amgen,Tim Cook / Kevin Sayer / Bruce Linton / Brenton L. Saunders / Dr. Vasant Narasimhan / Robert A. Bradway,MAD MONEY WITH JIM CRAMER,Y,9999,9999,9999,9999
+1053,1053,7000059355,Phil LeBeau,General Motors,Mary Barra,SQUAWK ON THE STREET,N,0,0,0,0
+1054,1054,7000059247,Jim Cramer,Intel,Bob Swan ,,N,0,0,28,28
+1055,1055,7000059253,Jim Cramer,Salesforce,Keith Block ,MAD MONEY WITH JIM CRAMER,N,7,7,33,28
+1056,1056,7000059248,Jim Cramer,Intel,Bob Swan ,,N,7,7,36,30
+1057,1057,7000059046,Jim Cramer,Dexcom,Kevin Sayer,MAD MONEY WITH JIM CRAMER,N,7,7,36,29
+1058,1058,7000059038,Jim Cramer,Constellation Brands,Bill Newlands / Rob Sands,MAD MONEY WITH JIM CRAMER,Y,0,0,27,27
+1059,1059,7000059043,Jim Cramer,Canopy Growth,Bruce Linton,MAD MONEY WITH JIM CRAMER,N,6,6,38,29
+1060,1060,7000059040,Jim Cramer,Constellation Brands,Bill Newlands / Rob Sands,MAD MONEY WITH JIM CRAMER,Y,13,13,31,29
+1061,1061,7000059003,Julia Boorstin,Viacom,Bob Bakish,POWER LUNCH,N,0,0,0,0
+1062,1062,7000058975,Jon Fortt / Julia Boorstin,AT&T Communications,John Donovan,SQUAWK ALLEY,Y,0,0,0,0
+1063,1063,7000058967,Jon Fortt,Micron,Sanjay Mehrotra,SQUAWK ALLEY,N,0,0,0,0
+1064,1064,7000058662,Jim Cramer,Bausch Health Companies,Joseph Papa,MAD MONEY WITH JIM CRAMER,N,10,11,41,30
+1065,1065,7000058658,Jim Cramer,Amgen,Robert A. Bradway,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+1066,1066,7000058656,Jim Cramer,Novartis,Dr. Vasant Narasimhan,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+1067,1067,7000058659,Jim Cramer,Amgen,Robert A. Bradway,MAD MONEY WITH JIM CRAMER,N,12,13,32,29
+1068,1068,7000058657,Jim Cramer,Novartis,Vas Narasimhan,MAD MONEY WITH JIM CRAMER,N,11,11,35,29
+1069,1069,7000058137,Jim Cramer,AMN Healthcare Services,Susan Salka,MAD MONEY WITH JIM CRAMER,N,7,7,39,30
+1070,1070,7000058136,Jim Cramer,AMN Healthcare Services,Susan Salka,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+1071,1071,7000056709,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,Canary,Dan Eberhart,SQUAWK BOX,Y,0,0,0,0
+1072,1072,7000056604,Jim Cramer,Acreage Holdings,Kevin Murphy,MAD MONEY WITH JIM CRAMER,N,9,10,38,28
+1073,1073,7000056602,Jim Cramer,Acreage Holdings,Kevin Murphy,MAD MONEY WITH JIM CRAMER,N,0,0,26,26
+1074,1074,7000056600,Jim Cramer,Paychex,Marty Mucci,MAD MONEY WITH JIM CRAMER,N,6,6,42,29
+1075,1075,7000056585,Sara Eisen / Michael Santoli,Carnival,Arnold Donald,CLOSING BELL,Y,0,0,0,0
+1076,1076,7000056420,Jim Cramer,Eli Lilly,Dave Ricks ,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+1077,1077,7000056414,Jim Cramer,Micron Technology,Sanjay Mehrotra,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+1078,1078,7000056421,Jim Cramer,Eli Lilly,Dave Ricks ,MAD MONEY WITH JIM CRAMER,N,6,6,35,29
+1079,1079,7000056416,Jim Cramer,Micron Technology,Sanjay Mehrotra,MAD MONEY WITH JIM CRAMER,N,6,6,35,29
+1080,1080,7000056288,Joe Kernen / Andrew Ross Sorkin / Unknown,GlaxoSmithKline,Emma Walmsley,SQUAWK BOX,Y,0,0,3,0
+1081,1081,7000056287,Joe Kernen,GlaxoSmithKline,Emma Walmsley,SQUAWK BOX,Y,0,0,0,0
+1082,1082,7000056209,Jim Cramer,Walmart E-Commerce USA,Marc Lore,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+1083,1083,7000056213,Jim Cramer,Trex,Jim Cline,MAD MONEY WITH JIM CRAMER,N,6,6,38,29
+1084,1084,7000056212,Jim Cramer,Walmart E-Commerce USA,Marc Lore,MAD MONEY WITH JIM CRAMER,N,6,7,42,29
+1085,1085,7000056150,Tyler Mathisen,Tilray,Brendan Kennedy,POWER LUNCH,Y,0,0,0,0
+1086,1086,7000056127,Josh Lipton,Oracle,Mark Hurd (call),SQUAWK ALLEY,Y,0,0,0,0
+1087,1087,7000055999,Jim Cramer,Nestlé Global / Starbucks,Mark Schneider / Kevin Johnson,MAD MONEY WITH JIM CRAMER,Y,10,10,38,30
+1088,1088,7000055994,Jim Cramer,Johnson & Johnson,Alex Gorsky,MAD MONEY WITH JIM CRAMER,N,35,35,30,30
+1089,1089,7000055992,Jim Cramer,Johnson & Johnson,Alex Gorsky,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+1090,1090,7000055767,Jim Cramer,Okta,Todd McKinnon,MAD MONEY WITH JIM CRAMER,N,6,7,37,28
+1091,1091,7000055764,Jim Cramer,Centene,Michael Neidorff,MAD MONEY WITH JIM CRAMER,N,6,7,42,28
+1092,1092,7000055763,Jim Cramer,Starbucks / Uber,Kevin Johnson / Dara Khosrowshahi,MAD MONEY WITH JIM CRAMER,Y,3,3,38,28
+1093,1093,7000055762,Jim Cramer,Starbucks / Uber,Kevin Johnson / Dara Khosrowshahi,MAD MONEY WITH JIM CRAMER,Y,0,0,26,26
+1094,1094,7000055658,Jim Cramer ,Starbucks,Kevin Johnson,SQUAWK ON THE STREET,N,0,0,0,0
+1095,1095,7000055659,Jim Cramer ,Starbucks,Kevin Johnson / Dara Khosrowshahi,SQUAWK ON THE STREET,N,0,0,0,0
+1096,1096,7000055655,Jim Cramer ,Starbucks,Kevin Johnson,SQUAWK ON THE STREET,N,0,0,0,0
+1097,1097,7000055654,Jim Cramer ,Starbucks,Kevin Johnson,SQUAWK ON THE STREET,N,0,2,0,0
+1098,1098,7000055575,Jim Cramer,Adobe,Shantanu Narayen,MAD MONEY WITH JIM CRAMER,N,7,7,36,28
+1099,1099,7000055570,Jim Cramer,Adobe,Shantanu Narayen,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+1100,1100,105625405,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Phil LeBeau / Unknown,Delta Air Lines,Ed Bastian,SQUAWK BOX,Y,8888,8888,8888,8888
+1101,1101,7000055451,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Phil LeBeau / Unknown,Delta Air Lines,Ed Bastian,SQUAWK BOX,Y,0,0,0,0
+1102,1102,7000055324,Jim Cramer,Signet,Gina Drosos,MAD MONEY WITH JIM CRAMER,N,9,9,33,30
+1103,1103,7000055322,Jim Cramer,FireEye,Kevin Mandia ,MAD MONEY WITH JIM CRAMER,N,25,25,41,29
+1104,1104,7000055319,Jim Cramer,FireEye,Kevin Mandia ,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+1105,1105,7000055326,Jim Cramer,Wix.com ,Avishai Abrahami ,MAD MONEY WITH JIM CRAMER,N,6,7,43,29
+1106,1106,7000055231,Jon Fortt / Morgan Brennan / Carl Quintanilla,UPS,David Abney,SQUAWK ALLEY,Y,0,0,0,0
+1107,1107,7000055098,Jim Cramer,Masimo Corp.,Joe Kiani,MAD MONEY WITH JIM CRAMER,N,6,6,33,29
+1108,1108,7000055001,Sara Eisen,Coca-Cola,James Quincey,SQUAWK ON THE STREET,Y,0,0,0,0
+1109,1109,7000054993,Joe Kernen / Michael Santoli / Andrew Ross Sorkin / Becky Quick/ Unknown,Nextdoor,Sarah Friar,SQUAWK BOX,Y,0,0,0,0
+1110,1110,7000054897,Jim Cramer,Tech Data,Rich Hume,MAD MONEY WITH JIM CRAMER,N,6,6,33,30
+1111,1111,7000054892,Jim Cramer,Splunk,Doug Merritt,MAD MONEY WITH JIM CRAMER,N,7,8,49,29
+1112,1112,7000054890,Jim Cramer,Splunk,Doug Merritt,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+1113,1113,7000054670,Jim Cramer,Union Square Hospitality Group / Union Square Hospitality Group / Goldbelly,Danny Meyer / Mark Leavitt / / Joe Ariel ,MAD MONEY WITH JIM CRAMER,Y,6,7,68,59
+1114,1114,7000054652,Jim Cramer,Ollie’s / Yum! Brands / Coupa / Groupon / U.S. Concrete,Mark Butler / Greg Creed / Rob Bernshteyn / Rich Williams / Bill Sandbrook,MAD MONEY WITH JIM CRAMER,Y,9999,9999,9999,9999
+1115,1115,7000054667,Jim Cramer,Domo,Josh James,MAD MONEY WITH JIM CRAMER,N,6,6,37,28
+1116,1116,7000054545,Andrew Ross Sorkin / Becky Quick,EY,Mark Weinberger,SQUAWK BOX,Y,0,0,0,0
+1117,1117,7000054461,Jim Cramer,Yum Brands,Greg Creed,MAD MONEY WITH JIM CRAMER,N,7,7,37,29
+1118,1118,7000054466,Jim Cramer,US Concrete,Bill Sandbrook,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+1119,1119,7000054459,Jim Cramer,Yum Brands,Greg Creed,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+1120,1120,7000054467,Jim Cramer,US Concrete,Bill Sandbrook,MAD MONEY WITH JIM CRAMER,N,7,7,36,29
+1121,1121,7000054465,Jim Cramer,Ollie’s,Mark Butler,MAD MONEY WITH JIM CRAMER,N,6,7,41,29
+1122,1122,7000054126,Jim Cramer,Anaplan,Frank Calderoni,MAD MONEY WITH JIM CRAMER,N,5,5,38,30
+1123,1123,7000054123,Jim Cramer,Coupa Software,Robert Bernshteyn,MAD MONEY WITH JIM CRAMER,N,5,5,52,29
+1124,1124,7000054127,Jim Cramer,Marathon Petroleum Corp.,Gary Heminger,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+1125,1125,7000054120,Jim Cramer,Marathon Petroleum Corp.,Gary Heminger,MAD MONEY WITH JIM CRAMER,N,5,5,45,30
+1126,1126,7000053898,Jim Cramer,Groupon,Rich Williams,MAD MONEY WITH JIM CRAMER,N,0,0,27,27
+1127,1127,7000053894,Jim Cramer,Groupon,Rich Williams,MAD MONEY WITH JIM CRAMER,N,6,6,33,29
+1128,1128,7000053851,Morgan Brennan / Carl Quintanilla,Huntington Ingalls Industries,Michael Petters,SQUAWK ALLEY,N,0,0,0,0
+1129,1129,7000053797,Joe Kernen / Michael Santoli / Becky Quick / Unknown,Snap-On,Nick Pinchuk,SQUAWK BOX,Y,0,0,0,0
+1130,1130,7000053794,Joe Kernen,Spark Therapeutics,Jeffrey Marrazzo,SQUAWK BOX,Y,0,0,0,0
+1131,1131,7000053681,Jim Cramer, Kar Auction Services,Jim Hallett,MAD MONEY WITH JIM CRAMER,N,6,7,43,28
+1132,1132,7000053644,Jim Cramer,Dollar Tree / PVH,Gary Philbin / Manny Chirico ,MAD MONEY WITH JIM CRAMER,Y,9999,9999,9999,9999
+1133,1133,7000053419,Jim Cramer,SoFi,Anthony Noto,,,6,7,41,30
+1134,1134,7000053418,Jim Cramer,SoFi,Anthony Noto,,,0,0,27,27
+1135,1135,7000053417,Jim Cramer,Dollar Tree,Gary Philbin,MAD MONEY WITH JIM CRAMER,N,18,18,40,29
+1136,1136,7000053411,Jim Cramer,PVH,Manny Chirico ,MAD MONEY WITH JIM CRAMER,N,0,0,28,28
+1137,1137,7000053413,Jim Cramer,PVH,Manny Chirico ,MAD MONEY WITH JIM CRAMER,N,6,7,35,29

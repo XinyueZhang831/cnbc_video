@@ -1,0 +1,572 @@
+,Company,Companyscount
+0,Paychex,6
+1,Carnival,2
+2,Thoughtspot,1
+3,Emergent Biosolutions,2
+4,Micron,6
+5,Eli Lilly,5
+6,Atari,1
+7,Biohaven Pharmaceutical,1
+8,Centene,6
+9,Anaplan,2
+10,Zoom Video,2
+11,Morgan Stanley,4
+12,Adobe,9
+13,Turning Point Therapeutics,2
+14,Robinhood,4
+15,Bil.Com,1
+16,Rocket Lab,1
+17,Continental Resources,2
+18,Wheels Up,2
+19,Delta Air Lines,16
+20,Palo Alto,2
+21,Doubleline Capital,3
+22,Ups,7
+23,Cvs Health,1
+24,Bank Of America,8
+25,The Carlyle Group,1
+26,Chevron,9
+27,Extreme Networks,1
+28,Goldman Sachs,15
+29,Nutanix,2
+30,Mongodb,2
+31,Stitch Fix,2
+32,Surveymonkey,4
+33,Snowflake,2
+34,Coca-Cola,9
+35,Natera,1
+36,Grocery Outlet,1
+37,Boot Barn,4
+38,Microchip Technology,2
+39,Republic Services,1
+40,Crowdstrike,3
+41,Edwards Lifesciences,1
+42,Servicenow,7
+43,Chipotle,7
+44,Wafd Bank,1
+45,Slack,4
+46,Cvs,4
+47,Avita Medical,1
+48,Mattel,1
+49,Crocs,1
+50,Canaccord Genuity,1
+51,Papa John'S,3
+52,Conocophillips,1
+53,Ppg Industries,1
+54,Coupa,2
+55,Salesforce,14
+56,Cleveland-Cliffs,2
+57,Ehealth,1
+58,Cyberark,1
+59,Mall Of America,1
+60,Ethan Allen,2
+61,Countr,1
+62,Full Harvest,1
+63,Agnico Eagle,2
+64,Hormel Foods,5
+65,Global Blood Therapeutics,1
+66,Hewlett Packard Enterprise,3
+67,Dollar Tree,3
+68,Carbon,2
+69,Bristol-Myers Squibb,3
+70,Cqs,1
+71,London Stock Exchange Group,1
+72,Paypal,8
+73,Affirm,3
+74,The Blackstone Group,7
+75,Flexjet,1
+76,Twitter,4
+77,United Airlines,14
+78,Rh,4
+79,Airbnb,4
+80,Five9,3
+81,Sofi,5
+82,Clorox,4
+83,Intuit,2
+84,Advanced Micro Devices,6
+85,Zillow,2
+86,Uncle Jack’S Steakhouse,1
+87,Charter,1
+88,Sirius Xm,1
+89,Sonos,1
+90,Liberty Media,1
+91,Pagerduty,3
+92,Tableau,5
+93,Okta,5
+94,Jaguar Land Rover,1
+95,Target,5
+96,Nvidia,4
+97,Walmart,4
+98,Warby Parker,1
+99,Qualcomm,4
+100,Eldorado,1
+101,Zendesk,2
+102,Levi’S,6
+103,Liveperson,3
+104,Biomarin,1
+105,Viacomcbs,8
+106,Cisco Systems,3
+107,Hersha Hospitality,1
+108,Dexcom,5
+109,Just Capital,1
+110,Realreal,1
+111,Tilray,7
+112,Rockwell Automation,1
+113,Dell Technologies,2
+114,Charles River Labs,1
+115,Norwegian Cruise Line,3
+116,T-Mobile,1
+117,Starbucks,15
+118,Mirror,1
+119,Brixmor Property Group,1
+120,Disney,8
+121,Amc Entertainment,2
+122,Roku,4
+123,Postmates,1
+124,Nielsen Holdings,1
+125,First Horizon,3
+126,Winnebago,1
+127,Boeing,10
+128,Twilio,8
+129,Charles Schwab,1
+130,Peloton,3
+131,Bruin Sports Capital,1
+132,J2 Global,1
+133,Ryanair,2
+134,Ziprecruiter,1
+135,Bnp Paribas Usa,2
+136,Global Payments,2
+137,Ozy,1
+138,Avenue Capital Group,1
+139,Columbia Sportswear,4
+140,Smarties,1
+141,International Paper,2
+142,Trex,2
+143,Wingstop,3
+144,Lime,1
+145,Warnermedia,2
+146,Southern Company,2
+147,Zebra Technologies,4
+148,Lululemon,2
+149,General Motors,2
+150,Beyond Meat,4
+151,"Autonation,",1
+152,Allbirds,1
+153,Quicken Loans,3
+154,Untuckit,1
+155,Virgin Galactic,1
+156,Ellevest,2
+157,American Airlines,5
+158,Netapp,1
+159,Tesla,2
+160,Baron Capital,3
+161,Brookfield Asset Management,1
+162,American Electric Power,3
+163,Align Technology,3
+164,Southwest Airlines,5
+165,Dow,2
+166,Csx,3
+167,Hawaiian Holdings,2
+168,Nasdaq,3
+169,Honeywell,1
+170,Biogen,1
+171,Victress Capital,1
+172,Logitech,2
+173,Hasbro,8
+174,Vertex Pharmaceuticals,1
+175,Nordstrom,1
+176,Discovery,4
+177,Under Armour,6
+178,Stockx,4
+179,Inspire Brands,1
+180,Reata Pharma,1
+181,Wd-40,1
+182,Snap-On,3
+183,Arrowhead Pharmaceuticals,1
+184,Union Pacific,3
+185,Thrive Global,1
+186,Wex,1
+187,Virgin,1
+188,Volvo,1
+189,Calpers,1
+190,Blackrock,11
+191,Johnson & Johnson,7
+192,Pag,1
+193,The Operation Hope,1
+194,Mickey Drexler,1
+195,Wendy’S,3
+196,Sap,2
+197,J. Crew,1
+198,Datawallet,2
+199,Domino’S,11
+200,Ringcentral,2
+201,Vice Media,1
+202,Constellation Brands,7
+203,Adidas,2
+204,Consolidated Edison,1
+205,U.S. Steel,1
+206,Iwg,1
+207,Goodrx,4
+208,Vining Sparks,1
+209,Draftkings,2
+210,Taylor Morrison,3
+211,Ibm,8
+212,Verizon,7
+213,Philip Morris,6
+214,Best Buy,2
+215,Gw Pharmaceuticals,2
+216,Motorola Solutions,1
+217,Match Group Group,2
+218,Canopy Growth,6
+219,Allianz,1
+220,Zscaler,1
+221,Humana,2
+222,Expedia Group,2
+223,Pimco,1
+224,Vice President Of The United States,1
+225,Omega Advisors,1
+226,Cronos,1
+227,Tech Data,2
+228,Agco,3
+229,Booking Holdings,1
+230,Tellurian,1
+231,Aimmune Therapeutics,1
+232,Bumble,1
+233,Vmware,3
+234,Google Cloud,1
+235,Baxter,1
+236,Cantor Fitzgerald,1
+237,Microsoft,2
+238,Alteryx,1
+239,Zoom Video Communications,1
+240,Polaris,1
+241,Verishop,2
+242,Altice Usa,1
+243,Talend,2
+244,Splunk,4
+245,Equinix,1
+246,At Home,1
+247,Docusign,1
+248,Choice Hotel,1
+249,Planet Fitness,2
+250,Casabella,1
+251,Ey Global,1
+252,Puris,2
+253,Autodesk,2
+254,Nestlé Global,3
+255,Box,2
+256,Jumia,1
+257,Canopy Growth Corporation,7
+258,Fortune,1
+259,Amn Healthcare,3
+260,Waste Management,3
+261,Cisco,5
+262,Village Farms,1
+263,Novocure,1
+264,Scotts Miracle-Gro,1
+265,Keurig Dr Pepper Inc,1
+266,Take-Two,4
+267,Ansys,2
+268,Dropbox,1
+269,Petiq,2
+270,Iac,6
+271,Kim Blickenstaff,1
+272,Visa,1
+273,Former Yankees,1
+274,Barstool Sports,1
+275,Etsy,5
+276,Aphria Interim,1
+277,Doordash,1
+278,Seatgeek,1
+279,Hologic,1
+280,Pat Brown,1
+281,Dynatrace,1
+282,Virgin Orbit,1
+283,Zynga,2
+284,Restaurant Brands,2
+285,Martin Marietta Materials,1
+286,Tom Leighton,1
+287,Nyse,1
+288,The Gabelli Funds,2
+289,Procter & Gamble,2
+290,Compass,1
+291,Exact Sciences,1
+292,Caryn Seidman-Becker,1
+293,Royal Caribbean,3
+294,Group 1 Auto,1
+295,Taboola,1
+296,Sage,1
+297,Dunkin’,3
+298,Chubb,1
+299,Gm Cruise,1
+300,Fubu,1
+301,Autonation,3
+302,Home Depot,3
+303,Equifax,1
+304,Medallia,1
+305,Nucor,5
+306,Turo,1
+307,Gilead Sciences,1
+308,Caliva,1
+309,Ford,2
+310,Volkswagen Group,1
+311,Wasserman,1
+312,The Dtx Company,1
+313,Discovery Communications,2
+314,Quip,1
+315,General Mills,1
+316,Red Hat,2
+317,Virgin Group,1
+318,Social Capital,1
+319,Vici Propeties,1
+320,Billionaire Tech,1
+321,Imax,1
+322,Strivr,1
+323,Cnex Labs,1
+324,Peek.Com,1
+325,Tripactions,1
+326,Change Healthcare,1
+327,Galaxy Digital,1
+328,Adaptive Biotechnologies,1
+329,Evenflo,1
+330,United Therapeutics,2
+331,Mount Sinai Health System,2
+332,Shake Shack,2
+333,Caterpillar,1
+334,Boston Scientific,1
+335,Boston Market,1
+336,Cowen,1
+337,Merck,1
+338,Wynn,1
+339,Huawei,2
+340,Linkedin,2
+341,Quibi,2
+342,Kpmg U.S.,1
+343,Devon Energy,1
+344,The Hersey Company,1
+345,Facebook,2
+346,Aston Martin,1
+347,Handshake,1
+348,Iff,2
+349,Airbus,1
+350,United Technologies,6
+351,Chewy,1
+352,Ginkgo Bioworks,2
+353,Leaflink,1
+354,Fiverr,1
+355,Eqt,1
+356,Duke Energy,1
+357,Vox Media,1
+358,Marvell Technology,1
+359,Raytheon,4
+360,Stew Leonard’S,1
+361,Revolve,1
+362,Dana Inc.,1
+363,Jeff Wilke,1
+364,Shell,1
+365,Brinks,1
+366,Guardant Health,1
+367,Boingo,1
+368,Astrazeneca,1
+369,Dowdupont,1
+370,Corteva Agriscience,1
+371,Iovance Biotherapeutics,1
+372,Workday,4
+373,Logiric,1
+374,Pvh,6
+375,Agco Cooperation,1
+376,Acreage Holdings,3
+377,Mondelez International,3
+378,Cigna,1
+379,Focus Brands,1
+380,Pioneer Natural Resources,1
+381,Acreage,2
+382,Wyndham Destinations,1
+383,Joann Stores,1
+384,Mcdonald’S,4
+385,Irobot,1
+386,Hilton,1
+387,Ace Hardware,1
+388,Moelis & Company,1
+389,The Purple Carrot,1
+390,Morningstar,1
+391,Tg Therapeutics,1
+392,American Elements,1
+393,Oculus,1
+394,Edgewell Personal Care,1
+395,Harry'S,2
+396,Idexx,1
+397,Novartis,6
+398,Bankunited,1
+399,Y Combinator,1
+400,Proofpoint,2
+401,Pinterest,3
+402,Duolingo,1
+403,Avantor,1
+404,Away,1
+405,Zipline,1
+406,Luckin,1
+407,Phononic,1
+408,Clear,1
+409,Indigo Ag,1
+410,Trade Desk,1
+411,Williams-Sonoma,2
+412,Uber,5
+413,Bausch Health,1
+414,Vanguard,1
+415,Cbre,1
+416,Parsons Corp.,1
+417,1-800-Flowers.Com,1
+418,Teladoc,1
+419,Funko,1
+420,Glenview Capital,1
+421,Apple,2
+422,Dairy Queen,1
+423,Reddit And Initialized Capital,1
+424,Brooks Running Company,1
+425,Benjamin Moore Paints,1
+426,Gamco Investors,1
+427,Fitbit,1
+428,Citigroup,1
+429,Chegg,2
+430,Akamai,1
+431,Mondelez,1
+432,Shopify,2
+433,Rio Tinto,1
+434,Bp,4
+435,Greycroft,1
+436,Ebay,1
+437,Stifel,1
+438,3M,2
+439,Rxr Realty,1
+440,Marketaxess,1
+441,Cypres Semiconductor,1
+442,Intel,3
+443,Grubhub,3
+444,Comcast,3
+445,Zuora,2
+446,Six Flag Entertainment,2
+447,Occidental,1
+448,Five Below,1
+449,Bb&T,2
+450,Audible,1
+451,Porsche North America,1
+452,Santander,1
+453,Mercedes-Benz Usa,1
+454,Conagra,1
+455,Bridgestone Golf,1
+456,Macy'S,2
+457,Anthony Noto,1
+458,Ollie’S,3
+459,Kohl’S,1
+460,Hannon Armstrong,1
+461,Alcon,1
+462,Dirty Lemon-Parent Iris Nova,1
+463,2U,1
+464,Alder Biopharmaceuticals,1
+465,Rigup,1
+466,Signet,2
+467,Matternet,1
+468,Yext,1
+469,Barneys New York,1
+470,Dow Inc.,1
+471,Alexandria Real Estate Equities,1
+472,Freightwaves,1
+473,Hello Alfred,1
+474,Redfin,1
+475,Thermo Fisher Scientific,1
+476,Pegasystems,1
+477,Iridium Communications,1
+478,Starboard Value,1
+479,Nba Hall Of Famer,1
+480,Rent The Runway,1
+481,Oracle,2
+482,Micron Technology,3
+483,J.P. Morgan,7
+484,American University,2
+485,Fidelity National Information Services,1
+486,Marriott International,3
+487,Kayak,1
+488,Ulta Beauty,1
+489,Hess,1
+490,Siemens Ag,1
+491,Bloomin’ Brands,1
+492,Softbank,7
+493,Sotheby’S,1
+494,Invitae,1
+495,Alaska Airlines,1
+496,Carvana,1
+497,Exxon,3
+498,Again Capital,1
+499,Siemens Usa,1
+500,Suntory Holdings,1
+501,Newmont Mining,1
+502,Horizon Pharma,1
+503,Barrick Gold,1
+504,Berkshire Hathaway,16
+505,Hpe,1
+506,Sendgrid,3
+507,Norfolk Southern,2
+508,Ventas,2
+509,Ritchie Bros,1
+510,Ryder System,1
+511,International Flavors & Fragrances,1
+512,Bmw North America,1
+513,At&T Communications,2
+514,S&P Global,2
+515,Spirit Airlines,1
+516,Evolus,2
+517,Suntrust,1
+518,New York Times,2
+519,Maxmyinterest,1
+520,Shark Tank,1
+521,Adp,1
+522,Meritor,1
+523,Rbn Energy,1
+524,Koch Disruptive Technologies,2
+525,Desktop Metal,2
+526,Kraft Group,1
+527,Noah Kerner,1
+528,Wells Fargo,2
+529,Vista Equity Partners,1
+530,United Rentals,1
+531,Ey,2
+532,Tpg,1
+533,Bernard Tyson,1
+534,Anheuser-Busch Inbev,1
+535,Logitech International,1
+536,Priceline.Com,1
+537,Valueact Capital,1
+538,1-800-Got-Junk,1
+539,Appian Corp.,1
+540,Kirkland Lake Gold,2
+541,New Relic,1
+542,Larry Fink,2
+543,Privateer Holdings,1
+544,Kroger,1
+545,Fiat Chrysler,1
+546,Volkswagen U.S.,1
+547,Edxcom,1
+548,Allergan,1
+549,Amgen,3
+550,Bausch Health Companies,1
+551,Canary,1
+552,Glaxosmithkline,2
+553,Walmart E-Commerce Usa,2
+554,Fireeye,2
+555,Wix.Com,1
+556,Masimo Corp.,1
+557,Nextdoor,1
+558,Union Square Hospitality Group,2
+559,Goldbelly,1
+560,Yum! Brands,1
+561,Groupon,3
+562,U.S. Concrete,1
+563,Domo,1
+564,Yum Brands,2
+565,Us Concrete,2
+566,Coupa Software,1
+567,Marathon Petroleum Corp.,2
+568,Huntington Ingalls Industries,1
+569,Spark Therapeutics,1
+570,Kar Auction Services,1

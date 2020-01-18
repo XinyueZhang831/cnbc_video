@@ -1,0 +1,1139 @@
+,Unnamed: 0.1,video_id,Interviewer,Company,CEO,Tparty,B_music_s,B1_music_s,E_music_s,E1_music_s,hosts_count,CEO_count,height,nb_frames,time,width,CEO_origin,Company_origin,Interviewer_origin
+0,0,7000114609,Jim Cramer,Paychex,Marty Mucci,N,6,7,44,27,1.0,1.0,720.0,14663.0,489.255367,1280.0,Marty Mucci,Paychex,Jim Cramer
+1,1,7000114567,Sara Eisen / Wilfred Frost,Carnival,Arnold Donald,Y,0,0,0,0,2.0,1.0,720.0,9750.0,325.324367,1280.0,Arnold Donald,Carnival,Sara Eisen / Wilfred Frost
+2,2,7000114415,Jim Cramer,Thoughtspot,Sudheesh Nair,N,7,8,30,27,1.0,1.0,720.0,15025.0,501.333367,1280.0,Sudheesh Nair,ThoughtSpot ,Jim Cramer
+3,3,7000114412,Jim Cramer,Emergent Biosolutions,Bob Kramer,N,6,7,37,28,1.0,1.0,720.0,10781.0,359.725367,1280.0,Bob Kramer ,Emergent BioSolutions,Jim Cramer
+4,4,7000114330,Morgan Brennan / Jon Fortt,Micron,Sanjay Mehrotra,Y,0,0,0,0,2.0,1.0,720.0,13429.0,448.08036699999997,1280.0,Sanjay Mehrotra,Micron,Morgan Brennan / Jon Fortt
+5,5,7000113988,Jim Cramer,Eli Lilly,David Ricks,N,6,6,33,27,1.0,1.0,720.0,16611.0,554.253367,1280.0,David Ricks,Eli Lilly ,Jim Cramer
+6,6,7000113985,Jim Cramer,Eli Lilly,David Ricks,N,0,0,27,26,1.0,1.0,720.0,4358.0,145.41136699999998,1280.0,David Ricks,Eli Lilly ,Jim Cramer
+7,7,7000113927,Jon Fortt / Carl Quintanilla,Atari,Fred Chesnais,Y,0,0,0,0,2.0,1.0,720.0,8748.0,291.891367,1280.0,Fred Chesnais,Atari,Jon Fortt / Carl Quintanilla
+8,8,7000113457,Jim Cramer,Biohaven Pharmaceutical,Vlad Coric,N,4,5,45,27,1.0,1.0,720.0,12428.0,414.680367,1280.0,Vlad Coric,Biohaven Pharmaceutical,Jim Cramer
+9,9,7000113455,Jim Cramer,Centene,Michael Neidorff,N,5,5,40,28,1.0,1.0,720.0,12728.0,424.690367,1280.0,Michael Neidorff,Centene,Jim Cramer
+10,10,7000113451,Jim Cramer,Anaplan,Frank Calderoni,N,6,6,43,28,1.0,1.0,720.0,13435.0,448.280367,1280.0,Frank Calderoni,Anaplan,Jim Cramer
+11,11,7000113429,Unknown / Wilfred Frost,Zoom Video,Eric Yuan,Y,0,0,0,0,2.0,1.0,720.0,9259.0,308.941367,1280.0,Eric Yuan,Zoom Video,Unknown / Wilfred Frost
+12,12,7000113428,Unknown / Wilfred Frost,Zoom Video,Eric Yuan,Y,0,0,0,0,2.0,1.0,720.0,5486.0,183.049367,1280.0,Eric Yuan,Zoom Video,Unknown / Wilfred Frost
+13,13,7000113419,Wilfred Frost,Morgan Stanley,James Gorman,N,0,0,0,0,1.0,1.0,720.0,25482.0,850.249367,1280.0,James Gorman,Morgan Stanley,Wilfred Frost
+14,14,7000113418,Wilfred Frost,Morgan Stanley,James Gorman,N,0,0,0,0,1.0,1.0,720.0,3331.0,111.14436699999999,1280.0,James Gorman,Morgan Stanley,Wilfred Frost
+15,15,7000113403,Jim Cramer,Adobe,Shantanu Narayen,N,0,0,40,32,1.0,1.0,720.0,14704.0,490.623367,1280.0,Shantanu Narayen,Adobe,Jim Cramer
+16,16,7000113335,Joe Kernen,Turning Point Therapeutics,Dr. Athena Countouriotis,N,4,5,0,0,1.0,1.0,720.0,10210.0,340.673367,1280.0,Dr. Athena Countouriotis,Turning Point Therapeutics,Joe Kernen
+17,17,7000113251,Jim Cramer,Robinhood,Vladimir Tenev,N,6,7,53,27,1.0,1.0,720.0,14125.0,471.303367,1280.0,Vladimir Tenev,Robinhood,Jim Cramer
+18,18,7000113250,Jim Cramer,Robinhood,Vladimir Tenev,N,0,0,28,27,1.0,1.0,720.0,5114.0,170.63636699999998,1280.0,Vladimir Tenev,Robinhood,Jim Cramer
+19,19,7000113159,Jon Fortt / Morgan Brennan / Carl Quintanilla,Bil.Com,Rene Lacerte,Y,0,0,0,0,3.0,1.0,720.0,10722.0,357.757367,1280.0,Rene Lacerte,Bil.com,Jon Fortt / Morgan Brennan / Carl Quintanilla
+20,20,7000113154,Jon Fortt / Morgan Brennan / Carl Quintanilla,Rocket Lab,Peter Beck,Y,0,0,0,0,3.0,1.0,720.0,10848.0,361.961367,1280.0,Peter Beck,Rocket Lab,Jon Fortt / Morgan Brennan / Carl Quintanilla
+21,21,7000113137,Morgan Brennan / Carl Quintanilla,Continental Resources,Harold Hamm / Bill Berry,Y,0,0,0,0,2.0,2.0,720.0,9537.0,318.21736699999997,1280.0,Harold Hamm / Bill Berry,Continental Resources,Morgan Brennan / Carl Quintanilla
+22,22,7000113101,Andrew Ross Sorkin / Joe Kernen,Wheels Up,Kenny Dichter,Y,0,0,0,0,2.0,1.0,720.0,15886.0,530.062367,1280.0,Kenny Dichter,Wheels Up ,Andrew Ross Sorkin / Joe Kernen
+23,23,7000113105,Andrew Ross Sorkin,Delta Air Lines,Ed Bastian,N,0,0,0,0,1.0,1.0,720.0,4088.0,136.402367,1280.0,Ed Bastian,Delta Air Lines,Andrew Ross Sorkin
+24,24,7000113087,Andrew Ross Sorkin / Joe Kernen,Delta Air Lines,Ed Bastian,Y,0,0,0,0,2.0,1.0,720.0,17118.0,571.1703669999999,1280.0,Ed Bastian,Delta Air Lines,Andrew Ross Sorkin / Joe Kernen
+25,25,7000113092,Joe Kernen,Delta Air Lines,Ed Bastian,N,0,0,0,0,1.0,1.0,720.0,9088.0,303.235367,1280.0,Ed Bastian,Delta Air Lines,Joe Kernen
+26,26,7000113005,Jim Cramer,Palo Alto,Nikesh Arora,N,6,7,38,27,1.0,1.0,720.0,14125.0,471.303367,1280.0,Nikesh Arora,Palo Alto,Jim Cramer
+27,27,7000112949,Scott Wapner,Doubleline Capital,Jeffrey Gundlach,N,0,0,30,0,1.0,1.0,720.0,82035.0,2737.234367,1280.0,Jeffrey Gundlach,DoubleLine Capital,Scott Wapner
+28,28,7000112920,Frank Holland,Ups / Cvs Health,David Abney / Larry Merlo,Y,0,0,0,0,1.0,2.0,720.0,14283.0,476.57536699999997,1280.0,David Abney / Larry Merlo,UPS / CVS Health,Frank Holland
+29,29,7000112919,Wilfred Frost,Bank Of America,Brian Moynihan,N,0,0,0,0,1.0,1.0,720.0,19908.0,664.263367,1280.0,Brian Moynihan,Bank of America,Wilfred Frost 
+30,30,7000112911,Wilfred Frost,The Carlyle Group,Kewsong Lee,N,0,0,0,0,1.0,1.0,720.0,18410.0,614.279367,1280.0,Kewsong Lee,The Carlyle Group,Wilfred Frost
+31,31,7000112901,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Chevron,Michael Wirth,Y,0,0,50,0,3.0,1.0,720.0,19120.0,637.970367,1280.0,Michael Wirth,Chevron,Becky Quick / Andrew Ross Sorkin / Joe Kernen
+32,32,7000112900,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Chevron,Michael Wirth,Y,0,0,50,0,3.0,1.0,720.0,19120.0,637.970367,1280.0,Michael Wirth,Chevron,Becky Quick / Andrew Ross Sorkin / Joe Kernen
+33,33,7000112707,Jim Cramer,Extreme Networks,Ed Meyercord,N,6,7,40,28,1.0,1.0,504.0,11489.0,383.349367,896.0,Ed Meyercord,Extreme Networks,Jim Cramer
+34,34,7000112687,Wilfred Frost,Goldman Sachs,John Waldron,N,2,3,0,0,1.0,1.0,720.0,22918.0,764.696367,1280.0,John Waldron,Goldman Sachs,Wilfred Frost
+35,35,7000112685,Wilfred Frost,Goldman Sachs,John Waldron,N,2,3,0,0,1.0,1.0,720.0,3315.0,110.610367,1280.0,John Waldron,Goldman Sachs,Wilfred Frost
+36,36,7000112661,Jim Cramer,Nutanix,Dheeraj Pandey,N,0,0,27,26,1.0,1.0,720.0,10994.0,366.832367,1280.0,Dheeraj Pandey,Nutanix,Jim Cramer
+37,37,7000112635,Jon Fortt / Morgan Brennan / Carl Quintanilla,Mongodb,Dev Ittycheria,Y,0,0,0,0,3.0,1.0,720.0,9993.0,333.432367,1280.0,Dev Ittycheria,MongoDB,Jon Fortt / Morgan Brennan / Carl Quintanilla
+38,38,7000112631,Jon Fortt / Morgan Brennan / Carl Quintanilla,Stitch Fix,Katrina Lake,Y,0,0,0,0,3.0,1.0,720.0,15588.0,520.119367,1280.0,Katrina Lake,Stitch Fix,Jon Fortt / Morgan Brennan / Carl Quintanilla
+39,39,7000112607,Andrew Ross Sorkin / Joe Kernen,Surveymonkey,Zander Lurie,Y,0,0,20,2,2.0,1.0,720.0,5291.0,176.54236699999998,1280.0,Zander Lurie,SurveyMonkey,Andrew Ross Sorkin / Joe Kernen
+40,40,7000112442,Scott Wapner,Snowflake,Frank Slootman / Brad Gerstner,Y,0,0,0,0,1.0,2.0,720.0,8711.0,290.656367,1280.0,Frank Slootman / Brad Gerstner,Snowflake,Scott Wapner
+41,41,7000112414,David Faber / Jim Cramer,Coca-Cola,James Quincey,Y,0,0,0,0,2.0,1.0,720.0,5631.0,187.88736699999998,1280.0,James Quincey,Coca-Cola,David Faber / Jim Cramer
+42,42,7000112409,David Faber / Jim Cramer,Coca-Cola,James Quincey,Y,0,0,0,0,2.0,1.0,720.0,14854.0,495.62836699999997,1280.0,James Quincey,Coca-Cola,David Faber / Jim Cramer
+43,43,7000112225,Jim Cramer,Natera,Steve Chapman,N,6,6,36,28,1.0,1.0,720.0,13640.0,455.120367,1280.0,Steve Chapman,Natera,Jim Cramer
+44,44,7000112223,Jim Cramer,Grocery Outlet,Eric Lindberg,N,5,6,46,28,1.0,1.0,720.0,12526.0,417.95036699999997,1280.0,Eric Lindberg,Grocery Outlet,Jim Cramer
+45,45,7000112218,Jim Cramer,Boot Barn,Jim Conroy,N,18,19,74,59,1.0,1.0,720.0,14532.0,484.884367,1280.0,Jim Conroy,Boot Barn,Jim Cramer
+46,46,7000112216,Jim Cramer,Boot Barn,Jim Conroy,N,0,0,29,28,1.0,1.0,720.0,4137.0,138.037367,1280.0,Jim Conroy,Boot Barn,Jim Cramer
+47,47,7000112185,Morgan Brennan,Microchip Technology,Steve Sanghi,N,0,0,0,0,1.0,1.0,720.0,7404.0,247.046367,1280.0,Steve Sanghi,Microchip Technology,Morgan Brennan
+48,48,7000112184,Morgan Brennan,Microchip Technology,Steve Sanghi,N,0,0,0,0,1.0,1.0,720.0,5055.0,168.668367,1280.0,Steve Sanghi,Microchip Technology,Morgan Brennan
+49,49,7000112157,Tyler Mathisen,Republic Services,Don Slager,N,0,0,0,0,1.0,1.0,720.0,7088.0,236.502367,1280.0,Don Slager,Republic Services,Tyler Mathisen
+50,50,7000112091,Unknown / Andrew Ross Sorkin / Joe Kernen,Crowdstrike,George Kurtz,Y,0,4,0,0,3.0,1.0,720.0,9044.0,301.767367,1280.0,George Kurtz,CrowdStrike,Unknown / Andrew Ross Sorkin / Joe Kernen
+51,51,7000112008,Jim Cramer,Edwards Lifesciences,Michael Mussallem,N,6,6,43,28,1.0,1.0,720.0,12731.0,424.790367,1280.0,Michael Mussallem,Edwards Lifesciences,Jim Cramer
+52,52,7000112004,Jim Cramer,Servicenow,Bill Mcdermott,N,6,6,34,27,1.0,1.0,720.0,13135.0,438.27036699999996,1280.0,Bill McDermott,ServiceNow,Jim Cramer
+53,53,7000112002,Jim Cramer,Chipotle,Brian Niccol / John Hartung,Y,18,18,29,28,1.0,2.0,720.0,22018.0,734.666367,1280.0,Brian Niccol / John Hartung,Chipotle,Jim Cramer
+54,54,7000111990,Jim Cramer,Chipotle,Brian Niccol / John Hartung,Y,0,0,28,27,1.0,2.0,720.0,2539.0,84.71736700000001,1280.0,Brian Niccol / John Hartung,Chipotle,Jim Cramer
+55,55,7000111941,Tyler Mathisen,Wafd Bank,Brent Beardall,N,0,0,0,0,1.0,1.0,720.0,6519.0,217.516367,1280.0,Brent Beardall,WaFd Bank,Tyler Mathisen
+56,56,7000111882,Unknown / Becky Quick / Joe Kernen,Slack,Stewart Butterfield,Y,0,0,0,0,3.0,1.0,720.0,9007.0,300.533367,1280.0,Stewart Butterfield,Slack,Unknown / Becky Quick / Joe Kernen
+57,57,7000111875,Unknown / Becky Quick / Joe Kernen,Cvs,Larry Merlo,Y,0,0,0,0,3.0,1.0,720.0,15537.0,518.417367,1280.0,Larry Merlo,CVS,Unknown / Becky Quick / Joe Kernen
+58,58,7000111887,Unknown / Becky Quick / Joe Kernen,Cvs,Larry Merlo,Y,0,0,0,0,3.0,1.0,720.0,3851.0,128.49436699999998,1280.0,Larry Merlo,CVS,Unknown / Becky Quick / Joe Kernen
+59,59,7000111806,Jim Cramer,Avita Medical,Dr. Michael Perry,N,6,6,40,29,1.0,1.0,720.0,14047.0,468.701367,1280.0,Dr. Michael Perry,Avita Medical,Jim Cramer
+60,60,7000111804,Jim Cramer,Robinhood,Vladimir Tenev / Baiju Buhatt,Y,8,9,45,30,1.0,2.0,720.0,17211.0,574.273367,1280.0,Vladimir Tenev / Baiju Buhatt,Robinhood,Jim Cramer
+61,61,7000111802,Jim Cramer,Mattel,Ynon Kreiz,N,3,3,36,29,1.0,1.0,720.0,14062.0,469.201367,1280.0,Ynon Kreiz,Mattel,Jim Cramer
+62,62,7000111803,Jim Cramer,Robinhood,Vladimir Tenev / Baiju Buhatt,Y,0,0,27,27,1.0,2.0,720.0,4119.0,137.436367,1280.0,Vladimir Tenev / Baiju Buhatt,Robinhood,Jim Cramer
+63,63,7000111764,Bill Griffeth / Seema Mody,Crocs,Andrew Rees,Y,0,0,0,0,2.0,1.0,720.0,10167.0,339.238367,1280.0,Andrew Rees,Crocs,Bill Griffeth / Seema Mody
+64,64,7000111756,Bill Griffeth / Seema Mody,Canaccord Genuity,Dan Daviau,Y,0,0,0,0,2.0,1.0,720.0,6467.0,215.781367,1280.0,Dan Daviau,Canaccord Genuity,Bill Griffeth / Seema Mody
+65,65,7000111713,Kate Rogers,Papa John'S,Rob Lynch,N,0,0,0,0,1.0,1.0,720.0,11478.0,382.982367,1280.0,Rob Lynch,Papa John's,Kate Rogers
+66,66,7000111688,Becky Quick / Joe Kernen / Unknown / Unknown / Unknown,Conocophillips,Ryan Lance,Y,0,0,0,0,5.0,1.0,720.0,18616.0,621.153367,1280.0,Ryan Lance,ConocoPhillips,Becky Quick / Joe Kernen / Unknown / Unknown / Unknown
+67,67,7000111614,Jim Cramer,Ppg Industries,Michael Mcgarry,N,6,6,37,28,1.0,1.0,720.0,13132.0,438.170367,1280.0,Michael McGarry,PPG Industries,Jim Cramer
+68,68,7000111610,Jim Cramer,Coupa,Rob Bernshteyn,N,3,4,40,29,1.0,1.0,720.0,11977.0,399.632367,1280.0,Rob Bernshteyn,Coupa,Jim Cramer
+69,69,7000111609,Jim Cramer,Salesforce,Keith Block,N,4,4,37,30,1.0,1.0,720.0,14678.0,489.755367,1280.0,Keith Block,Salesforce,Jim Cramer
+70,70,7000111595,Jim Cramer,Salesforce,Keith Block,N,0,0,27,27,1.0,1.0,720.0,3119.0,104.070367,1280.0,Keith Block,Salesforce,Jim Cramer
+71,71,7000111582,Morgan Brennan / Wilfred Frost / Michael Santoli,Cleveland-Cliffs,Lourenco Goncalves,Y,0,3,0,0,3.0,1.0,720.0,8984.0,299.76536699999997,1280.0,Lourenco Goncalves,Cleveland-Cliffs,Morgan Brennan / Wilfred Frost / Michael Santoli(*)
+72,72,7000111581,Morgan Brennan / Wilfred Frost / Michael Santoli,Cleveland-Cliffs,Lourenco Goncalves,Y,0,3,0,0,3.0,1.0,720.0,5413.0,180.61336699999998,1280.0,Lourenco Goncalves,Cleveland-Cliffs,Morgan Brennan / Wilfred Frost / Michael Santoli(*)
+73,73,7000111403,Jim Cramer,Ehealth,Scott Flanders,N,6,6,44,28,1.0,1.0,720.0,14007.0,467.36636699999997,1280.0,Scott Flanders,eHealth,Jim Cramer
+74,74,7000111399,Jim Cramer,Cyberark,Udi Mokady,N,6,6,41,30,1.0,1.0,720.0,14234.0,474.940367,1280.0,Udi Mokady,CyberArk,Jim Cramer
+75,75,7000111146,Contessa Brewer,Mall Of America,Jill Renslow,N,0,0,0,0,1.0,1.0,720.0,4656.0,155.354367,1280.0,Jill Renslow,Mall of America,Contessa Brewer
+76,76,7000111114,Morgan Brennan / David Faber / Unknown,Ethan Allen,Farooq Kathwari,Y,0,0,0,0,3.0,1.0,720.0,10512.0,350.750367,1280.0,Farooq Kathwari,Ethan Allen,Morgan Brennan / David Faber / Unknown
+77,77,7000110875,Brian Sullivan,Countr,Manon Roux,N,0,0,0,0,1.0,1.0,720.0,6065.0,202.368367,1280.0,Manon Roux,Countr,Brian Sullivan
+78,78,7000110696,Jim Cramer,Full Harvest,Christine Moseley,N,8,8,33,29,1.0,1.0,720.0,12753.0,425.524367,1280.0,Christine Moseley,Full Harvest ,Jim Cramer
+79,79,7000110689,Jim Cramer,Agnico Eagle,Sean Boyd,N,6,6,44,30,1.0,1.0,720.0,15303.0,510.609367,1280.0,Sean Boyd,Agnico Eagle,Jim Cramer
+80,80,7000110666,Courtney Reagan / Jim Cramer,Hormel Foods,Jim Snee,Y,0,4,0,0,2.0,1.0,720.0,4466.0,149.015367,1280.0,Jim Snee,Hormel Foods,Courtney Reagan / Jim Cramer
+81,81,7000110667,Courtney Reagan / Jim Cramer / Wilfred Frost,Hormel Foods,Jim Snee,Y,0,4,0,0,3.0,1.0,720.0,8165.0,272.43836699999997,1280.0,Jim Snee,Hormel Foods,Courtney Reagan / Jim Cramer / Wilfred Frost
+82,82,7000110633,Meg Tirrell,Global Blood Therapeutics,Ted Love,N,0,0,0,0,1.0,1.0,720.0,4498.0,150.082367,1280.0,Ted Love,Global Blood Therapeutics,Meg Tirrell
+83,83,7000110611,Jon Fortt / Morgan Brennan,Hewlett Packard Enterprise,Antonio Neri,Y,0,0,0,0,2.0,1.0,720.0,9587.0,319.885367,1280.0,Antonio Neri ,Hewlett Packard Enterprise,Jon Fortt / Morgan Brennan
+84,84,7000110603,Morgan Brennan / Carl Quintanilla / David Faber,Dollar Tree,Gary Philbin,Y,0,0,0,0,3.0,1.0,720.0,14930.0,498.163367,1280.0,Gary Philbin,Dollar Tree,Morgan Brennan / Carl Quintanilla / David Faber
+85,85,7000110511,Jim Cramer,Carbon,Ellen Kullman / Joseph Desimone,Y,9,9,42,28,1.0,2.0,720.0,14181.0,473.172367,1280.0,Ellen Kullman / Joseph DeSimone,Carbon,Jim Cramer 
+86,86,7000110507,Jim Cramer,Bristol-Myers Squibb,Giovanni Caforio,N,6,6,41,29,1.0,1.0,720.0,17566.0,586.118367,1280.0,Giovanni Caforio,Bristol-Myers Squibb,Jim Cramer 
+87,87,7000110489,Courtney Reagan / Wilfred Frost / Michael Santoli,Cqs / London Stock Exchange Group,Xavier Rolet,Y,0,0,0,0,3.0,1.0,720.0,5378.0,179.445367,1280.0,Xavier Rolet,CQS / London Stock Exchange Group,Courtney Reagan / Wilfred Frost / Michael Santoli
+88,88,7000110487,Courtney Reagan / Wilfred Frost / Michael Santoli,Paypal / Affirm,Max Levchin,Y,0,4,0,0,3.0,1.0,720.0,13707.0,457.356367,1280.0,Max Levchin,PayPal / Affirm,Courtney Reagan / Wilfred Frost / Michael Santoli
+89,89,7000110486,Courtney Reagan / Wilfred Frost / Michael Santoli,Paypal / Affirm,Max Levchin,Y,0,4,0,0,3.0,1.0,720.0,4245.0,141.641367,1280.0,Max Levchin,PayPal / Affirm,Courtney Reagan / Wilfred Frost / Michael Santoli
+90,90,7000110478,Courtney Reagan / Wilfred Frost / Becky Quick,The Blackstone Group,Stephen Schwarzman,Y,0,3,0,0,3.0,1.0,720.0,17983.0,600.032367,1280.0,Stephen Schwarzman,The Blackstone Group,Courtney Reagan / Wilfred Frost / Becky Quick(*)
+91,91,7000110477,Courtney Reagan / Wilfred Frost / Becky Quick,The Blackstone Group,Stephen Schwarzman,Y,0,3,0,0,3.0,1.0,720.0,4460.0,148.814367,1280.0,Steve Schwarzman,The Blackstone Group,Courtney Reagan / Wilfred Frost / Becky Quick(*)
+92,92,7000110390,Becky Quick / Joe Kernen / Andrew Ross Sorkin / Unknown,Flexjet,Michael Silvestro,Y,0,0,0,0,4.0,1.0,720.0,11613.0,387.486367,1280.0,Michael Silvestro,Flexjet,Becky Quick / Joe Kernen / Andrew Ross Sorkin / Unknown
+93,93,7000110192,Jim Cramer,Twitter / United Airlines / Rh / Airbnb,,N,9999,9999,9999,9999,1.0,0.0,720.0,3722.0,124.190367,1280.0,,Twitter / United Airlines / RH / Airbnb,Jim Cramer
+94,94,7000110244,Jim Cramer,Five9,Rowan Trollope,N,11,11,39,29,1.0,1.0,720.0,12685.0,423.255367,1280.0,Rowan Trollope,Five9,Jim Cramer
+95,95,7000110242,Jim Cramer,Sofi,Anthony Noto,N,10,10,30,29,1.0,1.0,720.0,14609.0,487.453367,1280.0,Anthony Noto,SoFi,Jim Cramer
+96,96,7000110241,Jim Cramer,Clorox,Benno Dorer,N,10,11,36,30,1.0,1.0,720.0,14204.0,473.939367,1280.0,Benno Dorer,Clorox,Jim Cramer
+97,97,7000110230,Jim Cramer,Sofi,Anthony Noto,N,0,0,28,27,1.0,1.0,720.0,3997.0,133.366367,1280.0,Anthony Noto,SoFi,Jim Cramer
+98,98,7000110228,Jim Cramer,Clorox,Benno Dorer,N,0,0,27,27,1.0,1.0,720.0,1389.0,46.345366999999996,1280.0,Benno Dorer,Clorox,Jim Cramer
+99,99,7000110131,Jon Fortt / Morgan Brennan / Carl Quintanilla,Intuit,Sasan Goodarzi,Y,0,4,0,0,3.0,1.0,720.0,10449.0,348.647367,1280.0,Sasan Goodarzi,Intuit,Jon Fortt / Morgan Brennan / Carl Quintanilla
+100,100,7000109983,Jim Cramer,Advanced Micro Devices,Lisa Su,N,7,8,34,27,1.0,1.0,720.0,16540.0,551.884367,1280.0,Lisa Su,Advanced Micro Devices,Jim Cramer
+101,101,7000109977,Jim Cramer,United Airlines,Oscar Munoz,N,11,11,37,29,1.0,1.0,720.0,16374.0,546.345367,1280.0,Oscar Munoz ,United Airlines,Jim Cramer
+102,102,7000109975,Jim Cramer,United Airlines,Oscar Munoz,N,0,0,28,28,1.0,1.0,720.0,3254.0,108.574367,1280.0,Oscar Munoz ,United Airlines,Jim Cramer
+103,103,7000109946,Wilfred Frost,Zillow,Richard Barton,N,0,0,0,0,1.0,1.0,720.0,14099.0,470.436367,1280.0,Richard Barton,Zillow,Wilfred Frost
+104,104,7000109945,Wilfred Frost,Zillow,Richard Barton,N,0,0,0,0,1.0,1.0,720.0,5243.0,174.94136699999999,1280.0,Richard Barton,Zillow,Wilfred Frost
+105,105,7000109914,Dominic Chu,Uncle Jack’S Steakhouse,Willie Degel,N,0,0,0,0,1.0,1.0,720.0,5958.0,198.79836699999998,1280.0,Willie Degel,Uncle Jack’s Steakhouse,Dominic Chu
+106,106,7000109906,David Faber,Charter,Tom Rutledge,N,0,0,0,0,1.0,1.0,720.0,13862.0,462.528367,1280.0,Tom Rutledge ,Charter,David Faber
+107,107,7000109884,David Faber,Sirius Xm,Jim Meyer,N,0,0,0,0,1.0,1.0,720.0,13355.0,445.611367,1280.0,Jim Meyer,Sirius XM,David Faber 
+108,108,7000109882,Carl Quintanilla / Leslie Picker,Sonos,Patrick Spence,Y,0,0,0,0,2.0,1.0,720.0,7445.0,248.414367,1280.0,Patrick Spence,Sonos,Carl Quintanilla / Leslie Picker
+109,109,7000109878,David Faber,Liberty Media,Greg Maffei,N,0,0,0,0,1.0,1.0,720.0,18219.0,607.906367,1280.0,Greg Maffei,Liberty Media,David Faber
+110,110,7000109721,Jim Cramer,Pagerduty,Jennifer Tejada,N,0,0,0,0,1.0,1.0,720.0,15655.0,522.354367,1280.0,Jennifer Tejada,PagerDuty,Jim Cramer
+111,111,7000109717,Jim Cramer,Tableau,Adam Selipsky,N,10,10,39,29,1.0,1.0,720.0,10942.0,365.097367,1280.0,Adam Selipsky,Tableau,Jim Cramer
+112,112,7000109715,Jim Cramer,Okta,Todd Mckinnon,N,10,10,35,29,1.0,1.0,720.0,15354.0,512.311367,1280.0,Todd McKinnon,Okta,Jim Cramer
+113,113,7000109642,Phil Lebeau,Jaguar Land Rover,Ralf Speth,N,0,0,0,0,1.0,1.0,720.0,3770.0,125.791367,1280.0,Ralf Speth,Jaguar Land Rover,Phil LeBeau
+114,114,7000109592,Becky Quick,Target,Brian Cornell,N,0,0,0,0,1.0,1.0,720.0,8108.0,270.536367,1280.0,Brian Cornell,Target,Becky Quick
+115,115,7000109591,Becky Quick,Target,Brian Cornell,N,3,4,0,0,1.0,1.0,720.0,22466.0,749.615367,1280.0,Brian Cornell,Target,Becky Quick
+116,116,7000109492,Jim Cramer,Nvidia,Jensen Huang,N,7,7,40,28,1.0,1.0,720.0,15827.0,528.093367,1280.0,Jensen Huang,Nvidia,Jim Cramer
+117,117,7000109493,Jim Cramer,Rh,Gary Friedman,N,7,7,40,34,1.0,1.0,720.0,16168.0,539.471367,1280.0,Gary Friedman,RH,Jim Cramer
+118,118,7000109489,Jim Cramer,Salesforce,Marc Benioff,N,10,10,36,30,1.0,1.0,,,,,Marc Benioff,Salesforce,Jim Cramer (cannot download)
+119,119,7000109479,Jim Cramer,Salesforce,Marc Benioff,N,0,0,27,27,1.0,1.0,504.0,2231.0,74.44036700000001,896.0,Marc Benioff,Salesforce,Jim Cramer
+120,120,7000109444,Kate Rogers / Bill Griffeth / Courtney Reagan,Chipotle,Brian Niccol,Y,0,0,0,0,3.0,1.0,720.0,9759.0,325.624367,1280.0,Brian Niccol,Chipotle,Kate Rogers / Bill Griffeth / Courtney Reagan
+121,121,7000109430,Becky Quick,Walmart,Vivek Shah,N,3,4,0,0,1.0,1.0,720.0,1123.0,37.470366999999996,1280.0, Vivek Shah,Walmart,Becky Quick
+122,122,7000109393,Carl Quintanilla / Contessa Brewer / David Faber,Warby Parker,Neil Blumenthal,Y,0,0,0,0,3.0,1.0,720.0,11708.0,390.656367,1280.0,Neil Blumenthal,Warby Parker,Carl Quintanilla / Contessa Brewer / David Faber
+123,123,7000109404,Jon Fortt,Qualcomm,Steve Mollenkopf,N,0,0,0,0,1.0,1.0,720.0,16220.0,541.206367,1280.0,Steve Mollenkopf ,Qualcomm,Jon Fortt
+124,124,7000109337,Joe Kernen / Contessa Brewer / Melissa Lee / Andrew Ross Sorkin,Eldorado,Tom Reeg,Y,0,5,0,0,4.0,1.0,720.0,9971.0,332.698367,1280.0,Tom Reeg,Eldorado,Joe Kernen / Contessa Brewer / Melissa Lee(*) / Andrew Ross Sorkin
+125,125,7000109261,Jim Cramer,Zendesk,Mikkel Svane,N,8,8,37,28,1.0,1.0,720.0,11471.0,382.748367,1280.0,Mikkel Svane,Zendesk,Jim Cramer
+126,126,7000109259,Jim Cramer,Airbnb,Brian Chesky,N,8,8,33,29,1.0,1.0,720.0,19056.0,635.834367,1280.0,Brian Chesky,Airbnb,Jim Cramer
+127,127,7000109256,Jim Cramer,Levi’S,Chip Bergh,N,9,10,43,33,1.0,1.0,720.0,16384.0,546.679367,1280.0,Chip Bergh,Levi’s,Jim Cramer
+128,128,7000109253,Jim Cramer,Airbnb,Brian Chesky,N,0,0,27,27,1.0,1.0,720.0,2573.0,85.852367,1280.0,Brian Chesky,Airbnb,Jim Cramer
+129,129,7000109250,Jim Cramer,Levi’S,Chip Bergh,N,0,0,27,27,1.0,1.0,720.0,5003.0,166.933367,1280.0,Chip Bergh,Levi’s,Jim Cramer
+130,130,7000108993,Jim Cramer,Liveperson,Robert Locascio,N,6,6,38,29,1.0,1.0,720.0,11682.0,389.78936699999997,1280.0,Robert LoCascio,LivePerson,Jim Cramer
+131,131,7000108992,Jim Cramer,Liveperson,Robert Locascio,N,0,0,27,27,1.0,1.0,720.0,3774.0,125.925367,1280.0,Robert LoCascio,LivePerson,Jim Cramer
+132,132,7000108768,Jim Cramer,Biomarin,Jean-Jacques Bienaimé,N,6,6,45,28,1.0,1.0,720.0,12946.0,431.964367,1280.0,Jean-Jacques Bienaimé,BioMarin,Jim Cramer
+133,133,7000108765,Jim Cramer,Viacomcbs,Bob Bakish,N,6,6,42,29,1.0,1.0,720.0,18201.0,607.306367,1280.0,Bob Bakish,ViacomCBS,Jim Cramer
+134,134,7000108731,Jim Cramer,Viacomcbs,Bob Bakish,N,0,0,28,28,1.0,1.0,720.0,4943.0,164.931367,1280.0,Bob Bakish,ViacomCBS,Jim Cramer
+135,135,7000108672,Jim Cramer,Cisco Systems,Chuck Robbins,N,0,0,0,0,1.0,1.0,720.0,2880.0,96.09536700000001,1280.0,Chuck Robbins,Cisco Systems,Jim Cramer
+136,136,7000108668,Jim Cramer / David Faber,Cisco Systems,Chuck Robbins,Y,0,0,0,0,2.0,1.0,720.0,18620.0,621.286367,1280.0,Chuck Robbins,Cisco Systems,Jim Cramer / David Faber
+137,137,7000108547,Jim Cramer,Hersha Hospitality,Jay Shah,N,6,6,42,28,1.0,1.0,720.0,13196.0,440.30636699999997,1280.0,Jay Shah,Hersha Hospitality,Jim Cramer
+138,138,7000108538,Jim Cramer,Dexcom,Kevin Sayer,N,0,0,28,28,1.0,1.0,720.0,3862.0,128.861367,1280.0,Kevin Sayer,Dexcom,Jim Cramer
+139,139,7000108544,Jim Cramer,Dexcom,Kevin Sayer,N,6,6,39,28,1.0,1.0,720.0,14060.0,469.134367,1280.0,Kevin Sayer,Dexcom,Jim Cramer
+140,140,7000108431,Andrew Ross Sorkin / Becky Quick,Paypal,Daniel Schulman,Y,0,0,0,0,2.0,1.0,720.0,2767.0,92.325367,1280.0,Daniel Schulman,PayPal,Andrew Ross Sorkin / Becky Quick
+141,141,7000108425,Andrew Ross Sorkin / Becky Quick / Joe Kernen,Just Capital / Paypal,Paul Tudor Jones / Dan Schulman,Y,0,0,24,0,3.0,2.0,720.0,11486.0,383.249367,1280.0,Paul Tudor Jones / Dan Schulman,Just Capital / PayPal,Andrew Ross Sorkin / Becky Quick / Joe Kernen
+142,142,7000108288,Jim Cramer,Micron,Sanjay Mehrotra,N,6,6,41,28,1.0,1.0,720.0,13505.0,450.61636699999997,1280.0,Sanjay Mehrotra,Micron,Jim Cramer
+143,143,7000108287,Jim Cramer,Realreal,Julie Wainwright,N,6,6,41,30,1.0,1.0,504.0,19258.0,642.5743669999999,896.0,Julie Wainwright,RealReal,Jim Cramer
+144,144,7000108286,Jim Cramer,Paypal,John Rainey,N,6,6,34,29,1.0,1.0,720.0,15354.0,512.311367,1280.0,John Rainey,PayPal,Jim Cramer
+145,145,7000108263,Wilfred Frost / Courtney Reagan,Tilray,Brendan Kennedy,Y,0,0,0,0,2.0,1.0,720.0,8517.0,284.183367,1280.0,Brendan Kennedy,Tilray,Wilfred Frost / Courtney Reagan
+146,146,7000108262,Wilfred Frost / Courtney Reagan,Tilray,Brendan Kennedy,Y,0,0,0,0,2.0,1.0,720.0,3274.0,109.24236699999999,1280.0,Brendan Kennedy,Tilray,Wilfred Frost / Courtney Reagan
+147,147,7000108237,Tyler Mathisen,Rockwell Automation,Blake Moret,N,0,0,0,0,1.0,1.0,720.0,5836.0,194.727367,1280.0,Blake Moret,Rockwell Automation,Tyler Mathisen
+148,148,7000108174,Carl Quintanilla / Unknown,Dell Technologies,Michael Dell,Y,0,0,0,0,2.0,1.0,720.0,16355.0,545.711367,1280.0,Michael Dell,Dell Technologies,Carl Quintanilla / Unknown
+149,149,7000108085,Jim Cramer,Charles River Labs,James Foster,N,6,6,40,30,1.0,1.0,720.0,13360.0,445.778367,1280.0,James Foster,Charles River Labs,Jim Cramer
+150,150,7000108080,Jim Cramer,Norwegian Cruise Line,Frank Del Rio,N,17,17,41,29,1.0,1.0,720.0,16012.0,534.266367,1280.0,Frank Del Rio,Norwegian Cruise Line,Jim Cramer
+151,151,7000108058,Jim Cramer,Norwegian Cruise Line,Frank Del Rio,N,0,0,0,27,1.0,1.0,720.0,2496.0,83.28236700000001,1280.0,Frank Del Rio,Norwegian Cruise Line,Jim Cramer
+152,152,7000108008,Scott Wapner / Dominic Chu,T-Mobile,John Legere / Unknown / Unknown / Unknown / Unknown,Y,0,0,0,0,2.0,5.0,720.0,7013.0,234.00036699999998,1280.0,John Legere / Unknown / Unknown / Unknown / Unknown,T-Mobile,Scott Wapner / Dominic Chu
+153,153,7000107735,Jim Cramer,Starbucks,Kevin Johnson,N,87,87,54,48,1.0,1.0,720.0,18284.0,610.075367,1280.0,Kevin Johnson,Starbucks,Jim Cramer
+154,154,7000107733,Jim Cramer,Starbucks,Kevin Johnson,N,0,0,28,28,1.0,1.0,720.0,4367.0,145.711367,1280.0,Kevin Johnson,Starbucks,Jim Cramer
+155,155,7000107637,Jon Fortt / Morgan Brennan / Carl Quintanilla,Mirror,Brynn Putnam,Y,0,0,0,0,3.0,1.0,720.0,6809.0,227.193367,1280.0,Brynn Putnam,Mirror,Jon Fortt / Morgan Brennan / Carl Quintanilla
+156,156,7000107630,Jon Fortt / Morgan Brennan,Surveymonkey,Zander Lurie,Y,0,0,0,0,2.0,1.0,720.0,8757.0,292.191367,1280.0,Zander Lurie,SurveyMonkey,Jon Fortt / Morgan Brennan
+157,157,7000107518,Jim Cramer,Brixmor Property Group,James Taylor,N,6,6,37,28,1.0,1.0,720.0,12058.0,402.334367,1280.0,James Taylor,Brixmor Property Group,Jim Cramer
+158,158,7000107491,Julia Boorstin,Disney,Bob Iger,N,0,4,0,0,1.0,1.0,720.0,17983.0,600.032367,1280.0,Bob Iger,Disney,Julia Boorstin
+159,159,7000107500,Wilfred Frost / Courtney Reagan,Amc Entertainment,Adam Aron,Y,0,4,0,0,2.0,1.0,720.0,8638.0,288.220367,1280.0,Adam Aron,AMC Entertainment,Wilfred Frost / Courtney Reagan
+160,160,7000107499,Wilfred Frost,Amc Entertainment,Adam Aron,N,0,4,0,0,1.0,1.0,720.0,6033.0,201.300367,1280.0,Adam Aron,AMC Entertainment,Wilfred Frost
+161,161,7000107492,Julia Boorstin,Disney,Bob Iger,N,0,0,0,0,1.0,1.0,720.0,736.0,24.557367000000003,1280.0,Bob Iger,Disney,Julia Boorstin
+162,162,7000107434,Jon Fortt / Morgan Brennan / Carl Quintanilla,Roku,Anthony Wood,Y,0,0,0,0,3.0,1.0,720.0,12826.0,427.960367,1280.0,Anthony Wood,Roku,Jon Fortt / Morgan Brennan / Carl Quintanilla
+163,163,7000107387,Joe Kernen / Melissa Lee / Andrew Ross Sorkin,Postmates,Bastian Lehmann,Y,0,0,0,0,3.0,1.0,720.0,11056.0,368.901367,1280.0,Bastian Lehmann,Postmates,Joe Kernen / Melissa Lee(*) / Andrew Ross Sorkin
+164,164,7000107378,Joe Kernen / Melissa Lee / Andrew Ross Sorkin,Nielsen Holdings,David Kenny,Y,0,4,0,0,3.0,1.0,720.0,9491.0,316.682367,1280.0,David Kenny,Nielsen Holdings,Joe Kernen / Melissa Lee(*) / Andrew Ross Sorkin
+165,165,7000107325,Jim Cramer,First Horizon,Bryan Jordan,N,6,6,33,28,1.0,1.0,720.0,10757.0,358.924367,1280.0,Bryan Jordan,First Horizon,Jim Cramer
+166,166,7000107317,Jim Cramer,Cvs,Larry Merlo,N,6,6,36,29,1.0,1.0,720.0,16431.0,548.2473669999999,1280.0,Larry Merlo,CVS,Jim Cramer
+167,167,7000107312,Jim Cramer,Cvs,Larry Merlo,N,0,0,27,27,1.0,1.0,720.0,2377.0,79.31236700000001,1280.0,Larry J. Merlo,CVS,Jim Cramer
+168,168,7000107250,Frank Holland / Unknown,Winnebago,Michael Happe,Y,0,0,0,0,2.0,1.0,720.0,7949.0,265.231367,1280.0,Michael Happe,Winnebago,Frank Holland / Unknown
+169,169,7000107210,Andrew Ross Sorkin,Boeing,Dennis Muilenburg,N,0,0,0,0,1.0,1.0,720.0,3950.0,131.79736699999998,1280.0,Dennis Muilenburg,Boeing,Andrew Ross Sorkin
+170,170,7000107209,Andrew Ross Sorkin,Boeing,Dennis Muilenburg,N,0,0,0,0,1.0,1.0,720.0,2235.0,74.57436700000001,1280.0,Dennis Muilenburg,Boeing,Andrew Ross Sorkin
+171,171,7000107207,Andrew Ross Sorkin,Boeing,Dennis Muilenburg,N,0,0,0,0,1.0,1.0,720.0,6847.0,228.461367,1280.0,Dennis Muilenburg,Boeing,Andrew Ross Sorkin
+172,172,7000107097,Jim Cramer,Twilio,Jeff Lawson,N,0,0,28,28,1.0,1.0,720.0,3529.0,117.750367,1280.0,Jeff Lawson,Twilio,Jim Cramer
+173,173,7000107090,Jim Cramer,Twilio,Jeff Lawson,N,6,6,33,29,1.0,1.0,720.0,13152.0,438.838367,1280.0,Jeff Lawson,Twilio,Jim Cramer
+174,174,7000107045,Sharon Epperson,Charles Schwab,Walter Bettinger,N,0,0,0,0,1.0,1.0,720.0,8247.0,275.174367,1280.0,Walter Bettinger,Charles Schwab,Sharon Epperson
+175,175,7000107023,Jon Fortt,Adobe,Shantanu Narayen,N,0,0,0,0,1.0,1.0,720.0,13266.0,442.641367,1280.0,Shantanu Narayen,Adobe,Jon Fortt
+176,176,7000107021,Carl Quintanilla  / Unknown,Peloton,John Foley,Y,0,0,0,0,2.0,1.0,720.0,11597.0,386.952367,1280.0,John Foley,Peloton,Carl Quintanilla  / Unknown (only appears shortly)
+177,177,7000106992,Joe Kernen / Becky Quick / Phil Lebeau,Boeing,David Calhoun,Y,0,0,0,0,3.0,1.0,720.0,50111.0,1672.036367,1280.0,David Calhoun,Boeing,Joe Kernen / Becky Quick / Phil LeBeau
+178,178,7000106989,Joe Kernen,Bruin Sports Capital,George Pyne,N,0,4,0,0,1.0,1.0,720.0,7008.0,233.83336699999998,1280.0,George Pyne,Bruin Sports Capital,Joe Kernen
+179,179,7000106994,Becky Quick,Boeing,David Calhoun,N,0,0,0,0,1.0,1.0,720.0,1332.0,44.444367,1280.0,David Calhoun,Boeing,Becky Quick
+180,180,7000106991,Phil Lebeau,Boeing,David Calhoun,N,0,0,0,0,1.0,1.0,720.0,2383.0,79.512367,1280.0,David Calhoun,Boeing,Phil LeBeau
+181,181,7000106990,Phil Lebeau,Boeing,David Calhoun,N,0,0,0,0,1.0,1.0,720.0,3147.0,105.00436699999999,1280.0,David Calhoun,Boeing,Phil LeBeau
+182,182,7000106929,Jim Cramer,J2 Global,Vivek Shah,N,6,6,34,27,1.0,1.0,720.0,11186.0,373.239367,1280.0,Vivek Shah,J2 Global,Jim Cramer
+183,183,7000106884,Scott Wapner / Melissa Lee,Boot Barn,Jim Conroy,Y,0,0,0,0,2.0,1.0,720.0,5797.0,193.426367,1280.0,James Conroy,Boot Barn,Scott Wapner / Melissa Lee(*)
+184,184,7000106745,Becky Quick / Joe Kernen / Andrew Ross Sorkin,Ryanair,Neil Sorahan,Y,0,0,0,0,3.0,1.0,720.0,11121.0,371.070367,1280.0,Neil Sorahan,RyanAir,Becky Quick / Joe Kernen / Andrew Ross Sorkin
+185,185,7000106598,Brian Sullivan / Courtney Reagan,Ziprecruiter,Ian Siegel,Y,0,5,0,0,2.0,1.0,720.0,6014.0,200.66636699999998,1280.0,Ian Siegel,ZipRecruiter,Brian Sullivan / Courtney Reagan
+186,186,7000106550,Scott Wapner,Bnp Paribas Usa,Jean-Yves Fillion / Unknown / Unknown / Unknown / Unknown,Y,0,0,0,0,1.0,5.0,720.0,16258.0,542.474367,1280.0,Jean-Yves Fillion / Unknown / Unknown / Unknown / Unknown,BNP Paribas USA,Scott Wapner
+187,187,7000106525,Jon Fortt,Global Payments,Jeff Sloan,N,0,0,0,0,1.0,1.0,720.0,5992.0,199.932367,1280.0,Jeff Sloan,Global Payments,Jon Fortt
+188,188,7000106507,Jim Cramer,Starbucks,Kevin Johnson,N,0,0,0,0,1.0,1.0,720.0,2355.0,78.578367,1280.0,Kevin Johnson,Starbucks,Jim Cramer
+189,189,7000106506,Jim Cramer / Carl Quintanilla / David Faber,Starbucks,Kevin Johnson,Y,0,14,0,0,3.0,1.0,720.0,21760.0,726.058367,1280.0,Kevin Johnson,Starbucks,Jim Cramer / Carl Quintanilla / David Faber 
+190,190,7000106495,Becky Quick / Andrew Ross Sorkin / Unknown / Unknown,Ozy / Avenue Capital Group,Carlos Watson / Marc Lasry,Y,0,0,0,0,4.0,2.0,720.0,14708.0,490.756367,1280.0,Carlos Watson / Marc Lasry,OZY / Avenue Capital Group,Becky Quick / Andrew Ross Sorkin / Unknown / Unknown
+191,191,7000106423,Jim Cramer,Columbia Sportswear,Tim Doyle,N,0,0,28,28,1.0,1.0,720.0,5181.0,172.872367,1280.0,Tim Doyle,Columbia Sportswear,Jim Cramer
+192,192,7000106425,Jim Cramer,,,N,7,7,63,29,1.0,0.0,720.0,9571.0,319.352367,1280.0,,,Jim Cramer
+193,193,7000106426,Jim Cramer,Smarties,Liz Dee,N,20,20,35,28,1.0,1.0,720.0,11597.0,386.952367,1280.0,Liz Dee,Smarties,Jim Cramer
+194,194,7000106422,Jim Cramer,Columbia Sportswear,Tim Doyle,N,6,7,36,30,1.0,1.0,720.0,13665.0,455.95536699999997,1280.0,Tim Doyle,Columbia Sportswear,Jim Cramer
+195,195,7000106406,Wilfred Frost / Courtney Reagan,International Paper,Mark Sutton,Y,0,3,0,0,2.0,1.0,720.0,4587.0,153.052367,1280.0,Mark Sutton,International Paper,Wilfred Frost / Courtney Reagan
+196,196,7000106407,Wilfred Frost / Courtney Reagan,International Paper,Mark Sutton,Y,0,3,0,0,2.0,1.0,720.0,4847.0,161.727367,1280.0,Mark Sutton,International Paper,Wilfred Frost / Courtney Reagan
+197,197,7000106185,Jim Cramer,Trex,Jim Cline,N,6,6,34,28,1.0,1.0,720.0,13271.0,442.808367,1280.0,Jim Cline,Trex,Jim Cramer 
+198,198,7000106178,Jim Cramer,Wingstop,Charlie Morrison,N,19,19,49,31,1.0,1.0,720.0,14575.0,486.31836699999997,1280.0,Charlie Morrison,Wingstop,Jim Cramer
+199,199,7000106171,Jim Cramer,Wingstop,Charlie Morrison,N,0,0,27,27,1.0,1.0,720.0,3716.0,123.99036699999999,1280.0,Charles R. Morrison,Wingstop,Jim Cramer 
+200,200,7000106085,Jon Fortt / Morgan Brennan / Carl Quintanilla,Lime,Brad Bao,Y,5,2,0,0,3.0,1.0,720.0,9683.0,323.089367,1280.0,Brad Bao,Lime,Jon Fortt / Morgan Brennan / Carl Quintanilla
+201,201,7000106073,David Faber,Warnermedia,John Stankey,N,0,0,0,0,1.0,1.0,720.0,40348.0,1346.277367,1280.0,John Stankey,WarnerMedia,David Faber
+202,202,7000106048,Joe Kernen / Becky Quick / Andrew Ross Sorkin,Southern Company,Tom Fanning,Y,0,0,0,0,3.0,1.0,720.0,9911.0,330.696367,1280.0,Tom Fanning,Southern Company,Joe Kernen / Becky Quick / Andrew Ross Sorkin
+203,203,7000105954,Jim Cramer,Zebra Technologies,Anders Gustafsson,N,0,0,27,27,1.0,1.0,720.0,4476.0,149.348367,1280.0,Anders Gustafsson,Zebra Technologies,Jim Cramer 
+204,204,7000105955,Jim Cramer,Zebra Technologies,Anders Gustafsson,N,6,6,38,29,1.0,1.0,720.0,12748.0,425.357367,1280.0,Anders Gustafsson,Zebra Technologies,Jim Cramer
+205,205,7000105899,Courtney Reagan / Unknown / Unknown,Lululemon,Calvin Mcdonald,Y,0,0,0,0,3.0,1.0,720.0,13471.0,449.482367,1280.0,Calvin McDonald,Lululemon,Courtney Reagan / Unknown / Unknown
+206,206,7000105866,Phil Lebeau,Boeing,Dennis Muilenburg,N,0,0,0,0,1.0,1.0,720.0,8547.0,285.184367,1280.0,Dennis Muilenburg,Boeing,Phil LeBeau
+207,207,7000105860,Andrew Ross Sorkin / Phil Lebeau,General Motors,Dhivya Suryadevara,Y,0,7,0,0,2.0,1.0,720.0,4811.0,160.526367,1280.0,Dhivya Suryadevara,General Motors,Andrew Ross Sorkin / Phil LeBeau
+208,208,7000105855,Joe Kernen / Becky Quick / Andrew Ross Sorkin,Beyond Meat,Ethan Brown,Y,0,3,0,0,3.0,1.0,720.0,16985.0,566.732367,1280.0,Ethan Brown,Beyond Meat,Joe Kernen / Becky Quick / Andrew Ross Sorkin
+209,209,7000105849,Joe Kernen / Becky Quick / Andrew Ross Sorkin,"Autonation,",Cheryl Miller,Y,0,0,4,0,3.0,1.0,720.0,14205.0,473.973367,1280.0,Cheryl Miller,"AutoNation,",Joe Kernen / Becky Quick / Andrew Ross Sorkin
+210,210,7000105715,Kelly Evans,Allbirds,Tim Brown,N,0,0,0,0,1.0,1.0,720.0,7882.0,262.995367,1280.0,Tim Brown,Allbirds,Kelly Evans
+211,211,7000105718,Kelly Evans,Quicken Loans,Jay Farner,N,0,0,0,0,1.0,1.0,720.0,3791.0,126.49236699999999,1280.0,Jay Farner,Quicken Loans,Kelly Evans
+212,212,7000105696,Jon Fortt / Morgan Brennan / Carl Quintanilla,Untuckit,Aaron Sanandres,Y,0,0,0,0,3.0,1.0,720.0,8394.0,280.079367,1280.0,Aaron Sanandres,Untuckit,Jon Fortt / Morgan Brennan / Carl Quintanilla
+213,213,7000105677,Morgan Brennan,Virgin Galactic,Sir Richard Branson / George Whitesides / Chamath Palihapitiya,Y,0,0,0,0,1.0,3.0,720.0,25952.0,865.931367,1280.0,Sir Richard Branson / George Whitesides / Chamath Palihapitiya,Virgin Galactic,Morgan Brennan
+214,214,7000105467,Jim Cramer,Ellevest,Sallie L. Krawcheck,N,0,0,27,27,1.0,1.0,720.0,2233.0,74.507367,1280.0,Sallie L. Krawcheck,Ellevest,Jim Cramer
+215,215,7000105454,Jim Cramer,American Airlines,Doug Parker,N,0,0,28,28,1.0,1.0,720.0,3408.0,113.71336699999999,1280.0,Doug Parker,American Airlines,Jim Cramer
+216,216,7000105458,Jim Cramer,American Airlines,Doug Parker,N,6,6,33,30,1.0,1.0,720.0,14747.0,492.057367,1280.0,Doug Parker,American Airlines,Jim Cramer
+217,217,7000105385,Jon Fortt,Netapp,George Kurian,N,0,0,0,0,1.0,1.0,720.0,8254.0,275.408367,1280.0,George Kurian,NetApp,Jon Fortt
+218,218,7000105356,Phil Lebeau / Andrew Ross Sorkin,United Airlines,Oscar Munoz,Y,0,0,0,0,2.0,1.0,720.0,8602.0,287.019367,1280.0,Oscar Munoz,United Airlines,Phil LeBeau / Andrew Ross Sorkin
+219,219,7000105353,Becky Quick / Andrew Ross Sorkin,Tesla / Baron Capital,Robyn Denholm / Ron Baron,Y,0,0,0,0,2.0,2.0,720.0,23363.0,779.5453669999999,1280.0,Robyn Denholm / Ron Baron,Tesla / Baron Capital,Becky Quick / Andrew Ross Sorkin
+220,220,7000105346,Becky Quick,Brookfield Asset Management / Baron Capital,Bruce Flatt / Ron Baron,Y,0,0,0,0,1.0,2.0,720.0,14355.0,478.978367,1280.0,Bruce Flatt / Ron Baron,Brookfield Asset Management / Baron Capital ,Becky Quick
+221,221,7000105351,Becky Quick,Tesla / Baron Capital,Robyn Denholm / Ron Baron,Y,0,0,0,0,1.0,2.0,720.0,4670.0,155.82136699999998,1280.0,Robyn Denholm / Ron Baron,Tesla / Baron Capital,Becky Quick
+222,222,7000105256,Jim Cramer,American Electric Power,Nick Akins,N,7,7,34,28,1.0,1.0,720.0,12959.0,432.398367,1280.0,Nick Akins,American Electric Power,Jim Cramer
+223,223,7000105239,Jim Cramer,Centene,Michael Neidorff,N,6,7,42,28,1.0,1.0,720.0,13280.0,443.108367,1280.0,Michael Neidorff,Centene,Jim Cramer
+224,224,7000105180,David Faber / Leslie Picker,Align Technology,Joe Hogan,Y,0,0,0,0,2.0,1.0,720.0,10651.0,355.388367,1280.0,Joe Hogan,Align Technology,David Faber / Leslie Picker
+225,225,7000105173,Jim Cramer / Carl Quintanilla  / David Faber,Southwest Airlines,Gary Kelly,Y,0,15,0,0,3.0,1.0,720.0,24897.0,830.729367,1280.0,Gary Kelly,Southwest Airlines,Jim Cramer / Carl Quintanilla  / David Faber
+226,226,7000105170,Jim Cramer,Dow,Jim Fitterling,N,0,0,0,0,1.0,1.0,720.0,14240.0,475.14036699999997,1280.0,Jim Fitterling,Dow,Jim Cramer
+227,227,7000105165,Becky Quick / Andrew Ross Sorkin,Twitter,Ned Segal,Y,0,0,0,0,2.0,1.0,720.0,15199.0,507.139367,1280.0,Ned Segal,Twitter,Becky Quick / Andrew Ross Sorkin
+228,228,7000105057,Jim Cramer,Servicenow,John Donahoe,N,0,0,28,28,1.0,1.0,720.0,5069.0,169.135367,1280.0,John Donahoe,ServiceNow,Jim Cramer
+229,229,7000105036,Jim Cramer,Csx,Jim Foote,N,0,0,27,27,1.0,1.0,720.0,4329.0,144.443367,1280.0,Jim Foote,CSX,Jim Cramer
+230,230,7000105040,Jim Cramer,Csx,Jim Foote,N,16,16,42,29,1.0,1.0,720.0,17397.0,580.479367,1280.0,Jim Foote,CSX,Jim Cramer
+231,231,7000105011,Wilfred Frost / Morgan Brennan,Hawaiian Holdings,Peter Ingram,Y,0,0,0,0,2.0,1.0,720.0,5090.0,169.835367,1280.0,Peter Ingram,Hawaiian Holdings,Wilfred Frost / Morgan Brennan
+232,232,7000104991,Kate Rogers / Kelly Evans,Chipotle,Brian Niccol,Y,0,3,0,0,2.0,1.0,720.0,15143.0,505.271367,1280.0,Brian Niccol,Chipotle,Kate Rogers / Kelly Evans
+233,233,7000104961,David Faber / Jim Cramer,Servicenow,Bill Mcdermott,Y,0,0,0,0,2.0,1.0,720.0,17215.0,574.406367,1280.0,Bill McDermott,ServiceNow,David Faber / Jim Cramer
+234,234,7000104946,Joe Kernen / Becky Quick / Andrew Ross Sorkin,Nasdaq,Adena Friedman,Y,0,4,24,0,3.0,1.0,720.0,19192.0,640.3723669999999,1280.0,Adena Friedman,Nasdaq,Joe Kernen / Becky Quick / Andrew Ross Sorkin
+235,235,7000104950,Joe Kernen / Becky Quick / Andrew Ross Sorkin,Honeywell,Darius Adamczyk,Y,0,0,20,0,3.0,1.0,720.0,15521.0,517.883367,1280.0,Darius Adamczyk,Honeywell,Joe Kernen / Becky Quick / Andrew Ross Sorkin
+236,236,7000104948,Joe Kernen / Becky Quick / Andrew Ross Sorkin / Unknown,Biogen,Michel Vounatsos,Y,0,9,0,0,4.0,1.0,720.0,13806.0,460.659367,1280.0,Michel Vounatsos,Biogen,Joe Kernen / Becky Quick / Andrew Ross Sorkin / Unknown (recording)
+237,237,7000104874,Jim Cramer,Victress Capital,Lori Cashman / Suzanne Norris,Y,9,9,40,30,1.0,2.0,720.0,13295.0,443.609367,1280.0, Lori Cashman / Suzanne Norris,Victress Capital,Jim Cramer
+238,238,7000104873,Jim Cramer,,,N,9999,5,9999,9999,1.0,0.0,720.0,2187.0,72.972367,1280.0,,,Jim Cramer
+239,239,7000104870,Jim Cramer,Logitech,Bracken Darrell,N,6,6,31,28,1.0,1.0,720.0,12823.0,427.860367,1280.0,Bracken Darrell,Logitech,Jim Cramer
+240,240,7000104868,Jim Cramer,Hasbro,Brian Goldner,N,6,6,44,30,1.0,1.0,720.0,15919.0,531.163367,1280.0,Brian Goldner,Hasbro,Jim Cramer
+241,241,7000104811,Meg Tirrell / Kelly Evans,Vertex Pharmaceuticals,Jeffrey Leiden,Y,0,0,0,0,2.0,1.0,720.0,7426.0,247.78036699999998,1280.0,Jeffrey Leiden,Vertex Pharmaceuticals,Meg Tirrell / Kelly Evans
+242,242,7000104781,Leslie Picker / Carl Quintanilla  / David Faber,Nordstrom,Erik Nordstrom,Y,0,0,0,0,3.0,1.0,720.0,14220.0,474.473367,1280.0,Erik Nordstrom,Nordstrom,Leslie Picker / Carl Quintanilla  / David Faber
+243,243,7000104808,Julia Boorstin,Disney,Bob Iger,N,0,0,0,0,1.0,1.0,720.0,16410.0,547.546367,1280.0,Bob Iger,Disney,Julia Boorstin
+244,244,7000104783,Julia Boorstin,Discovery,David Zaslav,N,0,0,0,0,1.0,1.0,720.0,16357.0,545.778367,1280.0,David Zaslav,Discovery,Julia Boorstin
+245,245,7000104775,Jim Cramer / Carl Quintanilla  / David Faber,Ups,David Abney,Y,0,0,0,0,3.0,1.0,720.0,13760.0,459.124367,1280.0,David Abney,UPS,Jim Cramer / Carl Quintanilla  / David Faber
+246,246,7000104762,Courtney Reagan,Under Armour,Kevin Plank / Patrik Frisk,Y,0,0,0,0,1.0,2.0,720.0,4486.0,149.682367,1280.0,Kevin Plank / Patrik Frisk,Under Armour,Courtney Reagan
+247,247,7000104761,Joe Kernen / Becky Quick / Courtney Reagan,Under Armour,Kevin Plank / Patrik Frisk,Y,0,0,0,0,3.0,2.0,720.0,16630.0,554.887367,1280.0,Kevin Plank / Patrik Frisk,Under Armour,Joe Kernen / Becky Quick / Courtney Reagan
+248,248,7000104637,Jim Cramer,Stockx,Scott Cutler,N,0,0,28,28,1.0,1.0,720.0,2026.0,67.600367,1280.0,Scott Cutler,StockX,Jim Cramer
+249,249,7000104632,Jim Cramer,Stockx,Scott Cutler,N,0,0,28,28,1.0,1.0,720.0,2026.0,67.600367,1280.0,Scott Cutler,StockX,Jim Cramer
+250,250,7000104623,Jim Cramer,Stockx,Scott Cutler,N,18,19,42,28,1.0,1.0,720.0,12732.0,424.824367,1280.0,Scott Cutler,StockX,Jim Cramer
+251,251,7000104530,Morgan Brennan / Carl Quintanilla  / David Faber,Inspire Brands,Paul Brown,Y,0,5,0,0,3.0,1.0,720.0,9075.0,302.802367,1280.0,Paul Brown,Inspire Brands,Morgan Brennan / Carl Quintanilla  / David Faber
+252,252,7000104120,Tyler Mathisen / Kelly Evans,Reata Pharma,Warren Huff,Y,0,0,0,0,2.0,1.0,720.0,6689.0,222.96633300000002,1280.0,Warren Huff,Reata Pharma,Tyler Mathisen / Kelly Evans
+253,253,7000104056,Joe Kernen / Andrew Ross Sorkin,Wd-40,Garry Ridge,Y,0,0,0,0,2.0,1.0,720.0,7082.0,236.06633300000001,1280.0,Garry Ridge,WD-40,Joe Kernen / Andrew Ross Sorkin
+254,254,7000104037,Joe Kernen / Andrew Ross Sorkin / Unknown,Snap-On,Nick Pinchuk,Y,0,1,38,0,3.0,1.0,720.0,14191.0,473.033333,1280.0,Nick Pinchuk,Snap-On,Joe Kernen / Andrew Ross Sorkin / Unknown
+255,255,7000103980,Jim Cramer,Arrowhead Pharmaceuticals,Christopher Anzalone,N,6,6,35,29,1.0,1.0,720.0,12180.0,405.99933300000004,1280.0,Christopher Anzalone,Arrowhead Pharmaceuticals,Jim Cramer
+256,256,7000103942,Wilfred Frost,Goldman Sachs,David Solomon,N,0,0,0,0,1.0,1.0,720.0,9938.0,331.26633300000003,1280.0,David Solomon,Goldman Sachs,Wilfred Frost 
+257,257,7000103943,Wilfred Frost,Goldman Sachs,David Solomon,N,0,0,0,0,1.0,1.0,720.0,34990.0,1166.333333,1280.0,David Solomon,Goldman Sachs,Wilfred Frost 
+258,258,7000103883,Courtney Reagan / Carl Quintanilla  / David Faber,Union Pacific,Lance Fritz,Y,0,0,0,0,3.0,1.0,720.0,7518.0,250.599333,1280.0,Lance Fritz,Union Pacific,Courtney Reagan / Carl Quintanilla  / David Faber
+259,259,7000103840,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,Thrive Global,Arianna Huffington,Y,0,0,16,0,4.0,1.0,720.0,11965.0,398.833333,1280.0,Arianna Huffington,Thrive Global,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown
+260,260,7000103767,Jim Cramer,Wex,Melissa Smith,N,6,6,37,29,1.0,1.0,720.0,10570.0,352.333333,1280.0,Melissa Smith,Wex,Jim Cramer
+261,261,7000103747,Jim Cramer,Salesforce,Marc Benioff,N,0,0,28,28,1.0,1.0,720.0,5297.0,176.56633300000001,1280.0,Marc Benioff,Salesforce,Jim Cramer
+262,262,7000103745,Jim Cramer,Salesforce,Marc Benioff,N,0,0,27,27,1.0,1.0,720.0,2271.0,75.699333,1280.0,Marc Benioff,Salesforce,Jim Cramer
+263,263,7000103775,Jim Cramer,Salesforce,Marc Benioff,N,6,6,35,28,1.0,1.0,720.0,23802.0,793.399333,1280.0,Marc Benioff,Salesforce,Jim Cramer
+264,264,7000103693,Jon Fortt / Carl Quintanilla,Virgin / Under Armour,Sir Richard Branson / Kevin Plank,Y,0,0,0,0,2.0,2.0,720.0,13154.0,438.466333,1280.0,Sir Richard Branson / Kevin Plank,Virgin / Under Armour,Jon Fortt / Carl Quintanilla
+265,265,7000103669,Jim Cramer / Carl Quintanilla  / David Faber,Salesforce,Marc Benioff,Y,0,0,0,0,3.0,1.0,720.0,20866.0,695.533333,1280.0,Marc Benioff,Salesforce,Jim Cramer / Carl Quintanilla  / David Faber
+266,266,7000103644,Phil Lebeau / Becky Quick,Volvo,Håkan Samuelsson,Y,0,0,0,0,2.0,1.0,720.0,9369.0,312.299333,1280.0,Håkan Samuelsson,Volvo,Phil LeBeau / Becky Quick
+267,267,7000103648,Phil Lebeau / Andrew Ross Sorkin / Becky Quick / Unknown,United Airlines,Oscar Munoz,Y,0,0,0,0,4.0,1.0,720.0,13544.0,451.466333,1280.0,Oscar Munoz,United Airlines,Phil LeBeau / Andrew Ross Sorkin / Becky Quick / Unknown
+268,268,7000103464,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Calpers,Marcie Frost,Y,0,0,0,0,3.0,1.0,720.0,9742.0,324.733333,1280.0,Marcie Frost ,CalPERS,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+269,269,7000103451,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Blackrock,Larry Fink,Y,0,2,22,0,3.0,1.0,720.0,24253.0,808.4333330000001,1280.0,Larry Fink,BlackRock,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+270,270,7000103443,Joe Kernen / Andrew Ross Sorkin / Unknown,Johnson & Johnson,Joseph Wolk,Y,0,0,0,0,3.0,1.0,720.0,15250.0,508.333333,1280.0,Joseph Wolk,Johnson & Johnson,Joe Kernen / Andrew Ross Sorkin / Unknown
+271,271,7000103440,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Blackrock,Larry Fink,Y,0,0,0,0,3.0,1.0,720.0,4373.0,145.766333,1280.0,Larry Fink,BlackRock,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+272,272,7000103439,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Blackrock,Larry Fink,Y,0,0,0,0,3.0,1.0,720.0,4676.0,155.866333,1280.0,Larry Fink,BlackRock,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+273,273,7000103266,Carl Quintanilla / Morgan Brennan / Leslie Picker,Pag,Weijian Shan,Y,0,0,0,0,3.0,1.0,720.0,12475.0,415.833333,1280.0,Weijian Shan,PAG,Carl Quintanilla / Morgan Brennan / Leslie Picker
+274,274,7000103252,Joe Kernen / Andrew Ross Sorkin / Becky Quick,The Operation Hope,John Hope Bryant,Y,0,0,3,0,3.0,1.0,720.0,18225.0,607.499333,1280.0,John Hope Bryant,The Operation Hope,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+275,275,7000103065,Jim Cramer,Mickey Drexler,Mickey Drexler,N,0,0,28,28,1.0,1.0,720.0,4895.0,163.166333,1280.0,Mickey Drexler ,Mickey Drexler,Jim Cramer
+276,276,7000103050,Jim Cramer,Wendy’S,Todd Penegor,N,9,10,50,33,1.0,1.0,720.0,17976.0,599.199333,1280.0,Todd Penegor ,Wendy’s,Jim Cramer
+277,277,7000103047,Jim Cramer,Wendy’S,Todd Penegor,N,0,0,28,28,1.0,1.0,720.0,3111.0,103.699333,1280.0,Todd Penegor ,Wendy’s,Jim Cramer
+278,278,7000102935,Joe Kernen,Sap,Bill Mcdermott,N,4,2,16,0,1.0,1.0,720.0,10389.0,346.299333,1280.0,Bill McDermott,SAP,Joe Kernen
+279,279,7000102853,Jim Cramer,J. Crew,Mickey Drexler,N,8,9,44,27,1.0,1.0,720.0,14852.0,495.066333,1280.0,Mickey Drexler,J. Crew,Jim Cramer
+280,280,7000102856,Jim Cramer,Hormel Foods,Jim Snee,N,6,7,40,29,1.0,1.0,720.0,22235.0,741.166333,1280.0,Jim Snee ,Hormel Foods,Jim Cramer
+281,281,7000102855,Jim Cramer,Hormel Foods,Jim Snee,N,0,0,27,27,1.0,1.0,720.0,2617.0,87.233333,1280.0,Jim Snee,Hormel Foods,Jim Cramer
+282,282,7000102754,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Turning Point Therapeutics,Dr. Athena Countouriotis,Y,0,0,11,0,3.0,1.0,720.0,10149.0,338.299333,1280.0,Dr. Athena Countouriotis,Turning Point Therapeutics,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+283,283,7000102739,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Delta Air Lines,Ed Bastian,Y,0,0,0,0,3.0,1.0,720.0,4826.0,160.866333,1280.0,Ed Bastian,Delta Air Lines,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+284,284,7000102738,Joe Kernen,Delta Air Lines,Ed Bastian,N,0,0,0,0,1.0,1.0,720.0,4542.0,151.399333,1280.0,Ed Bastian,Delta Air Lines,Joe Kernen
+285,285,7000102744,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Delta Air Lines,Ed Bastian,Y,0,15,0,0,3.0,1.0,720.0,12703.0,423.433333,1280.0,Ed Bastian,Delta Air Lines,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+286,286,7000102579,Jon Fortt / Morgan Brennan / Carl Quintanilla,Datawallet,Serafin Lion Engel,Y,0,0,0,0,3.0,1.0,720.0,7724.0,257.466333,1280.0,Serafin Lion Engel,DataWallet,Jon Fortt / Morgan Brennan / Carl Quintanilla
+287,287,7000102445,Jim Cramer,Domino’S,Ritch Allison,N,0,0,27,27,1.0,1.0,720.0,3044.0,101.46633299999999,1280.0,Ritch Allison,Domino’s,Jim Cramer
+288,288,7000102446,Jim Cramer,Domino’S,Ritch Allison,N,9,9,49,31,1.0,1.0,720.0,13391.0,446.366333,1280.0,Ritch Allison,Domino’s,Jim Cramer
+289,289,7000102286,Jim Cramer,Ringcentral,Vlad Shmunis,N,18,18,44,29,1.0,1.0,720.0,14557.0,485.233333,1280.0,Vlad Shmunis,RingCentral,Jim Cramer
+290,290,7000101890,Jon Fortt / Morgan Brennan / Carl Quintanilla,Vice Media,Nancy Dubuc,Y,0,5,0,0,3.0,1.0,720.0,8081.0,269.366333,1280.0,Nancy Dubuc,Vice Media,Jon Fortt / Morgan Brennan / Carl Quintanilla
+291,291,7000101727,Jim Cramer,Constellation Brands,Bill Newlands,N,6,6,35,29,1.0,1.0,720.0,13671.0,455.699333,1280.0,Bill Newlands,Constellation Brands,Jim Cramer
+292,292,7000101726,Jim Cramer,Constellation Brands,Bill Newlands,N,0,0,28,28,1.0,1.0,720.0,5757.0,191.899333,1280.0,Bill Newlands,Constellation Brands,Jim Cramer
+293,293,7000101526,Jim Cramer,Paychex,Marty Mucci,N,6,6,38,28,1.0,1.0,720.0,12338.0,411.26633300000003,1280.0,Marty Mucci,Paychex,Jim Cramer
+294,294,7000101525,Jim Cramer,Paychex,Marty Mucci,N,0,0,28,28,1.0,1.0,720.0,3520.0,117.33333300000001,1280.0,Marty Mucci,Paychex,Jim Cramer
+295,295,7000101403,Becky Quick,Adidas,Kasper Rorsted,N,0,0,0,0,1.0,1.0,720.0,12254.0,408.466333,1280.0,Kasper Rorsted,Adidas,Becky Quick
+296,296,7000101314,Jim Cramer,Consolidated Edison,John Mcavoy,N,6,7,37,28,1.0,1.0,720.0,14588.0,486.26633300000003,1280.0,John McAvoy,Consolidated Edison,Jim Cramer
+297,297,7000101241,Jon Fortt / Morgan Brennan / Carl Quintanilla,Snowflake,Frank Slootman,Y,0,0,0,0,3.0,1.0,720.0,5191.0,173.033333,1280.0,Frank Slootman,Snowflake,Jon Fortt / Morgan Brennan / Carl Quintanilla
+298,298,7000101240,Jon Fortt / Morgan Brennan / Carl Quintanilla,Ups,David Abney,Y,0,0,0,0,3.0,1.0,720.0,14935.0,497.833333,1280.0,David Abney,UPS,Jon Fortt / Morgan Brennan / Carl Quintanilla
+299,299,7000101223,David Faber,U.S. Steel,David Burritt,N,0,5,0,0,1.0,1.0,720.0,13328.0,444.26633300000003,1280.0,David Burritt,U.S. Steel,David Faber
+300,300,7000101200,Becky Quick / Andrew Ross Sorkin / Michael Santoli,Iwg,Mark Dixon,Y,0,0,0,0,3.0,1.0,720.0,17361.0,578.699333,1280.0,Mark Dixon,IWG,Becky Quick / Andrew Ross Sorkin / Michael Santoli(*)
+301,301,7000101203,Becky Quick / Andrew Ross Sorkin / Michael Santoli,Papa John'S,Rob Lynch,Y,0,11,0,0,3.0,1.0,720.0,9848.0,328.26633300000003,1280.0,Rob Lynch,Papa John's,Becky Quick / Andrew Ross Sorkin / Michael Santoli(*)
+302,302,7000101191,Michael Santoli,Paychex,Marty Mucci,N,0,0,0,0,1.0,1.0,720.0,4673.0,155.766333,1280.0,Marty Mucci,Paychex,Michael Santoli
+303,303,7000100862,Jim Cramer,Goodrx,Doug Hirsch,N,0,0,27,27,1.0,1.0,720.0,2722.0,90.733333,1280.0,Doug Hirsch,GoodRX,Jim Cramer
+304,304,7000100858,Jim Cramer,Goodrx,Doug Hirsch,N,8,9,48,28,1.0,1.0,720.0,11194.0,373.133333,1280.0,Doug Hirsch,GoodRX,Jim Cramer
+305,305,7000100754,Jim Cramer / Carl Quintanilla  / David Faber,Micron,Sanjay Mehrotra,Y,0,0,0,0,3.0,1.0,720.0,20131.0,671.033333,1280.0,Sanjay Mehrotra,Micron,Jim Cramer / Carl Quintanilla  / David Faber
+306,306,7000100752,Jim Cramer,Micron,Sanjay Mehrotra,N,0,0,0,0,1.0,1.0,720.0,7489.0,249.633333,1280.0,Sanjay Mehrotra,Micron,Jim Cramer
+307,307,7000100739,Joe Kernen / Wilfred Frost / Becky Quick / Unknown,Vining Sparks,Marty Mosby,Y,0,0,0,0,4.0,1.0,720.0,7052.0,235.06633300000001,1280.0,Marty Mosby,Vining Sparks,Joe Kernen / Wilfred Frost / Becky Quick / Unknown
+308,308,7000100736,Joe Kernen / Becky Quick / Unknown,Draftkings,Jason Robins,Y,0,0,0,0,3.0,1.0,720.0,7512.0,250.399333,1280.0,Jason Robins,DraftKings,Joe Kernen / Becky Quick / Unknown
+309,309,7000100735,Joe Kernen,Draftkings,Jason Robins,N,0,0,0,0,1.0,1.0,720.0,2133.0,71.099333,1280.0,Jason Robins,DraftKings,Joe Kernen
+310,310,7000100669,Jim Cramer,Taylor Morrison,Sheryl Palmer,N,6,6,36,28,1.0,1.0,720.0,12062.0,402.066333,1280.0,Sheryl Palmer,Taylor Morrison,Jim Cramer
+311,311,7000100670,Jim Cramer,Taylor Morrison,Sheryl Palmer,N,0,0,28,28,1.0,1.0,720.0,4173.0,139.099333,1280.0,Sheryl Palmer,Taylor Morrison,Jim Cramer
+312,312,7000100579,David Faber,Ibm / Verizon / Qualcomm,Ginni Rometty / Hans Vestberg / Steven Mollenkopf,Y,0,0,0,0,1.0,3.0,720.0,9039.0,301.299333,1280.0,Ginni Rometty / Hans Vestberg / Steven Mollenkopf,IBM / Verizon / Qualcomm,David Faber 
+313,313,7000100440,Tyler Mathisen /Becky Quick,United Airlines,Oscar Munoz,Y,7,7,0,0,2.0,1.0,720.0,41036.0,1367.866333,1280.0,Oscar Munoz,United Airlines,Tyler Mathisen /Becky Quick
+314,314,7000100558,Jim Cramer / David Faber,Philip Morris,Andre Calantzopoulos,Y,0,0,0,0,2.0,1.0,720.0,16346.0,544.866333,1280.0,Andre Calantzopoulos,Philip Morris ,Jim Cramer / David Faber
+315,315,7000100560,Jim Cramer / David Faber,Philip Morris,Andre Calantzopoulos,Y,0,0,0,0,2.0,1.0,720.0,28449.0,948.299333,1280.0,Andre Calantzopoulos,Philip Morris ,Jim Cramer / David Faber
+316,316,7000100557,David Faber,Philip Morris,Andre Calantzopoulos,N,0,0,0,0,1.0,1.0,720.0,11917.0,397.233333,1280.0,Andre Calantzopoulos,Philip Morris ,David Faber
+317,317,7000100545,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Discovery,David Zaslav,Y,0,0,35,0,3.0,1.0,720.0,17760.0,591.999333,1280.0,David Zaslav,Discovery,Becky Quick / Andrew Ross Sorkin / Joe Kernen
+318,318,7000100548,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Peloton,John Foley,Y,0,0,0,0,3.0,1.0,720.0,22816.0,760.533333,1280.0,John Foley,Peloton,Becky Quick / Andrew Ross Sorkin / Joe Kernen
+319,319,7000100547,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Peloton,John Foley,Y,0,0,0,0,3.0,1.0,720.0,6932.0,231.06633300000001,1280.0,John Foley,Peloton,Becky Quick / Andrew Ross Sorkin / Joe Kernen
+320,320,7000100546,Becky Quick / Andrew Ross Sorkin / Joe Kernen,Discovery,David Zaslav,Y,0,0,0,0,3.0,1.0,720.0,6463.0,215.433333,1280.0,David Zaslav,Discovery,Becky Quick / Andrew Ross Sorkin / Joe Kernen
+321,321,7000100471,Jim Cramer,Twilio,Jeff Lawson,N,6,11,35,29,1.0,1.0,720.0,17008.0,566.9333330000001,1280.0,Jeff Lawson,Twilio,Jim Cramer
+322,322,7000100472,Jim Cramer,Twilio,Jeff Lawson,N,0,0,27,27,1.0,1.0,720.0,5915.0,197.166333,1280.0,Jeff Lawson,Twilio,Jim Cramer
+323,323,7000100351,Courtney Reagan,Best Buy,Corie Barry,N,0,0,0,0,1.0,1.0,720.0,44083.0,1469.433333,1280.0,Corie Barry,Best Buy,Courtney Reagan
+324,324,7000100333,Courtney Reagan,Best Buy,Corie Barry,N,0,0,0,0,1.0,1.0,720.0,3612.0,120.39933300000001,1280.0,Corie Barry,Best Buy,Courtney Reagan
+325,325,7000100262,Jim Cramer,Gw Pharmaceuticals,Justin Gover,N,6,7,39,28,1.0,1.0,720.0,13114.0,437.133333,1280.0,Justin Gover ,GW Pharmaceuticals,Jim Cramer
+326,326,7000100260,Jim Cramer,Disney,Bob Iger,N,6,10,45,30,1.0,1.0,720.0,31489.0,1049.633333,1280.0,Bob Iger,Disney,Jim Cramer
+327,327,7000100213,Kate Rogers,Domino’S,Ritch Allison,N,0,0,0,0,1.0,1.0,720.0,6693.0,223.099333,1280.0,Ritch Allison,Domino’s,Kate Rogers
+328,328,7000100149,Andrew Ross Sorkin / Becky Quick,Motorola Solutions,Greg Brown,Y,0,3,0,0,2.0,1.0,720.0,14018.0,467.26633300000003,1280.0,Greg Brown,Motorola Solutions,Andrew Ross Sorkin / Becky Quick
+329,329,7000100150,Joe Kernen / Becky Quick,United Airlines,Oscar Munoz,Y,0,4,0,0,2.0,1.0,720.0,19341.0,644.699333,1280.0,Oscar Munoz,United Airlines,Joe Kernen / Becky Quick
+330,330,7000100134,Joe Kernen / Andrew Ross Sorkin / Unknown,Match Group Group,Mandy Ginsberg,Y,0,2,33,0,3.0,1.0,720.0,9063.0,302.099333,1280.0,Mandy Ginsberg,Match Group Group,Joe Kernen / Andrew Ross Sorkin / Unknown
+331,331,7000100081,Jim Cramer,Nutanix,Dheeraj Pandey,N,6,7,55,29,1.0,1.0,720.0,14544.0,484.799333,1280.0,Dheeraj Pandey,Nutanix,Jim Cramer
+332,332,7000100082,Jim Cramer,Canopy Growth,Mark Zekulin,N,0,0,27,27,1.0,1.0,720.0,3773.0,125.766333,1280.0,Mark Zekulin,Canopy Growth,Jim Cramer
+333,333,7000100072,Jim Cramer,Canopy Growth,Mark Zekulin,N,6,6,40,31,1.0,1.0,720.0,15525.0,517.499333,1280.0,Mark Zekulin,Canopy Growth,Jim Cramer
+334,334,7000100014,Kelly Evans,Allianz,Olive Bäte,N,0,0,0,0,1.0,1.0,720.0,7906.0,263.533333,1280.0,Olive Bäte,Allianz,Kelly Evans
+335,335,7000099781,Jim Cramer,Zscaler,Jay Chaudhry,N,6,7,40,28,1.0,1.0,720.0,13003.0,433.433333,1280.0,Jay Chaudhry,Zscaler ,Jim Cramer
+336,336,7000099651,Bertha Coombs / Joe Kernen / Becky Quick,Humana,Bruce Broussard,Y,0,14,0,0,3.0,1.0,720.0,10135.0,337.833333,1280.0,Bruce Broussard,Humana,Bertha Coombs / Joe Kernen / Becky Quick
+337,337,7000099566,Jim Cramer,Expedia Group,Mark Okerstrom,N,6,6,38,29,1.0,1.0,720.0,16146.0,538.199333,1280.0,Mark Okerstrom,Expedia Group ,Jim Cramer
+338,338,7000099517,Leslie Picker / Joe Kernen,Pimco / Vice President Of The United States / Omega Advisors,Emmanuel Roman / Mike Pence / Leon Cooperman / Unknown / Unknown / Unknown,Y,0,0,0,0,2.0,6.0,720.0,4065.0,135.499333,1280.0,Emmanuel Roman / Mike Pence / Leon Cooperman / Unknown / Unknown / Unknown,PIMCO / Vice President of the United States / Omega Advisors,Leslie Picker / Joe Kernen
+339,339,7000099375,Jim Cramer,Cronos,Mike Gorenstein,N,6,6,40,29,1.0,1.0,720.0,13826.0,460.866333,1280.0,Mike Gorenstein,Cronos,Jim Cramer
+340,340,7000099373,Jim Cramer,Tech Data,Rich Hume,N,6,6,35,28,1.0,1.0,720.0,13029.0,434.299333,1280.0,Rich Hume,Tech Data,Jim Cramer
+341,341,7000099370,Jim Cramer,Agco,Martin Richenhagen,N,24,25,42,34,1.0,1.0,720.0,15805.0,526.833333,1280.0,Martin Richenhagen,Agco,Jim Cramer
+342,342,7000099367,Jim Cramer,,,N,9,8,52,42,1.0,0.0,720.0,10318.0,343.933333,1280.0,,,Jim Cramer
+343,343,7000099308,Seema Mody,Booking Holdings,Glenn Fogel,N,0,0,0,0,1.0,1.0,720.0,6756.0,225.199333,1280.0,Glenn Fogel,Booking Holdings,Seema Mody
+344,344,7000099159,Jim Cramer,Adobe,Shantanu Narayen,N,6,7,50,28,1.0,1.0,720.0,13563.0,452.099333,1280.0,Shantanu Narayen,Adobe,Jim Cramer
+345,345,7000099106,Brian Sullivan,Tellurian,Meg Gentle,N,0,0,0,0,1.0,1.0,720.0,5966.0,198.866333,1280.0,Meg Gentle,Tellurian,Brian Sullivan
+346,346,7000099073,David Faber,Viacomcbs,Bob Bakish,N,0,0,0,0,1.0,1.0,720.0,22306.0,743.533333,1280.0,Bob Bakish,Viacom,David Faber 
+347,347,7000099072,David Faber,Viacomcbs,Bob Bakish,N,0,0,0,0,1.0,1.0,720.0,11507.0,383.566333,1280.0,Bob Bakish,Viacom,David Faber 
+348,348,7000099053,Joe Kernen / Andrew Ross Sorkin / Becky Quick,The Blackstone Group,Stephen Schwarzman,Y,0,0,2,0,3.0,1.0,720.0,13101.0,436.699333,1280.0,Stephen Schwarzman,Blackstone ,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+349,349,7000098909,Kelly Evans / Meg Tirrell,Aimmune Therapeutics,Dr. Jayson Dallas,Y,0,0,0,0,2.0,1.0,720.0,7422.0,247.399333,1280.0,Dr. Jayson Dallas,Aimmune Therapeutics,Kelly Evans / Meg Tirrell(*)
+350,350,7000098522,Jim Cramer,Crowdstrike,George Kurtz,N,6,7,41,29,1.0,1.0,720.0,13609.0,453.633333,1280.0,George Kurtz,CrowdStrike,Jim Cramer
+351,351,7000098430,Carl Quintanilla / Courtney Reagan / David Faber,Continental Resources,Harold Hamm,Y,0,0,0,0,3.0,1.0,720.0,11738.0,391.26633300000003,1280.0,Harold Hamm,Continental Resources,Carl Quintanilla / Courtney Reagan / David Faber
+352,352,7000098188,Joe Kernen / Becky Quick / Michael Santoli,Bumble,Whitney Wolfe Herd,Y,0,0,0,0,3.0,1.0,720.0,9560.0,318.666333,1280.0,Whitney Wolfe Herd,Bumble,Joe Kernen / Becky Quick / Michael Santoli(*)
+353,353,7000098089,Jim Cramer,Vmware,Sanjay Poonen,N,6,7,50,29,1.0,1.0,720.0,13742.0,458.066333,1280.0,Sanjay Poonen,Vmware,Jim Cramer
+354,354,7000097993,Josh Lipton / Jon Fortt,Google Cloud,Thomas Kurian,Y,0,0,0,0,2.0,1.0,720.0,5901.0,196.699333,1280.0,Thomas Kurian,Google Cloud,Josh Lipton / Jon Fortt
+355,355,7000097981,Meg Tirrell,Baxter,José Almeida,N,0,0,0,0,1.0,1.0,720.0,9372.0,312.399333,1280.0,José Almeida,Baxter,Meg Tirrell
+356,356,7000097966,Joe Kernen / Becky Quick / Michael Santoli,Cantor Fitzgerald,Howard Lutnick,Y,0,0,0,0,3.0,1.0,720.0,8147.0,271.566333,1280.0,Howard Lutnick,Cantor Fitzgerald,Joe Kernen / Becky Quick / Michael Santoli(*)
+357,357,7000097961,Joe Kernen / Becky Quick / Michael Santoli,Microsoft,Brad Smith,Y,0,0,29,0,3.0,1.0,720.0,36033.0,1201.0993330000001,1280.0,Brad Smith,Microsoft,Joe Kernen / Becky Quick / Michael Santoli(*)
+358,358,7000097957,Joe Kernen / Becky Quick / Michael Santoli,Microsoft,Brad Smith,Y,0,0,0,0,3.0,1.0,720.0,6237.0,207.899333,1280.0,Brad Smith,Microsoft,Joe Kernen / Becky Quick / Michael Santoli(*)
+359,359,7000097880,Jim Cramer,Alteryx,Dean Stoecker,N,6,7,41,29,1.0,1.0,720.0,14698.0,489.933333,1280.0,Dean Stoecker,Alteryx,Jim Cramer
+360,360,7000097876,Jim Cramer,Zoom Video Communications,Eric Yuan,N,6,7,49,29,1.0,1.0,720.0,13281.0,442.699333,1280.0,Eric Yuan,Zoom Video Communications,Jim Cramer
+361,361,7000097795,Morgan Brennan,Polaris,Scott Wine,N,0,0,0,0,1.0,1.0,720.0,10698.0,356.599333,1280.0,Scott Wine,Polaris,Morgan Brennan
+362,362,7000097796,Jon Fortt / Morgan Brennan / Carl Quintanilla,Verishop,Imran Khan,Y,0,0,0,0,3.0,1.0,720.0,12488.0,416.26633300000003,1280.0,Imran Khan,Verishop,Jon Fortt / Morgan Brennan / Carl Quintanilla
+363,363,7000097780,David Faber,Altice Usa,Dexter Goei,N,0,0,0,0,1.0,1.0,720.0,15420.0,513.999333,1280.0,Dexter Goei,Altice USA,David Faber
+364,364,7000097534,Jim Cramer,Talend / Splunk / Equinix,Mike Tuchen / Doug Merritt / Charles Meyers,Y,9999,9999,9999,9999,1.0,3.0,720.0,3528.0,117.599333,1280.0,Mike Tuchen / Doug Merritt / Charles Meyers,Talend / Splunk / Equinix,Jim Cramer
+365,365,7000097566,Jim Cramer,At Home,Lee Bird,N,28,29,38,29,1.0,1.0,720.0,13326.0,444.199333,1280.0,Lee Bird,At Home,Jim Cramer
+366,366,7000042754,Andrew Ross Sorkin / Unknown,Docusign,Dan Springer,Y,0,0,0,0,2.0,1.0,720.0,7014.0,233.79933300000002,1280.0,Dan Springer,DocuSign,Andrew Ross Sorkin / Unknown
+367,367,7000097307,Kelly Evans,Choice Hotel,Pat Pacious,N,0,0,0,0,1.0,1.0,720.0,5153.0,171.766333,1280.0,Pat Pacious,Choice Hotel,Kelly Evans
+368,368,7000097257,Jim Cramer / David Faber,Palo Alto,Nikesh Arora,Y,0,0,0,0,2.0,1.0,720.0,14592.0,486.399333,1280.0,Nikesh Arora,Palo Alto,Jim Cramer / David Faber
+369,369,7000097250,Andrew Ross Sorkin / Becky Quick,Slack,Stewart Butterfield,Y,0,3,0,0,2.0,1.0,720.0,7018.0,233.933333,1280.0,Stewart Butterfield,Slack,Andrew Ross Sorkin / Becky Quick
+370,370,7000097244,Andrew Ross Sorkin / Becky Quick,Slack,Stewart Butterfield,Y,0,3,0,0,2.0,1.0,720.0,14474.0,482.466333,1280.0,Stewart Butterfield,Slack,Andrew Ross Sorkin / Becky Quick
+371,371,7000097242,Andrew Ross Sorkin / Eric Cantor,Canopy Growth,Mark Zekulin,Y,0,0,4,0,2.0,1.0,720.0,11057.0,368.566333,1280.0,Mark Zekulin,Canopy Growth,"Andrew Ross Sorkin / Eric Cantor (Guest Host, Moelis & Co)"
+372,372,7000097118,Kelly Evans / Melissa Lee,Planet Fitness,Chris Rondeau,Y,0,0,0,0,2.0,1.0,720.0,5684.0,189.46633300000002,1280.0,Chris Rondeau,Planet Fitness,Kelly Evans / Melissa Lee(*)
+373,373,7000096907,Kelly Evans,Casabella,Bruce Kaminstein,N,0,0,0,0,1.0,1.0,720.0,7102.0,236.73333300000002,1280.0,Bruce Kaminstein,Casabella,Kelly Evans
+374,374,7000096867,Seema Mody / David Faber,Ethan Allen,Farooq Kathwari,Y,0,0,0,0,2.0,1.0,720.0,14231.0,474.366333,1280.0,Farooq Kathwari,Ethan Allen,Seema Mody / David Faber
+375,375,7000045051,Andrew Ross Sorkin,Warnermedia,John Stankey,N,0,0,0,0,1.0,1.0,720.0,8416.0,280.533333,1280.0,John Stankey,WarnerMedia,Andrew Ross Sorkin
+376,376,7000096405,David Faber / Sara Eisen / Michael Santoli,Bnp Paribas Usa,Jean-Yves Fillion,Y,0,4,0,0,3.0,1.0,720.0,14339.0,477.966333,1280.0,Jean-Yves Fillion,BNP Paribas USA,David Faber / Sara Eisen / Michael Santoli
+377,377,7000096225,David Faber / Sara Eisen,Columbia Sportswear,Tim Doyle,Y,0,6,0,0,2.0,1.0,720.0,15569.0,518.966333,1280.0,Tim Boyle,Columbia Sportswear,David Faber / Sara Eisen
+378,378,7000096206,Joe Kernen / Becky Quick / Unknown,Ey Global,Carmine Di Sibio,Y,0,0,0,0,3.0,1.0,720.0,13719.0,457.299333,1280.0,Carmine Di Sibio,EY global,Joe Kernen / Becky Quick / Unknown
+379,379,7000096031,Jon Fortt / Leslie Picker,Hewlett Packard Enterprise,Antonio Neri,Y,0,0,0,0,2.0,1.0,720.0,12513.0,417.099333,1280.0,Antonio Neri,Hewlett Packard Enterprise,Jon Fortt / Leslie Picker
+380,380,7000096037,Jon Fortt / Leslie Picker / Sara Eisen,Puris,Tyler Lorenzen,Y,0,0,0,0,3.0,1.0,720.0,7876.0,262.533333,1280.0,Tyler Lorenzen,Puris,Jon Fortt / Leslie Picker / Sara Eisen
+381,381,7000096034,Jon Fortt,Autodesk,Andrew Anagnos,N,0,0,0,0,1.0,1.0,720.0,8263.0,275.433333,1280.0,Andrew Anagnos,Autodesk,Jon Fortt
+382,382,7000095920,Jim Cramer,Splunk,Doug Merritt,N,6,7,37,29,1.0,1.0,720.0,13958.0,465.26633300000003,1280.0,Doug Merritt,Splunk,Jim Cramer
+383,383,7000095924,Jim Cramer,Nestlé Global,Mark Schneider,N,21,22,35,29,1.0,1.0,720.0,15057.0,501.899333,1280.0,Mark Schneider,Nestlé Global,Jim Cramer
+384,384,7000095825,Jim Cramer / Sara Eisen / David Faber,Hasbro,Brian Goldner,Y,0,0,0,0,3.0,1.0,720.0,23304.0,776.799333,1280.0,Brian Goldner,Hasbro,Jim Cramer / Sara Eisen / David Faber
+385,385,7000095701,Jim Cramer,Starbucks,Kevin Johnson,N,6,7,37,29,1.0,1.0,720.0,20065.0,668.833333,1280.0,Kevin Johnson,Starbucks,Jim Cramer
+386,386,7000095257,Jim Cramer,Talend,Mike Tuchen,N,7,7,35,29,1.0,1.0,720.0,13590.0,452.99933300000004,1280.0,Mike Tuchen,Talend,Jim Cramer
+387,387,7000095254,Jim Cramer,Salesforce,Keith Block,N,21,22,41,29,1.0,1.0,720.0,16736.0,557.866333,1280.0,Keith Block,Salesforce,Jim Cramer
+388,388,7000095253,Jim Cramer,Salesforce,Keith Block,N,0,0,28,28,1.0,1.0,720.0,6129.0,204.29933300000002,1280.0,Keith Block,Salesforce,Jim Cramer
+389,389,7000095169,Morgan Brennan / Carl Quintanilla,Box,Aaron Levie,Y,0,0,0,0,2.0,1.0,720.0,16763.0,558.766333,1280.0,Aaron Levie,Box,Morgan Brennan / Carl Quintanilla
+390,390,7000094973,Jon Fortt / Morgan Brennan,Jumia,Poignonnec,Y,0,0,0,0,2.0,1.0,720.0,10854.0,361.799333,1280.0,Poignonnec (call),Jumia,Jon Fortt / Morgan Brennan
+391,391,7000094952,Becky Quick,Bank Of America,Brian Moynihan,N,0,0,0,0,1.0,1.0,720.0,24977.0,832.566333,1280.0,Brian Moynihan,Bank of America,Becky Quick
+392,392,7000094951,Becky Quick,Bank Of America,Brian Moynihan,N,0,0,0,0,1.0,1.0,720.0,11676.0,389.199333,1280.0,Brian Moynihan,Bank of America,Becky Quick
+393,393,7000094807,Kate Rogers / Carl Quintanilla,Domino’S,Ritch Allison,Y,0,0,0,0,2.0,1.0,720.0,7226.0,240.866333,1280.0,Richard Allison,Domino’s,Kate Rogers / Carl Quintanilla
+394,394,7000094806,Kate Rogers,Domino’S,Ritch Allison,N,0,0,13,0,1.0,1.0,720.0,2868.0,95.599333,1280.0,Richard Allison,Domino’s,Kate Rogers
+395,395,7000094744,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Canopy Growth Corporation,Bruce Linton,Y,0,0,0,0,3.0,1.0,720.0,11033.0,377.366333,1280.0,Bruce Linton,Canopy Growth Corporation,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+396,396,7000094644,Becky Quick,Fortune,Alan Murray,N,0,0,0,0,1.0,1.0,720.0,6455.0,215.166333,1280.0,Alan Murray,Fortune,Becky Quick
+397,397,7000094108,Jim Cramer,Amn Healthcare,Susan Salka,N,6,7,45,29,1.0,1.0,720.0,14043.0,468.099333,1280.0,Susan Salka,AMN Healthcare ,Jim Cramer
+398,398,7000094105,Jim Cramer,Waste Management,James Fish,N,18,18,43,29,1.0,1.0,720.0,13613.0,453.76633300000003,1280.0,James Fish,Waste Management,Jim Cramer
+399,399,7000094011,Jim Cramer / David Faber,Cisco,Chuck Robbins,Y,0,0,0,0,2.0,1.0,720.0,19454.0,648.466333,1280.0,Chuck Robbins,Cisco,Jim Cramer / David Faber
+400,400,7000094012,Jim Cramer,Cisco,Chuck Robbins,N,0,0,0,0,1.0,1.0,720.0,5150.0,171.666333,1280.0,Chuck Robbins ,Cisco,Jim Cramer
+401,401,7000093904,Jim Cramer,Village Farms,Michael Degiglio,N,6,7,41,30,1.0,1.0,720.0,10430.0,347.666333,1280.0,Michael DeGiglio,Village Farms,Jim Cramer
+402,402,7000093812,Andrew Ross Sorkin,Viacomcbs,Bob Bakish,N,0,0,0,0,1.0,1.0,720.0,5981.0,199.366333,1280.0,Robert Bakish,ViacomCBS,Andrew Ross Sorkin
+403,403,7000093809,Kayla Tausche / Andrew Ross Sorkin,Viacomcbs,Bob Bakish,Y,0,16,0,0,2.0,1.0,720.0,21425.0,714.166333,1280.0,Robert Bakish,ViacomCBS,Kayla Tausche / Andrew Ross Sorkin
+404,404,7000093715,Jim Cramer,Novocure,Bill Doyle,N,6,7,35,28,1.0,1.0,720.0,14315.0,477.166333,1280.0,Bill Doyle,Novocure ,Jim Cramer
+405,405,7000093711,Jim Cramer,Zebra Technologies,Anders Gustafsson,N,20,20,38,28,1.0,1.0,720.0,13089.0,436.299333,1280.0,Anders Gustafsson,Zebra Technologies,Jim Cramer
+406,406,7000093621,Carl Quintanilla / Contessa Brewer,Scotts Miracle-Gro,James Hagedorn,Y,0,0,0,0,2.0,1.0,720.0,10614.0,353.799333,1280.0,James Hagedorn,Scotts Miracle-Gro ,Carl Quintanilla / Contessa Brewer
+407,407,7000093505,Jim Cramer,Keurig Dr Pepper Inc,Bob Gamgort,N,17,17,32,28,1.0,1.0,720.0,14760.0,491.99933300000004,1280.0,Bob Gamgort ,Keurig DR Pepper Inc,Jim Cramer
+408,408,7000093502,Jim Cramer,Take-Two,Strauss Zelnick,N,19,19,38,30,1.0,1.0,720.0,15166.0,505.533333,1280.0,Strauss Zelnick,Take-Two ,Jim Cramer
+409,409,7000093206,Scott Wapner / Courtney Reagan,Ansys,Ajei Gopal,Y,0,0,0,0,2.0,1.0,720.0,4869.0,162.29933300000002,1280.0,Ajei Gopal,Ansys,Scott Wapner / Courtney Reagan
+410,410,7000093177,Deirdre Bosa,Dropbox,Drew Houston,N,0,0,0,0,1.0,1.0,720.0,14307.0,476.899333,1280.0,Drew Houston,Dropbox,Deirdre Bosa 
+411,411,7000093060,Jim Cramer,Five9,Rowan Trollope,N,6,7,35,28,1.0,1.0,720.0,13804.0,460.133333,1280.0,Rowan Trollope,Five9,Jim Cramer
+412,412,7000093058,Jim Cramer,Petiq,Cord Christensen,N,6,6,44,30,1.0,1.0,720.0,13820.0,460.666333,1280.0,Cord Christensen,PetIQ,Jim Cramer
+413,413,7000093057,Jim Cramer,Petiq,Cord Christensen,N,0,0,27,27,1.0,1.0,720.0,1887.0,62.899333,1280.0,Cord Christensen,PetIQ,Jim Cramer
+414,414,7000092976,Morgan Brennan / David Faber / Michael Santoli,Roku,Anthony Wood,Y,0,0,0,0,3.0,1.0,720.0,11354.0,378.466333,1280.0,Anthony Wood,Roku,Morgan Brennan / David Faber / Michael Santoli
+415,415,7000092942,Andrew Ross Sorkin / Melissa Lee / John W. Schoen / Unknown,Iac,Joey Levin,Y,0,0,11,0,4.0,1.0,720.0,10423.0,347.433333,1280.0,Joey Levin,IAC,Andrew Ross Sorkin / Melissa Lee(*) / John W. Schoen / Unknown
+416,416,7000092858,Jim Cramer,Kim Blickenstaff,Tandem Diabetes Car,N,6,7,43,28,1.0,1.0,720.0,13091.0,436.366333,1280.0,Tandem Diabetes Car,Kim Blickenstaff,Jim Cramer
+417,417,7000092857,Jim Cramer,Gw Pharmaceuticals,Justin Gover,N,6,7,37,28,1.0,1.0,720.0,13686.0,456.199333,1280.0,Justin Gover,GW Pharmaceuticals,Jim Cramer
+418,418,7000092774,Deirdre Bosa / Jon Fortt / Morgan Brennan / Sara Eisen,Visa,Al Kelly,Y,0,0,0,0,4.0,1.0,720.0,23718.0,790.599333,1280.0,Al Kelly,Visa,Deirdre Bosa / Jon Fortt / Morgan Brennan / Sara Eisen
+419,419,7000092667,Jim Cramer,Former Yankees  / Barstool Sports,Alex Rodriguez / Erika Nardini,Y,12,14,45,34,1.0,2.0,720.0,16441.0,548.033333,1280.0,Alex Rodriguez / Erika Nardini,Former Yankees (slugger) / Barstool Sports,Jim Cramer
+420,420,7000092659,Jim Cramer,Etsy,Josh Silverman,N,0,0,27,27,1.0,1.0,720.0,4389.0,146.29933300000002,1280.0,Josh Silverman,Etsy,Jim Cramer
+421,421,7000092661,Jim Cramer,Etsy,Josh Silverman,N,12,17,34,34,1.0,1.0,720.0,15548.0,518.266333,1280.0,Josh Silverman,Etsy,Jim Cramer
+422,422,7000092450,Jim Cramer,Aphria Interim,Irwin Simon,N,0,0,0,0,1.0,1.0,720.0,13024.0,434.133333,1280.0,Irwin Simon,Aphria interim,Jim Cramer
+423,423,7000092085,Jon Fortt / Morgan Brennan,Surveymonkey,Zander Lurie,Y,0,0,0,0,2.0,1.0,720.0,8601.0,286.699333,1280.0,Zander Lurie,SurveyMonkey,Jon Fortt / Morgan Brennan
+424,424,7000092082,Jon Fortt / Morgan Brennan,Doordash,Tony Xu,Y,0,0,0,0,2.0,1.0,720.0,6835.0,227.833333,1280.0,Tony Xu,DoorDash,Jon Fortt / Morgan Brennan
+425,425,7000091967,Jim Cramer,Seatgeek,Russell D’Souza,N,8,9,38,28,1.0,1.0,720.0,10259.0,341.966333,1280.0,Russell D’Souza,SeatGeek,Jim Cramer
+426,426,7000091965,Jim Cramer,Hologic,Stephen Macmillan,N,6,6,36,28,1.0,1.0,720.0,12695.0,423.166333,1280.0,Stephen MacMillan,Hologic,Jim Cramer
+427,427,7000091905,Aditi Roy,Pat Brown,Impossible Foods,N,0,0,0,0,1.0,1.0,720.0,11778.0,392.599333,1280.0,Impossible Foods,Pat Brown,Aditi Roy
+428,428,7000091882,Jon Fortt / Morgan Brennan / Carl Quintanilla,Dynatrace,John Van Siclen,Y,0,0,0,0,3.0,1.0,720.0,12372.0,412.399333,1280.0,John van Siclen,Dynatrace,Jon Fortt / Morgan Brennan / Carl Quintanilla
+429,429,7000091880,Morgan Brennan,Virgin Orbit,Dan Hart,N,0,0,0,0,1.0,1.0,720.0,8390.0,279.666333,1280.0,Dan Hart,Virgin Orbit,Morgan Brennan
+430,430,7000091879,Jon Fortt / Morgan Brennan,Zynga,Frank Gibeau,Y,0,0,0,0,2.0,1.0,720.0,5454.0,181.79933300000002,1280.0,Frank Gibeau,Zynga,Jon Fortt / Morgan Brennan
+431,431,7000091872,Sara Eisen,Restaurant Brands,José Cil,N,0,0,0,0,1.0,1.0,720.0,5818.0,193.933333,1280.0,José Cil,Restaurant Brands,Sara Eisen
+432,432,7000091848,David Faber / Joe Kernen / Andrew Ross Sorkin,Verizon,Hans Vestberg,Y,0,0,0,0,3.0,1.0,720.0,16975.0,565.833333,1280.0,Hans Vestberg ,Verizon,David Faber / Joe Kernen / Andrew Ross Sorkin
+433,433,7000091851,Andrew Ross Sorkin,Verizon,Hans Vestberg,N,0,0,0,0,1.0,1.0,720.0,4077.0,135.899333,1280.0,Hans Vestberg ,Verizon,Andrew Ross Sorkin
+434,434,7000091760,Jim Cramer,Martin Marietta Materials,Howard Nye,N,6,6,40,29,1.0,1.0,720.0,13444.0,448.133333,1280.0,Howard Nye,Martin Marietta Materials,Jim Cramer
+435,435,7000091677,Jon Fortt / Morgan Brennan / Carl Quintanilla,Tom Leighton,Akamai,Y,0,0,0,0,3.0,1.0,720.0,8444.0,281.466333,1280.0,Akamai ,Tom Leighton,Jon Fortt / Morgan Brennan / Carl Quintanilla
+436,436,7000091658,Jim Cramer,Advanced Micro Devices,Lisa Su,N,0,0,0,0,1.0,1.0,720.0,16754.0,558.466333,1280.0,Lisa Su,Advanced Micro Devices,Jim Cramer
+437,437,7000091648,Joe Kernen / Becky Quick,Southern Company,Tom Fanning,Y,0,0,0,0,2.0,1.0,720.0,14286.0,476.199333,1280.0,Thomas Fanning,Southern Company,Joe Kernen / Becky Quick
+438,438,7000091551,Jim Cramer,Nyse,Stacey Cunningham,N,7,8,35,29,1.0,1.0,720.0,10827.0,360.899333,1280.0,Stacey Cunningham,NYSE,Jim Cramer
+439,439,7000091547,Jim Cramer,Levi’S,Chip Bergh,N,25,25,34,29,1.0,1.0,720.0,15387.0,512.899333,1280.0,Charles Bergh,Levi’s,Jim Cramer
+440,440,7000091491,Scott Wapner,The Gabelli Funds,Mario Gabelli / Unknown / Unknown / Unknown / Unknown / Unknown,Y,0,0,0,0,1.0,6.0,720.0,5764.0,192.133333,1280.0,Mario Gabelli / Unknown / Unknown / Unknown / Unknown / Unknown,The Gabelli Funds,Scott Wapner
+441,441,7000091490,Scott Wapner,The Gabelli Funds,Mario Gabelli / Unknown / Unknown / Unknown / Unknown / Unknown,Y,0,0,0,0,1.0,6.0,720.0,8855.0,295.166333,1280.0,Mario Gabelli / Unknown / Unknown / Unknown / Unknown / Unknown,The Gabelli Funds,Scott Wapner
+442,442,7000091472,Jon Fortt / Morgan Brennan / Carl Quintanilla,Philip Morris,Andre Calantzopoulos,Y,0,0,0,0,3.0,1.0,720.0,13133.0,437.76633300000003,1280.0,André Calantzopoulos,Philip Morris,Jon Fortt / Morgan Brennan / Carl Quintanilla
+443,443,7000091442,Joe Kernen / Melissa Lee,Eli Lilly,David Ricks,Y,0,0,0,0,2.0,1.0,720.0,17090.0,569.666333,1280.0,David Ricks,Eli Lilly ,Joe Kernen / Melissa Lee(*)
+444,444,7000091440,Joe Kernen / Melissa Lee / Andrew Ross Sorkin / Unknown,Procter & Gamble,Jon Moeller,Y,0,6,0,0,4.0,1.0,720.0,18812.0,627.066333,1280.0,Jon Moeller,Procter & Gamble,Joe Kernen / Melissa Lee(*) / Andrew Ross Sorkin / Unknown
+445,445,7000091433,Joe Kernen / Melissa Lee / Andrew Ross Sorkin,Compass,Robert Reffkin,Y,5,8,0,0,3.0,1.0,720.0,8718.0,290.599333,1280.0,Robert Reffkin,Compass,Joe Kernen / Melissa Lee(*) / Andrew Ross Sorkin
+446,446,7000091356,Jim Cramer,Exact Sciences,Kevin Conroy,N,7,7,50,30,1.0,1.0,720.0,16385.0,546.166333,1280.0,Kevin Conroy,Exact Sciences ,Jim Cramer
+447,447,7000091361,Jim Cramer,Agnico Eagle,Sean Boyd,N,6,7,35,29,1.0,1.0,720.0,14546.0,484.866333,1280.0,Sean Boyd,Agnico Eagle Mines,Jim Cramer
+448,448,7000091242,Joe Kernen / Andrew Ross Sorkin / Phil Lebeau / Michael Santoli,Caryn Seidman-Becker,Clear,Y,0,0,0,0,4.0,1.0,720.0,9342.0,311.399333,1280.0,CLEAR,Caryn Seidman-Becker,Joe Kernen / Andrew Ross Sorkin / Phil LeBeau / Michael Santoli
+449,449,7000090976,Carl Quintanilla / Sara Eisen / David Faber,Expedia Group,Mark Okerstrom,Y,0,0,0,0,3.0,1.0,720.0,11546.0,384.866333,1280.0,Mark Okerstrom,Expedia Group,Carl Quintanilla / Sara Eisen / David Faber
+450,450,7000090965,Carl Quintanilla / Sara Eisen / David Faber,Starbucks,Kevin Johnson,Y,0,0,0,0,3.0,1.0,720.0,19653.0,655.099333,1280.0,Kevin Johnson,Starbucks,Carl Quintanilla / Sara Eisen / David Faber
+451,451,7000090964,Sara Eisen / David Faber,Starbucks,Kevin Johnson,Y,0,0,0,0,2.0,1.0,720.0,5462.0,182.06633300000001,1280.0,Kevin Johnson,Starbucks,Sara Eisen / David Faber
+452,452,7000090950,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Waste Management,James Fish,Y,0,3,0,0,3.0,1.0,720.0,9222.0,307.399333,1280.0,Jim Fish,Waste Management,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+453,453,7000090857,Jim Cramer,Align Technology,Joe Hogan,N,6,7,50,30,1.0,1.0,720.0,14877.0,495.899333,1280.0,Joe Hogan,Align Technology,Jim Cramer
+454,454,7000090855,Jim Cramer,Royal Caribbean,Richard Fain,N,17,18,33,29,1.0,1.0,720.0,15249.0,508.299333,1280.0,Richard Fain,Royal Caribbean ,Jim Cramer
+455,455,7000090856,Jim Cramer,Royal Caribbean,Richard Fain,N,0,0,28,28,1.0,1.0,720.0,6025.0,200.833333,1280.0,Richard Fain,Royal Caribbean ,Jim Cramer
+456,456,7000090808,Tyler Mathisen / Melissa Lee,Group 1 Auto,Earl Hesterberg,Y,0,0,0,0,2.0,1.0,720.0,5952.0,198.399333,1280.0,Earl Hesterberg,Group 1 Auto,Tyler Mathisen / Melissa Lee(*)
+457,457,7000090798,Phil Lebeau / Kelly Evans,American Airlines,Doug Parker,Y,1,0,0,0,2.0,1.0,720.0,11499.0,383.299333,1280.0,Doug Parke,American Airlines,Phil LeBeau / Kelly Evans
+458,458,7000090758,Jim Cramer / Carl Quintanilla  / David Faber,Southwest Airlines,Gary Kelly,Y,0,0,0,0,3.0,1.0,720.0,22594.0,753.133333,1280.0,Gary Kelly,Southwest Airlines,Jim Cramer / Carl Quintanilla  / David Faber
+459,459,7000090757,Jim Cramer,Southwest Airlines,Gary Kelly,N,0,0,0,0,1.0,1.0,720.0,3808.0,126.933333,1280.0,Gary Kelly,Southwest Airlines,Jim Cramer
+460,460,7000090740,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Taboola,Adam Singolda,Y,0,0,0,0,3.0,1.0,720.0,13877.0,462.566333,1280.0,Adam Singolda,Taboola,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+461,461,7000090662,Jim Cramer,Servicenow,John Donahoe,N,6,7,32,29,1.0,1.0,720.0,14961.0,498.699333,1280.0,John Donahoe ,ServiceNow,Jim Cramer
+462,462,7000090657,Jim Cramer,First Horizon,Bryan Jordan,N,6,7,35,29,1.0,1.0,720.0,12925.0,430.833333,1280.0,Bryan Jordan,First Horizon,Jim Cramer
+463,463,7000090604,Meg Tirrell,Sage,Jeff Jonas,N,0,0,0,0,1.0,1.0,720.0,6993.0,233.099333,1280.0,Jeff Jonas,Sage,Meg Tirrell
+464,464,7000090592,Kate Rogers,Beyond Meat / Dunkin’,Ethan Brown / David Hoffman,Y,2,0,0,0,1.0,2.0,720.0,10051.0,335.033333,1280.0,Ethan Brown / David Hoffman,Beyond Meat / Dunkin’,Kate Rogers
+465,465,7000090569,Carl Quintanilla / Sara Eisen / David Faber,Chubb,Evan Greenberg,Y,0,0,0,0,3.0,1.0,720.0,15002.0,500.066333,1280.0,Evan Greenberg,Chubb,Carl Quintanilla / Sara Eisen / David Faber
+466,466,7000090562,Jim Cramer / Carl Quintanilla  / David Faber,Ups,David Abney,Y,0,0,0,0,3.0,1.0,720.0,15648.0,521.599333,1280.0,David Abney ,UPS,Jim Cramer / Carl Quintanilla  / David Faber
+467,467,7000090549,Phil Lebeau / Joe Kernen,Gm Cruise,Dan Ammann,Y,0,12,0,0,2.0,1.0,720.0,4184.0,139.46633300000002,1280.0,Dan Ammann,GM Cruise,Phil LeBeau / Joe Kernen
+468,468,7000090537,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Nasdaq,Adena Friedman,Y,0,0,16,0,3.0,1.0,720.0,9289.0,309.633333,1280.0,Adena Friedman,Nasdaq,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+469,469,7000090465,Jim Cramer,Fubu,Daymond John,N,8,9,41,29,1.0,1.0,720.0,13718.0,457.26633300000003,1280.0,Daymond John,FUBU,Jim Cramer
+470,470,7000090460,Jim Cramer,Hasbro,Brian Goldner,N,6,7,35,30,1.0,1.0,720.0,15540.0,517.999333,1280.0,Brian Goldner,Hasbro,Jim Cramer
+471,471,7000090360,Sara Eisen,Coca-Cola,James Quincey,N,0,0,0,0,1.0,1.0,720.0,18660.0,621.999333,1280.0,James Quincey,Coca-Cola,Sara Eisen
+472,472,7000090358,Sara Eisen,Coca-Cola,James Quincey,N,0,0,0,0,1.0,1.0,720.0,8571.0,285.699333,1280.0,James Quincey,Coca-Cola,Sara Eisen
+473,473,7000090343,Joe Kernen / Andrew Ross Sorkin / Melissa Lee,Autonation,Mike Jackson / Cheryl Miller,Y,0,5,0,0,3.0,2.0,720.0,16354.0,545.133333,1280.0,Mike Jackson / Cheryl Miller ,AutoNation,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*)
+474,474,7000090251,Jim Cramer,Home Depot,Carol Tomé,N,0,0,28,28,1.0,1.0,720.0,8560.0,285.333333,1280.0,Carol Tomé,Home Depot,Jim Cramer
+475,475,7000090250,Jim Cramer,Home Depot,Carol Tomé,N,6,6,36,30,1.0,1.0,720.0,17416.0,580.533333,1280.0,Carol Tomé,Home Depot,Jim Cramer
+476,476,7000090219,Sara Eisen,Equifax,Mark Begor,N,0,0,0,0,1.0,1.0,720.0,11635.0,387.833333,1280.0,Mark Begor,Equifax,Sara Eisen
+477,477,7000089931,Jon Fortt / Leslie Picker / Carl Quintanilla,Medallia,Leslie Stretch,Y,0,0,0,0,3.0,1.0,720.0,7038.0,234.599333,1280.0,Leslie Stretch,Medallia,Jon Fortt / Leslie Picker / Carl Quintanilla
+478,478,7000089888,Joe Kernen / Becky Quick,Blackrock,Larry Fink,Y,0,0,15,0,2.0,1.0,720.0,32270.0,1075.666333,1280.0,Larry Fink,BlackRock,Joe Kernen / Becky Quick
+479,479,7000089882,Joe Kernen / Becky Quick,Blackrock,Larry Fink,Y,0,0,0,0,2.0,1.0,720.0,7699.0,256.633333,1280.0,Larry Fink,BlackRock,Joe Kernen / Becky Quick
+480,480,7000089883,Joe Kernen / Becky Quick,Blackrock,Larry Fink,Y,0,0,0,0,2.0,1.0,720.0,8388.0,279.599333,1280.0,Larry Fink,BlackRock,Joe Kernen / Becky Quick
+481,481,7000089813,Jim Cramer,Nucor,John Ferriola,N,6,6,33,29,1.0,1.0,720.0,12720.0,423.99933300000004,1280.0,John Ferriola,Nucor,Jim Cramer
+482,482,7000089526,Morgan Brennan / Carl Quintanilla,Turo,Andre Haddad,Y,0,0,0,0,2.0,1.0,720.0,9492.0,316.399333,1280.0,Andre Haddad,Turo,Morgan Brennan / Carl Quintanilla
+483,483,7000089500,Phil Lebeau / Andrew Ross Sorkin,United Airlines,Oscar Munoz,Y,0,0,0,0,2.0,1.0,720.0,10848.0,361.599333,1280.0,Oscar Munoz,United Airlines,Phil LeBeau / Andrew Ross Sorkin 
+484,484,7000089496,Joe Kernen / Andrew Ross Sorkin / Becky Quick /Kevin O’Leary,Iac,Joey Levin,Y,0,3,0,0,4.0,1.0,720.0,9465.0,315.49933300000004,1280.0,Joey Levin,IAC,Joe Kernen / Andrew Ross Sorkin / Becky Quick /Kevin O’Leary
+485,485,7000089414,Jim Cramer,Domino’S,Ritch Allison,N,6,7,40,30,1.0,1.0,720.0,14792.0,493.066333,1280.0,Ritch Allison,Domino’s,Jim Cramer
+486,486,7000089367,Tyler Mathisen,Snap-On,Nick Pinchuk,N,0,0,0,0,1.0,1.0,720.0,8011.0,267.033333,1280.0,Nick Pinchuk,Snap-On,Tyler Mathisen
+487,487,7000089291,Joe Kernen / Becky Quick / Meg Tirrell,Johnson & Johnson,Joseph Wolk,Y,0,5,0,0,3.0,1.0,720.0,17067.0,568.899333,1280.0,Joseph Wolk,Johnson & Johnson,Joe Kernen / Becky Quick / Meg Tirrell 
+488,488,7000089216,Jim Cramer,Vmware,Sanjay Poonen,N,6,6,42,29,1.0,1.0,720.0,15161.0,505.366333,1280.0,Sanjay Poonen,VMWare,Jim Cramer
+489,489,7000089114,Meg Tirrell / Wilfred Frost /Melissa Lee,Gilead Sciences,Daniel O’Day,Y,0,0,0,0,3.0,1.0,720.0,8249.0,274.966333,1280.0,Daniel O’Day,Gilead Sciences,Meg Tirrell / Wilfred Frost /Melissa Lee(*)
+490,490,7000088882,Morgan Brennan / Deirdre Bosa,Caliva,Dennis O’Malley,Y,0,0,0,0,2.0,1.0,720.0,7931.0,264.366333,1280.0,Dennis O’Malley,Caliva,Morgan Brennan / Deirdre Bosa
+491,491,7000088867,Phil Lebeau,Ford / Volkswagen Group,Jim Hackett / Herbert Diess,Y,0,0,0,0,1.0,2.0,720.0,4017.0,133.899333,1280.0,Jim Hackett / Herbert Diess,Ford / Volkswagen Group,Phil LeBeau
+492,492,7000088849,Julia Boorstin,Iac,Joey Levin,N,0,0,0,0,1.0,1.0,720.0,10378.0,345.933333,1280.0,Joey Levin,IAC,Julia Boorstin
+493,493,7000088654,Julia Boorstin,Wasserman,Casey Wasserman,N,0,0,0,0,1.0,1.0,720.0,8968.0,298.933333,1280.0,Casey Wasserman,Wasserman,Julia Boorstin
+494,494,7000088645,Julia Boorstin,Verizon,Hans Vestberg,N,0,0,0,0,1.0,1.0,720.0,1171.0,39.033333,1280.0,Hans Vestberg,Verizon,Julia Boorstin
+495,495,7000088641,Julia Boorstin,Verizon,Hans Vestberg,N,0,0,0,0,1.0,1.0,720.0,11804.0,393.466333,1280.0,Hans Vestberg,Verizon,Julia Boorstin
+496,496,7000088640,Phil Lebeau / Melissa Lee,Delta Air Lines,Ed Bastian,Y,0,0,0,0,2.0,1.0,720.0,12278.0,409.26633300000003,1280.0,Ed Bastian,Delta Air Lines,Phil LeBeau / Melissa Lee(*)
+497,497,7000088447,Julia Boorstin,The Dtx Company,Tim Armstrong,N,0,0,0,0,1.0,1.0,720.0,11653.0,388.433333,1280.0,Tim Armstrong,the dtx company,Julia Boorstin
+498,498,7000088437,Julia Boorstin,Discovery Communications,David Zaslav,N,0,0,0,0,1.0,1.0,720.0,3503.0,116.766333,1280.0,David Zaslav,Discovery Communications,Julia Boorstin
+499,499,7000088438,Julia Boorstin,Discovery Communications,David Zaslav,N,0,0,0,0,1.0,1.0,720.0,24588.0,819.599333,1280.0,David Zaslav,Discovery Communications,Julia Boorstin
+500,500,7000088286,Morgan Brennan / Carl Quintanilla / Deirdre Bosa,Quip,Simon Enever,Y,0,0,0,0,3.0,1.0,720.0,8718.0,290.599333,1280.0,Simon Enever,Quip,Morgan Brennan / Carl Quintanilla / Deirdre Bosa
+501,501,7000088268,Carl Quintanilla / Sara Eisen / David Faber,General Mills,Jeff Harmening,Y,0,0,0,0,3.0,1.0,720.0,16752.0,558.399333,1280.0,Jeff Harmening,General Mills,Carl Quintanilla / Sara Eisen / David Faber
+502,502,7000088258,Jim Cramer / David Faber,Ibm / Red Hat,Ginni Rometty / Jim Whitehurst,Y,0,0,0,0,2.0,2.0,720.0,14177.0,472.566333,1280.0,Ginni Rometty / Jim Whitehurst,IBM / Red Hat,Jim Cramer / David Faber
+503,503,7000088259,Jim Cramer,Ibm / Red Hat,Ginni Rometty / Jim Whitehurst,Y,0,0,0,0,1.0,2.0,720.0,5468.0,182.266333,1280.0,Ginni Rometty / Jim Whitehurst,IBM / Red Hat,Jim Cramer
+504,504,7000088249,Joe Kernen / Michael Santoli / Melissa Lee,Virgin Group / Social Capital,Richard Branson / Chamath Palihapitiya,Y,0,0,27,0,3.0,2.0,720.0,39266.0,1308.866333,1280.0,Richard Branson / Chamath Palihapitiya,Virgin Group / Social Capital,Joe Kernen / Michael Santoli / Melissa Lee(*)
+505,505,7000088142,Jim Cramer,Constellation Brands,Bill Newlands,N,0,0,28,28,1.0,1.0,720.0,5912.0,197.06633300000001,1280.0,Bill Newlands,Constellation Brands,Jim Cramer
+506,506,7000088144,Jim Cramer,Vici Propeties,Ed Pitoniak,N,22,22,39,28,1.0,1.0,720.0,13692.0,456.399333,1280.0,Ed Pitoniak,Vici Propeties,Jim Cramer
+507,507,7000088080,Deirdre Bosa / Morgan Brennan / Carl Quintanilla,Billionaire Tech,Tom Siebel,Y,0,0,0,0,3.0,1.0,720.0,10776.0,359.199333,1280.0,Tom Siebel,Billionaire Tech,Deirdre Bosa / Morgan Brennan / Carl Quintanilla
+508,508,7000088073,Morgan Brennan / Carl Quintanilla / David Faber,Imax,Richard Gelfond,Y,0,0,0,0,3.0,1.0,720.0,8584.0,286.133333,1280.0,Richard Gelfond,IMAX,Morgan Brennan / Carl Quintanilla / David Faber
+509,509,7000087770,Deirdre Bosa / Morgan Brennan / Wilfred Frost,Datawallet,Serafin Lion Engel,Y,0,0,0,0,3.0,1.0,720.0,8429.0,280.966333,1280.0,Serafin Lion Engel,DataWallet,Deirdre Bosa / Morgan Brennan / Wilfred Frost
+510,510,7000087593,Deirdre Bosa / Morgan Brennan,Strivr,Derek Belch,Y,0,4,0,0,2.0,1.0,720.0,9690.0,322.99933300000004,1280.0,Derek Belch,STRIVR,Deirdre Bosa / Morgan Brennan
+511,511,7000087556,Melissa Lee / Andrew Ross Sorkin / Wilfred Frost / Kevin O’Leary / Unknown,Canopy Growth Corporation,Bruce Linton,Y,0,1,0,0,5.0,1.0,720.0,20848.0,694.9333330000001,1280.0,Bruce Linton (call),Canopy Growth,Melissa Lee(*) / Andrew Ross Sorkin / Wilfred Frost / Kevin O’Leary / Unknown
+512,512,7000087549,Melissa Lee / Andrew Ross Sorkin / Wilfred Frost / Kevin O’Leary,Canopy Growth Corporation,Bruce Linton,Y,0,3,0,0,4.0,1.0,720.0,7265.0,242.166333,1280.0,Bruce Linton (call),Canopy Growth,Melissa Lee(*) / Andrew Ross Sorkin / Wilfred Frost / Kevin O’Leary
+513,513,7000087382,Deirdre Bosa / Morgan Brennan / Sara Eisen,Cnex Labs,Alan Armstrong,Y,0,0,0,0,3.0,1.0,720.0,7883.0,262.76633300000003,1280.0,Alan Armstrong,CNEX Labs,Deirdre Bosa / Morgan Brennan / Sara Eisen
+514,514,7000087336,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Peek.Com,Ruzwana Bashir,Y,0,3,0,0,3.0,1.0,720.0,9882.0,329.399333,1280.0,Ruzwana Bashir,Peek.com,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+515,515,7000086976,Kelly Evans / Tyler Mathisen,Constellation Brands,Bill Newlands,Y,0,0,0,0,2.0,1.0,720.0,10030.0,334.333333,1280.0,Bill Newlands,Constellation Brands,Kelly Evans / Tyler Mathisen
+516,516,7000086743,Jon Fortt,Tripactions,Ariel Cohen,N,0,0,0,0,1.0,1.0,720.0,5435.0,181.166333,1280.0,Ariel Cohen,TripActions,Jon Fortt
+517,517,7000086736,Bertha Coombs,Change Healthcare,Neil De Crescenzo,N,0,0,0,0,1.0,1.0,720.0,6989.0,232.96633300000002,1280.0,Neil De Crescenzo,Change Healthcare,Bertha Coombs
+518,518,7000086731,Wilfred Frost,Morgan Stanley,James Gorman,N,0,0,0,0,1.0,1.0,720.0,15218.0,507.26633300000003,1280.0,James Gorman,Morgan Stanley,Wilfred Frost
+519,519,7000086714,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Galaxy Digital,Michael Novogratz,Y,0,0,16,0,3.0,1.0,720.0,14092.0,469.733333,1280.0,Michael Novogratz,Galaxy Digital,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+520,520,7000086705,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Adaptive Biotechnologies,Chad Robins,Y,0,0,13,0,3.0,1.0,720.0,10934.0,364.466333,1280.0,Chad Robins,Adaptive Biotechnologies,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+521,521,7000086482,Jon Fortt / Morgan Brennan / Andrew Ross Sorkin,Micron,Sanjay Mehrotra,Y,0,0,0,0,3.0,1.0,720.0,17733.0,591.099333,1280.0,Sanjay Mehrotra,Micron,Jon Fortt / Morgan Brennan / Andrew Ross Sorkin
+522,522,7000086280,Sara Eisen / David Faber,Evenflo,Jon Chamberlain,Y,0,0,0,0,2.0,1.0,720.0,10236.0,341.199333,1280.0,Jon Chamberlain,Evenflo,Sara Eisen / David Faber
+523,523,7000086248,Joe Kernen / Andrew Ross Sorkin / Becky Quick,United Therapeutics,Martine Rothblatt,Y,0,0,0,0,3.0,1.0,720.0,19596.0,653.199333,1280.0,Martine Rothblatt,United Therapeutics,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+524,524,7000086250,Joe Kernen / Andrew Ross Sorkin / Becky Quick,United Therapeutics,Martine Rothblatt,Y,0,0,0,0,3.0,1.0,720.0,4028.0,134.266333,1280.0,Martine Rothblatt,United Therapeutics,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+525,525,7000086073,Courtney Reagan / Sara Eisen / David Faber,Home Depot,Craig Menear,Y,0,0,0,0,3.0,1.0,720.0,5762.0,192.06633300000001,1280.0,Craig Menear,Home Depot,Courtney Reagan / Sara Eisen / David Faber
+526,526,7000085821,Melissa Lee,Mount Sinai Health System,Ken David,N,0,0,0,0,1.0,1.0,720.0,9205.0,306.833333,1280.0,Ken David,Mount Sinai Health System,Melissa Lee(*)
+527,527,7000085743,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Shake Shack,Randy Garutti,Y,0,0,0,0,3.0,1.0,720.0,5936.0,197.866333,1280.0,Randy Garutti,Shake Shack,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+528,528,7000085742,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Shake Shack,Randy Garutti,Y,0,0,3,0,3.0,1.0,720.0,14636.0,487.866333,1280.0,Randy Garutti,Shake Shack,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+529,529,7000085685,Jim Cramer,Mongodb,Dev Ittycheria,N,6,7,49,28,1.0,1.0,720.0,13137.0,437.899333,1280.0,Dev Ittycheria,MongoDB,Jim Cramer
+530,530,7000085684,Jim Cramer,Caterpillar,Jim Umpleby,N,20,21,40,29,1.0,1.0,720.0,23440.0,781.333333,1280.0,Jim Umpleby,Caterpillar,Jim Cramer
+531,531,7000085625,Meg Tirrell / Kelly Evans,Boston Scientific,Mike Mahoney,Y,0,0,0,0,2.0,1.0,720.0,7014.0,233.79933300000002,1280.0,Mike Mahoney,Boston Scientific,Meg Tirrell / Kelly Evans
+532,532,7000085626,Kelly Evans,Boston Market,Frances Allen,N,0,0,0,0,1.0,1.0,720.0,6194.0,206.46633300000002,1280.0,Frances Allen,Boston Market,Kelly Evans
+533,533,7000085581,Carl Quintanilla / Sara Eisen / David Faber,Cowen,Jeff Solomon,Y,0,0,0,0,3.0,1.0,720.0,9907.0,330.233333,1280.0,Jeff Solomon,Cowen,Carl Quintanilla / Sara Eisen / David Faber
+534,534,7000085559,Andrew Ross Sorkin,Slack,Stewart Butterfield,N,0,0,0,0,1.0,1.0,720.0,24641.0,821.366333,1280.0,Stewart Butterfield,Slack,Andrew Ross Sorkin
+535,535,7000085557,Meg Tirrell / Joe Kernen,Merck,Ken Frazier,Y,0,0,0,0,2.0,1.0,720.0,12492.0,416.399333,1280.0,Ken Frazier,Merck,Meg Tirrell / Joe Kernen
+536,536,7000085544,Contessa Brewer / Joe Kernen,Wynn,Matthew Maddox,Y,0,0,0,0,2.0,1.0,720.0,9366.0,312.199333,1280.0,Matthew Maddox,Wynn,Contessa Brewer / Joe Kernen
+537,537,7000085416,Deirdre Bosa,Huawei,Ren Zhengfei,N,16,9999,25,25,1.0,1.0,720.0,4693.0,156.433333,1280.0,Ren Zhengfei (Chinese),Huawei,Deirdre Bosa
+538,538,7000085400,Jon Fortt,Adobe,Shantanu Narayen,N,0,0,0,0,1.0,1.0,720.0,5752.0,191.73333300000002,1280.0,Shantanu Narayen,Adobe,Jon Fortt
+539,539,7000085405,Jon Fortt,Linkedin,Jeff Weiner,N,0,0,0,0,1.0,1.0,720.0,6973.0,232.433333,1280.0,Jeff Weiner,LinkedIn,Jon Fortt
+540,540,7000085403,Jon Fortt,Linkedin,Jeff Weiner,N,0,0,0,0,1.0,1.0,720.0,12104.0,403.466333,1280.0,Jeff Weiner,LinkedIn,Jon Fortt
+541,541,7000085399,Jon Fortt / Morgan Brennan,Adobe,Shantanu Narayen,Y,0,5,0,0,2.0,1.0,720.0,16636.0,554.533333,1280.0,Shantanu Narayen,Adobe,Jon Fortt / Morgan Brennan
+542,542,7000085390,Deirdre Bosa,Huawei,Ren Zhengfei,N,0,0,0,0,1.0,1.0,720.0,4090.0,136.333333,1280.0,Ren Zhengfei (Chinese),Huawei,Deirdre Bosa
+543,543,7000085384,Julia Boorstin,Quibi,Meg Whitma / Jeff Katzenberg,Y,0,0,0,0,1.0,2.0,720.0,9936.0,331.199333,1280.0,Meg Whitma / Jeff Katzenberg,Quibi,Julia Boorstin
+544,544,7000085366,Brian Sullivan,Chevron,Michael Wirth,N,0,0,0,0,1.0,1.0,720.0,8653.0,288.433333,1280.0,Michael Wirth,Chevron,Brian Sullivan
+545,545,7000085351,Becky Quick,Target,Brian Cornell,N,0,0,0,0,1.0,1.0,720.0,3518.0,117.266333,1280.0,Brian Cornell,Target,Becky Quick
+546,546,7000085347,Becky Quick,Kpmg U.S.,Lynne Doughtie,N,0,0,0,0,1.0,1.0,720.0,11866.0,395.533333,1280.0,Lynne Doughtie,KPMG U.S.,Becky Quick
+547,547,7000085352,Becky Quick,Target,Brian Cornell,N,0,1,0,0,1.0,1.0,720.0,20199.0,673.299333,1280.0,Brian Cornell,Target,Becky Quick
+548,548,7000085341,Joe Kernen / Andrew Ross Sorkin / Brian Sullivan,Devon Energy,David Hager,Y,0,10,0,0,3.0,1.0,720.0,6656.0,221.866333,1280.0,David Hager,Devon Energy,Joe Kernen / Andrew Ross Sorkin / Brian Sullivan
+549,549,7000085263,Jim Cramer,Union Pacific,Lance Fritz,N,22,22,40,29,1.0,1.0,720.0,18627.0,620.899333,1280.0,Lance Fritz ,Union Pacific,Jim Cramer
+550,550,7000085156,Andrew Ross Sorkin / Becky Quick,Verishop,Imran Khan,Y,0,0,0,0,2.0,1.0,720.0,16636.0,554.533333,1280.0,Imran Khan,Verishop,Andrew Ross Sorkin / Becky Quick
+551,551,7000085151,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,The Hersey Company,Michele Buck,Y,0,0,65,0,4.0,1.0,720.0,11892.0,396.399333,1280.0,Michele Buck,The Hersey Company,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown
+552,552,7000085149,Julia Boorstin / Andrew Ross Sorkin / Becky Quick,Facebook,David Marcus,Y,0,0,0,0,3.0,1.0,720.0,22123.0,737.4333330000001,1280.0,David Marcus,Facebook,Julia Boorstin / Andrew Ross Sorkin / Becky Quick
+553,553,7000085142,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,Aston Martin,Andy Palmer,Y,2,2,0,0,4.0,1.0,720.0,10060.0,335.333333,1280.0,Andy Palmer,Aston Martin,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown
+554,554,7000085068,Jim Cramer,Handshake,Garrett Lord,N,8,9,35,30,1.0,1.0,720.0,11754.0,391.799333,1280.0,Garrett Lord,Handshake,Jim Cramer
+555,555,7000085061,Jim Cramer,Iff,Andreas Fibig,N,23,23,37,29,1.0,1.0,720.0,14969.0,498.966333,1280.0,Andreas Fibig,IFF,Jim Cramer
+556,556,7000085004,Phil Lebeau,Airbus,Guillamume Faury,N,0,0,0,0,1.0,1.0,720.0,5809.0,193.633333,1280.0,Guillamume Faury,Airbus,Phil LeBeau
+557,557,7000084936,Phil Lebeau,United Technologies,Greg Hayes,N,0,0,0,0,1.0,1.0,720.0,9537.0,317.899333,1280.0,Greg Hayes,United Technologies,Phil LeBeau
+558,558,7000084763,Jim Cramer,Rh,Gary Friedman,N,0,0,27,27,1.0,1.0,720.0,6216.0,207.199333,1280.0,Gary Friedman,RH,Jim Cramer
+559,559,7000084768,Jim Cramer,Centene,Michael Neidorff,N,6,6,39,30,1.0,1.0,720.0,12837.0,427.899333,1280.0,Michael Neidorff,Centene,Jim Cramer
+560,560,7000084765,Jim Cramer,Rh,Gary Friedman,N,6,7,39,29,1.0,1.0,720.0,17277.0,575.899333,1280.0,Gary Friedman,RH,Jim Cramer
+561,561,7000084687,Jon Fortt / Morgan Brennan / Carl Quintanilla,Puris,Tyler Lorenzen,Y,0,0,0,0,3.0,1.0,720.0,10130.0,337.666333,1280.0,Tyler Lorenzen,Puris,Jon Fortt / Morgan Brennan / Carl Quintanilla
+562,562,7000084669,Jim Cramer / Carl Quintanilla,Chewy,Sumit Singh,Y,0,0,0,0,2.0,1.0,720.0,15560.0,518.666333,1280.0,Sumit Singh,Chewy,Jim Cramer / Carl Quintanilla
+563,563,7000084569,Jim Cramer,Dexcom,Kevin Sayer,N,0,0,27,27,1.0,1.0,720.0,5609.0,186.96633300000002,1280.0,Kevin Sayer,Dexcom,Jim Cramer
+564,564,7000084567,Jim Cramer,Dexcom,Kevin Sayer,N,6,7,41,30,1.0,1.0,720.0,12530.0,417.666333,1280.0,Kevin Sayer,Dexcom,Jim Cramer
+565,565,7000084513,Kelly Evans,Ginkgo Bioworks,Jason Kelly,N,0,0,0,0,1.0,1.0,720.0,7558.0,251.933333,1280.0,Jason Kelly,Ginkgo Bioworks,Kelly Evans
+566,566,7000084488,Jon Fortt / Morgan Brennan / Carl Quintanilla,Leaflink,Ryan Smith,Y,0,0,0,0,3.0,1.0,720.0,8367.0,278.899333,1280.0,Ryan Smith,LeafLink ,Jon Fortt / Morgan Brennan / Carl Quintanilla
+567,567,7000084481,Sara Eisen / Carl Quintanilla,Fiverr,Micha Kaufman,Y,0,0,0,0,2.0,1.0,720.0,10764.0,358.799333,1280.0,Micha Kaufman,Fiverr,Sara Eisen / Carl Quintanilla
+568,568,7000084365,Jim Cramer,Quicken Loans,Jay Farner,N,0,0,28,28,1.0,1.0,720.0,7262.0,242.06633300000001,1280.0,Jay Farner,Quicken Loans,Jim Cramer
+569,569,7000084361,Jim Cramer,Quicken Loans,Jay Farner,N,9,9,35,29,1.0,1.0,720.0,14408.0,480.26633300000003,1280.0,Jay Farner,Quicken Loans,Jim Cramer
+570,570,7000084289,Jon Fortt / Morgan Brennan,Crowdstrike,George Kurtz,Y,0,0,0,0,2.0,1.0,720.0,14573.0,495.933333,1280.0,George Kurtz,CrowdStrike,Jon Fortt / Morgan Brennan
+571,571,7000084280,Carl Quintanilla,Delta Air Lines,Ed Bastian,N,0,0,0,0,1.0,1.0,720.0,2556.0,85.199333,1280.0,Ed Bastian,Delta Air Lines,Carl Quintanilla
+572,572,7000084277,Carl Quintanilla,Delta Air Lines,Ed Bastian,N,0,0,0,0,1.0,1.0,720.0,15048.0,501.599333,1280.0,Ed Bastian,Delta Air Lines,Carl Quintanilla
+573,573,7000084181,Jim Cramer,Eqt,Rob Mcnally,N,6,7,47,29,1.0,1.0,720.0,14578.0,485.933333,1280.0,Rob McNally,EQT,Jim Cramer
+574,574,7000084174,Jim Cramer,Tableau,Adam Selipsky,N,6,7,40,29,1.0,1.0,720.0,13374.0,445.799333,1280.0,Adam Selipsky,Tableau,Jim Cramer
+575,575,7000084137,Josh Lipton / Brian Sullivan,Take-Two,Strauss Zelnick,Y,0,0,0,0,2.0,1.0,300.0,2151.0,71.7,534.0,Strauss Zelnick,Take-Two,Josh Lipton / Brian Sullivan
+576,576,7000084132,Brian Sullivan / Melissa Lee,Duke Energy,Lynn Good,Y,0,0,0,0,2.0,1.0,720.0,8375.0,279.166333,1280.0, Lynn Good,Duke Energy,Brian Sullivan / Melissa Lee(*)
+577,577,7000084122,Carl Quintanilla,Goldman Sachs,David Solomon,N,0,0,0,0,1.0,1.0,720.0,18198.0,606.599333,1280.0,David Solomon,Goldman Sachs,Carl Quintanilla
+578,578,7000084119,Carl Quintanilla,Goldman Sachs,David Solomon,N,0,0,0,0,1.0,1.0,720.0,4350.0,144.999333,1280.0,David Solomon,Goldman Sachs,Carl Quintanilla
+579,579,7000084117,Carl Quintanilla,Goldman Sachs,David Solomon,N,0,0,0,0,1.0,1.0,720.0,3714.0,123.799333,1280.0,David Solomon,Goldman Sachs,Carl Quintanilla
+580,580,7000084088,Carl Quintanilla,Vox Media,Jim Bankoff,N,0,0,0,0,1.0,1.0,720.0,12007.0,400.233333,1280.0,Jim Bankoff,Vox Media,Carl Quintanilla
+581,581,7000083975,Jim Cramer,Ansys,Ajei Gopal,N,20,20,35,29,1.0,1.0,720.0,14692.0,489.733333,1280.0,Ajei Gopal,Ansys,Jim Cramer
+582,582,7000083973,Jim Cramer,Marvell Technology,Matt Murphy,N,6,6,39,28,1.0,1.0,720.0,13055.0,435.166333,1280.0,Matt Murphy,Marvell Technology,Jim Cramer
+583,583,7000083963,Jim Cramer,Salesforce,Marc Benioff,N,6,6,42,29,1.0,1.0,720.0,14529.0,484.299333,1280.0,Marc Benioff,Salesforce,Jim Cramer
+584,584,7000083854,Jim Cramer / Carl Quintanilla,United Technologies / Raytheon,Greg Hayes / Tom Kennedy,Y,0,0,0,0,2.0,2.0,720.0,28413.0,947.099333,1280.0,Greg Hayes / Tom Kennedy,United Technologies / Raytheon,Jim Cramer / Carl Quintanilla
+585,585,7000083853,Jim Cramer / Carl Quintanilla,United Technologies / Raytheon,Greg Hayes / Tom Kennedy,Y,0,0,0,0,2.0,2.0,720.0,6004.0,200.133333,1280.0,Greg Hayes / Tom Kennedy,United Technologies / Raytheon,Jim Cramer / Carl Quintanilla
+586,586,7000083848,Jim Cramer / Carl Quintanilla,United Technologies / Raytheon,Greg Hayes / Tom Kennedy,Y,0,0,0,0,2.0,2.0,720.0,4334.0,144.46633300000002,1280.0,Greg Hayes / Tom Kennedy,United Technologies / Raytheon,Jim Cramer / Carl Quintanilla
+587,587,7000083850,Jim Cramer / Carl Quintanilla,United Technologies / Raytheon,Greg Hayes / Tom Kennedy,Y,0,0,0,0,2.0,2.0,720.0,7512.0,250.399333,1280.0,Greg Hayes / Tom Kennedy,United Technologies / Raytheon,Jim Cramer / Carl Quintanilla
+588,588,7000083849,Jim Cramer / Carl Quintanilla,United Technologies,Greg Hayes,Y,0,0,0,0,2.0,1.0,720.0,1307.0,43.566333,1280.0,Greg Hayes,United Technologies,Jim Cramer / Carl Quintanilla
+589,589,7000083479,Jim Cramer,Boot Barn,Jim Conroy,N,21,22,40,29,1.0,1.0,720.0,13221.0,440.699333,1280.0,James Conroy,Boot Barn,Jim Cramer
+590,590,7000083388,Carl Quintanilla,Stew Leonard’S,"Stew Leonard, Jr.,",N,0,0,0,0,1.0,1.0,720.0,11731.0,391.033333,1280.0,"Stew Leonard, Jr.,",Stew Leonard’s,Carl Quintanilla
+591,591,7000083382,Jon Fortt / Morgan Brennan / Carl Quintanilla,Revolve,Mike Karanikolas / Michael Mente,Y,0,0,0,0,3.0,2.0,720.0,7889.0,262.966333,1280.0,Mike Karanikolas / Michael Mente,Revolve,Jon Fortt / Morgan Brennan / Carl Quintanilla
+592,592,7000083380,Jon Fortt / Morgan Brennan,Pagerduty,Jennifer Tejada,Y,0,0,0,0,2.0,1.0,720.0,8737.0,291.233333,1280.0,Jennifer Tejada,PagerDuty,Jon Fortt / Morgan Brennan
+593,593,7000083197,Jon Fortt / Morgan Brennan / Carl Quintanilla,Stitch Fix,Katrina Lake,Y,0,0,0,0,3.0,1.0,720.0,12310.0,410.333333,1280.0,Katrina Lake (call),Stitch Fix,Jon Fortt / Morgan Brennan / Carl Quintanilla
+594,594,7000083189,Carl Quintanilla / Sara Eisen / David Faber,Dana Inc.,Jim Kamsickas,Y,0,0,0,0,3.0,1.0,720.0,13129.0,437.633333,1280.0,Jim Kamsickas,Dana Inc.,Carl Quintanilla / Sara Eisen / David Faber
+595,595,7000082963,Jon Fortt / David Faber,Jeff Wilke,Amazon,Y,0,0,0,0,2.0,1.0,720.0,6262.0,208.73333300000002,1280.0,Amazon,Jeff Wilke,Jon Fortt / David Faber
+596,596,7000082951,Brian Sullivan / Becky Quick,Shell,Ben Van Beurden,Y,0,3,0,0,2.0,1.0,720.0,11620.0,387.333333,1280.0,Ben van Beurden ,Shell,Brian Sullivan / Becky Quick
+597,597,7000082883,Jim Cramer,Emergent Biosolutions,Bob Kramer,N,6,7,45,29,1.0,1.0,720.0,13739.0,457.966333,1280.0,Robert Kramer Sr.,Emergent BioSolutions,Jim Cramer
+598,598,7000082881,Jim Cramer,Chipotle,Jack Hartung,N,20,20,42,28,1.0,1.0,720.0,17258.0,575.266333,1280.0,Jack Hartung,Chipotle,Jim Cramer
+599,599,7000082879,Jim Cramer,Salesforce,Marc Benioff,N,6,7,48,38,1.0,1.0,720.0,20012.0,667.066333,1280.0,Marc Benioff,Salesforce,Jim Cramer
+600,600,7000082707,Jim Cramer,Wingstop,Charlie Morrison,N,21,21,53,45,1.0,1.0,720.0,13958.0,465.26633300000003,1280.0,Charlie Morrison,Wingstop,Jim Cramer
+601,601,7000082705,Jim Cramer,Brinks,Douglas Pertz,N,6,6,43,29,1.0,1.0,720.0,14339.0,477.966333,1280.0,Douglas Pertz,Brinks,Jim Cramer
+602,602,7000082658,Meg Tirrell / Melissa Lee,Guardant Health,Helmy Eltoukhy,Y,0,0,0,0,2.0,1.0,720.0,7160.0,238.666333,1280.0,Helmy Eltoukhy,Guardant Health ,Meg Tirrell / Melissa Lee
+603,603,7000082625,Jon Fortt / Morgan Brennan / David Faber,Boingo,Mike Finley,Y,0,0,0,0,3.0,1.0,720.0,8903.0,296.76633300000003,1280.0,Mike Finley,Boingo,Jon Fortt / Morgan Brennan / David Faber
+604,604,7000082618,Meg Tirrell,Astrazeneca,Pascal Soriot,N,0,0,0,0,1.0,1.0,720.0,7121.0,237.366333,1280.0,Pascal Soriot,AstraZeneca,Meg Tirrell
+605,605,7000082602,Jim Cramer / David Faber,Dowdupont / Corteva Agriscience,Ed Breen / Jim Collins,Y,0,0,0,0,2.0,2.0,720.0,17714.0,590.466333,1280.0,Ed Breen / Jim Collins,DowDuPont / Corteva Agriscience,Jim Cramer / David Faber
+606,606,7000082584,Meg Tirrell / Joe Kernen,Iovance Biotherapeutics,Maria Fardis,Y,0,0,0,0,2.0,1.0,720.0,5571.0,185.699333,1280.0,Maria Fardis,Iovance Biotherapeutics,Meg Tirrell / Joe Kernen
+607,607,7000082524,Jim Cramer,Ibm,Ginni Rometty,N,6,6,33,29,1.0,1.0,720.0,24030.0,800.999333,1280.0,Ginni Rometty,IBM,Jim Cramer
+608,608,7000082519,Jim Cramer,Okta,Todd Mckinnon,N,7,7,42,29,1.0,1.0,720.0,13043.0,434.76633300000003,1280.0,Todd McKinnon ,Okta,Jim Cramer
+609,609,7000082514,Jim Cramer,Workday / Logiric / Pvh / Agco Cooperation / Canopy Growth / Acreage Holdings / Mondelez International,Aneel Bhusri / Bracken Darrell / Manny Chirico / Martin Richenhagen / Bruce Linton / Kevin P Murphy / Dirk Van De Put,Y,9999,9999,9999,9999,1.0,7.0,720.0,4124.0,137.46633300000002,1280.0,Aneel Bhusri / Bracken Darrell / Manny Chirico / Martin Richenhagen / Bruce Linton / Kevin P Murphy / Dirk Van de Put,Workday / Logiric / PVH / AGCO Cooperation / Canopy Growth / Acreage Holdings / Mondelez International,Jim Cramer
+610,610,7000082517,Jim Cramer,Ibm,Todd Mckinnon,N,0,0,32,27,1.0,1.0,720.0,4569.0,152.29933300000002,1280.0,Todd McKinnon,IBM,Jim Cramer
+611,611,7000082458,Bertha Coombs,Cigna,David Cordani,N,0,0,0,0,1.0,1.0,720.0,5640.0,187.999333,1280.0,David Cordani,Cigna,Bertha Coombs
+612,612,7000082425,Jon Fortt,Vmware,Pat Gelsinger,N,0,0,0,0,1.0,1.0,720.0,9238.0,307.933333,1280.0,Pat Gelsinger,Vmware,Jon Fortt
+613,613,7000082403,Andrew Ross Sorkin,Delta Air Lines,Ed Bastian,N,0,0,0,0,1.0,1.0,720.0,7145.0,238.166333,1280.0,Ed Bastian,Delta Air Lines,Andrew Ross Sorkin
+614,614,7000082379,Andrew Ross Sorkin,Focus Brands,Kat Cole,N,0,0,14,0,1.0,1.0,720.0,9475.0,315.833333,1280.0,Kat Cole,Focus Brands,Andrew Ross Sorkin
+615,615,7000082297,Jim Cramer,Pioneer Natural Resources,Scott Sheffield,N,6,6,40,30,1.0,1.0,720.0,13350.0,444.99933300000004,1280.0,Scott Sheffield,Pioneer Natural Resources,Jim Cramer
+616,616,7000082301,Jim Cramer,Canopy Growth / Acreage,Bruce Linton / Kevin P. Murphy,Y,0,0,27,27,1.0,2.0,720.0,5132.0,171.06633300000001,1280.0,Bruce Linton / Kevin P. Murphy,Canopy Growth / Acreage,Jim Cramer
+617,617,7000082302,Jim Cramer,Canopy Growth / Acreage,Bruce Linton / Kevin P. Murphy,Y,28,29,46,33,1.0,2.0,720.0,15784.0,526.133333,1280.0,Bruce Linton / Kevin P. Murphy,Canopy Growth / Acreage,Jim Cramer
+618,618,7000082261,Kelly Evans / Tyler Mathisen / Melissa Lee,Wyndham Destinations,Michael Brown,Y,0,0,0,0,3.0,1.0,720.0,7723.0,257.433333,1280.0,Michael Brown,Wyndham Destinations,Kelly Evans / Tyler Mathisen / Melissa Lee(*)
+619,619,7000082252,Kelly Evans,Joann Stores,Wade Miquelon,N,0,0,0,0,1.0,1.0,720.0,5022.0,167.399333,1280.0,Wade Miquelon,Joann Stores,Kelly Evans
+620,620,7000082212,Jim Cramer / Phil Lebeau,United Airlines,Oscar Munoz,Y,0,0,0,0,2.0,1.0,720.0,10326.0,344.199333,1280.0,Oscar Munoz,United Airlines,Jim Cramer / Phil LeBeau
+621,621,7000082210,Jim Cramer,United Airlines,Oscar Munoz,N,0,0,0,0,1.0,1.0,720.0,5871.0,195.699333,1280.0,Oscar Munoz,United Airlines,Jim Cramer
+622,622,7000082209,Jim Cramer,United Airlines,Oscar Munoz,N,0,0,0,0,1.0,1.0,720.0,3966.0,132.199333,1280.0,Oscar Munoz,United Airlines,Jim Cramer (call)
+623,623,7000082107,Jim Cramer,Agco,Martin Richenhagen,N,0,0,28,28,1.0,1.0,720.0,7340.0,244.666333,1280.0,Martin Richenhagen,Agco,Jim Cramer
+624,624,7000082106,Jim Cramer,Agco,Martin Richenhagen,N,20,20,45,30,1.0,1.0,720.0,12417.0,413.899333,1280.0,Martin Richenhagen,Agco,Jim Cramer
+625,625,7000082104,Jim Cramer,Logitech,Bracken Darrell,N,18,18,39,29,1.0,1.0,720.0,13867.0,462.233333,1280.0,Bracken Darrell,Logitech,Jim Cramer
+626,626,7000082103,Jim Cramer,Pvh,Manny Chirico,N,6,6,33,30,1.0,1.0,300.0,14147.0,472.038233,534.0,Manny Chirico,PVH,Jim Cramer
+627,627,7000082025,Carl Quintanilla,Mcdonald’S,Steve Easterbrook,N,0,0,0,0,1.0,1.0,720.0,8951.0,298.366333,1280.0,Steve Easterbrook,McDonald’s,Carl Quintanilla
+628,628,7000082032,Jon Fortt / Morgan Brennan / Carl Quintanilla,Irobot,Colin Angle,Y,0,5,0,0,3.0,1.0,720.0,9072.0,302.399333,1280.0,Colin Angle,iRobot,Jon Fortt / Morgan Brennan / Carl Quintanilla
+629,629,7000082013,Carl Quintanilla,Mcdonald’S,Steve Easterbrook,N,0,0,0,0,1.0,1.0,720.0,9648.0,321.599333,1280.0,Steve Easterbrook,McDonald’s,Carl Quintanilla
+630,630,7000082016,Sara Eisen,Hilton,Christopher Nassetta,N,0,0,0,0,1.0,1.0,720.0,9200.0,306.666333,1280.0,Christopher Nassetta,Hilton,Sara Eisen
+631,631,7000082004,Carl Quintanilla / Jim Cramer,Mcdonald’S,Steve Easterbrook,Y,0,0,0,0,2.0,1.0,720.0,7417.0,247.23333300000002,1280.0,Steve Easterbrook,McDonald’s,Carl Quintanilla / Jim Cramer
+632,632,7000081999,Carl Quintanilla / Jim Cramer / David Faber,Mcdonald’S,Steve Easterbrook,Y,0,0,0,0,3.0,1.0,720.0,8798.0,293.26633300000003,1280.0,Steve Easterbrook,McDonald’s,Carl Quintanilla / Jim Cramer / David Faber
+633,633,7000081906,Jim Cramer,Workday,Aneel Bhusri,N,6,7,46,30,1.0,1.0,720.0,14366.0,478.866333,1280.0,Aneel Bhusri,Workday,Jim Cramer
+634,634,7000081902,Jim Cramer,Mondelez International,Dirk Van De Put,N,0,0,28,28,1.0,1.0,720.0,10200.0,339.99933300000004,1280.0,Dirk Van de Put,Mondelez International,Jim Cramer
+635,635,7000081901,Jim Cramer,Mondelez International,Dirk Van De Put,N,17,17,50,40,1.0,1.0,720.0,18379.0,612.633333,1280.0,Dirk Van de Put,Mondelez International,Jim Cramer
+636,636,7000081823,Carl Quintanilla / Sara Eisen / David Faber,Ace Hardware,John Venhuizen,Y,0,0,0,0,3.0,1.0,720.0,12592.0,419.733333,1280.0,John Venhuizen,Ace Hardware,Carl Quintanilla / Sara Eisen / David Faber
+637,637,7000081821,Carl Quintanilla / Sara Eisen / David Faber,Global Payments,Jeff Sloan,Y,0,0,0,0,3.0,1.0,720.0,13624.0,454.133333,1280.0,Jeff Sloan,Global Payments,Carl Quintanilla / Sara Eisen / David Faber
+638,638,7000081472,Jane Wells / Jon Fortt / Morgan Brennan / Carl Quintanilla,Beyond Meat,Ethan Brown,Y,0,0,0,0,4.0,1.0,720.0,8421.0,280.699333,1280.0,Ethan Brown,Beyond Meat,Jane Wells / Jon Fortt / Morgan Brennan / Carl Quintanilla
+639,639,7000081465,Carl Quintanilla / Sara Eisen / David Faber,Hewlett Packard Enterprise,Antonio Neri,Y,0,0,0,0,3.0,1.0,720.0,15034.0,501.133333,1280.0,Antonio Neri,Hewlett Packard Enterprise,Carl Quintanilla / Sara Eisen / David Faber
+640,640,7000081461,David Faber,Moelis & Company,Ken Moelis,N,0,0,0,0,1.0,1.0,720.0,19340.0,644.666333,1280.0,Ken Moelis,Moelis & Company,David Faber
+641,641,7000081450,Joe Kernen / Andrew Ross Sorkin / Becky Quick,The Purple Carrot / Morningstar,"Andy Levitt / R.J. Hottovy,",Y,0,0,0,0,3.0,2.0,720.0,7834.0,261.133333,1280.0,"Andy Levitt / R.J. Hottovy,",The Purple Carrot / Morningstar,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+642,642,7000081357,Jim Cramer,Tg Therapeutics,Michael Weiss,N,0,0,0,0,1.0,1.0,720.0,12305.0,410.166333,1280.0,Michael Weiss,TG Therapeutics,Jim Cramer
+643,643,7000081279,Jon Fortt / Morgan Brennan / Carl Quintanilla,American Elements,Michael Silver,Y,0,0,0,0,3.0,1.0,720.0,10463.0,348.76633300000003,1280.0,Michael Silver,American Elements,Jon Fortt / Morgan Brennan / Carl Quintanilla
+644,644,7000081091,Deirdre Bosa / Morgan Brennan,Oculus,Palmer Luckey,Y,0,0,0,0,2.0,1.0,720.0,14771.0,492.366333,1280.0,Palmer Luckey,Oculus,Deirdre Bosa / Morgan Brennan
+645,645,7000081178,Jim Cramer,Ringcentral,Vlad Shmunis,N,6,7,41,29,1.0,1.0,720.0,11837.0,394.566333,1280.0,Vlad Shmunis ,RingCentral,Jim Cramer
+646,646,7000081176,Jim Cramer,Edgewell Personal Care / Harry'S / Harry'S,Rod Little / Andy Katz-Mayfield / Jeff Raider,Y,21,21,40,30,1.0,3.0,720.0,15219.0,507.299333,1280.0,Rod Little / Andy Katz-Mayfield / Jeff Raider,Edgewell Personal Care / Harry's / Harry's,Jim Cramer
+647,647,7000081172,Jim Cramer,Idexx,Jonathan Ayers,N,6,6,58,43,1.0,1.0,720.0,14343.0,478.099333,1280.0,Jonathan Ayers,IDEXX,Jim Cramer
+648,648,7000080964,Jim Cramer,Novartis,Vasant Narasimhan,N,0,0,27,27,1.0,1.0,720.0,4629.0,154.29933300000002,1280.0,Vasant Narasimhan,Novartis,Jim Cramer
+649,649,7000080966,Jim Cramer,Novartis,Vasant Narasimhan,N,21,21,35,29,1.0,1.0,720.0,16299.0,543.299333,1280.0,Vasant Narasimhan,Novartis,Jim Cramer
+650,650,7000080927,Sara Eisen / Wilfred Frost / Unknown,Bankunited,Rajinder Singh,Y,0,0,0,0,3.0,1.0,720.0,7947.0,264.899333,1280.0,Rajinder Singh,BankUnited,Sara Eisen / Wilfred Frost / Unknown (record)
+651,651,7000080883,Deirdre Bosa / Morgan Brennan,Y Combinator,Michael Seibel,Y,0,0,0,0,2.0,1.0,720.0,3755.0,125.16633300000001,1280.0,Michael Seibel ,Y Combinator,Deirdre Bosa / Morgan Brennan
+652,652,7000080858,Jim Cramer / David Faber,Novartis,Vasant Narasimhan,Y,0,0,0,0,2.0,1.0,720.0,7272.0,242.399333,1280.0,Dr. Vasant Narasimhan,Novartis,Jim Cramer / David Faber
+653,653,7000080746,Jim Cramer,Take-Two,Strauss Zelnick,N,16,17,38,29,1.0,1.0,720.0,13657.0,455.233333,1280.0,Strauss Zelnick,Take-Two,Jim Cramer
+654,654,7000080648,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Ryanair,Michael O’Leary,Y,0,0,39,0,3.0,1.0,720.0,18322.0,610.733333,1280.0,Michael O’Leary ,RyanAir,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+655,655,7000080468,Jim Cramer,Proofpoint,Gary Steele,N,21,21,43,32,1.0,1.0,720.0,10831.0,361.033333,1280.0,Gary Steele,Proofpoint,Jim Cramer
+656,656,7000080469,Jim Cramer,Pinterest,Ben Silbermann,N,25,25,41,29,1.0,1.0,720.0,24284.0,809.466333,1280.0,Ben Silbermann,Pinterest,Jim Cramer
+657,657,7000080466,Jim Cramer,Pinterest,Ben Silbermann,N,0,0,27,27,1.0,1.0,720.0,7838.0,261.26633300000003,1280.0,Ben Silbermann,Pinterest,Jim Cramer
+658,658,7000080465,Jim Cramer,Nvidia,Jensen Huang,N,27,27,33,29,1.0,1.0,720.0,22297.0,743.233333,1280.0,Jensen Huang,Nvidia,Jim Cramer
+659,659,7000080464,Jim Cramer,Nvidia,Jensen Huang,N,0,0,27,27,1.0,1.0,720.0,7681.0,256.033333,1280.0,Jensen Huang,Nvidia,Jim Cramer
+660,660,7000080401,Kelly Evans,Duolingo,Luis Von Ahn,N,0,0,0,0,1.0,1.0,720.0,6418.0,213.933333,1280.0,Luis von Ahn,Duolingo,Kelly Evans
+661,661,7000080390,Julia Boorstin,Facebook,Sheryl Sandberg,N,0,0,0,0,1.0,1.0,720.0,1396.0,46.533333,1280.0,Sheryl Sandberg,Facebook,Julia Boorstin
+662,662,7000080385,Jon Fortt / Morgan Brennan / Carl Quintanilla,Avantor,Michael Stubblefield,Y,0,0,0,0,3.0,1.0,720.0,3862.0,128.73333300000002,1280.0,Michael Stubblefield,Avantor,Jon Fortt / Morgan Brennan / Carl Quintanilla
+663,663,7000080333,Joe Kernen / Andrew Ross Sorkin,Away,Steph Korey,Y,0,5,16,0,2.0,1.0,720.0,11344.0,378.133333,1280.0,Steph Korey,Away,Joe Kernen / Andrew Ross Sorkin
+664,664,7000080347,Andrew Ross Sorkin,Zipline,Keller Rinaudo,N,6,10,0,0,1.0,1.0,720.0,11394.0,379.799333,1280.0,Keller Rinaudo,Zipline,Andrew Ross Sorkin
+665,665,7000080341,Andrew Ross Sorkin,Luckin,Reinout Schakel,N,0,0,0,0,1.0,1.0,720.0,8426.0,280.866333,1280.0,Reinout Schakel,Luckin,Andrew Ross Sorkin
+666,666,7000080197,,Verizon,Hans Vestberg,Y,0,0,0,0,0.0,1.0,720.0,1147.0,38.233333,1280.0,Hans Vestberg,Verizon,
+667,667,7000080171,Diana Olick / Kelly Evans,Taylor Morrison,Sheryl Palmer,Y,0,0,0,0,2.0,1.0,720.0,3117.0,103.899333,1280.0,Sheryl Palmer,Taylor Morrison,Diana Olick / Kelly Evans
+668,668,7000080174,Kelly Evans,Ginkgo Bioworks,Jason Kelly,N,0,0,0,0,1.0,1.0,720.0,6401.0,213.366333,1280.0,Jason Kelly,Ginkgo Bioworks,Kelly Evans
+669,669,7000080015,Jim Cramer,Cisco Systems,Chuck Robbins / Kelly Kramer,Y,18,19,39,30,1.0,2.0,720.0,15430.0,514.333333,1280.0,Chuck Robbins / Kelly Kramer ,Cisco Systems,Jim Cramer
+670,670,7000080021,Jim Cramer,Goodrx,Doug Hirsch,N,12,14,42,29,1.0,1.0,720.0,13993.0,466.433333,1280.0,Doug Hirsch,GoodRX,Jim Cramer
+671,671,7000080022,Jim Cramer,Goodrx,Doug Hirsch,N,0,0,27,27,1.0,1.0,720.0,5834.0,194.46633300000002,1280.0,Doug Hirsch,GoodRX,Jim Cramer
+672,672,7000080018,Jim Cramer,Roku,Anthony Wood,N,0,0,28,28,1.0,1.0,720.0,6681.0,222.699333,1280.0,Anthony Wood,Roku,Jim Cramer
+673,673,7000080019,Jim Cramer,Roku,Anthony Wood,N,20,20,37,30,1.0,1.0,720.0,15326.0,510.866333,1280.0,Anthony Wood,Roku,Jim Cramer
+674,674,7000079972,Kelly Evans / Tyler Mathisen,Phononic,Tony Atti,Y,0,0,0,0,2.0,1.0,720.0,6524.0,217.46633300000002,1280.0,Tony Atti,Phononic,Kelly Evans / Tyler Mathisen
+675,675,7000079936,Julia Boorstin / Jon Fortt / Morgan Brennan / Carl Quintanilla,Clear,Caryn Seidman-Becker,Y,0,8,0,0,4.0,1.0,720.0,9743.0,324.76633300000003,1280.0,Caryn Seidman-Becker,CLEAR ,Julia Boorstin / Jon Fortt / Morgan Brennan / Carl Quintanilla
+676,676,7000079935,Kate Rogers,Restaurant Brands,José Cil,N,0,0,0,0,1.0,1.0,720.0,2797.0,93.233333,1280.0,Jose Cil,Restaurant Brands,Kate Rogers
+677,677,7000079899,Meg Tirrell / Joe Kernen,Johnson & Johnson,Alex Gorsky,Y,0,4,0,0,2.0,1.0,720.0,8099.0,269.966333,1280.0,Alex Gorsky,Johnson & Johnson,Meg Tirrell / Joe Kernen
+678,678,7000079896,Julia Boorstin / Melissa Lee / Wilfred Frost / Joe Kernen,Indigo Ag,David Perry,Y,0,0,0,0,4.0,1.0,720.0,12024.0,400.799333,1280.0,David Perry,Indigo AG,Julia Boorstin / Melissa Lee(*) / Wilfred Frost / Joe Kernen
+679,679,7000079813,Jim Cramer,Trade Desk,Jeff Green,N,26,26,42,36,1.0,1.0,720.0,14531.0,484.366333,1280.0,Jeff Green,Trade Desk,Jim Cramer
+680,680,7000079810,Jim Cramer,Adobe,Shantanu Narayen,N,25,26,43,30,1.0,1.0,720.0,17246.0,574.866333,1280.0,Shantanu Narayen ,Adobe,Jim Cramer
+681,681,7000079809,Jim Cramer,Adobe,Shantanu Narayen,N,0,0,27,27,1.0,1.0,720.0,7030.0,234.333333,1280.0,Shantanu Narayen ,Adobe,Jim Cramer
+682,682,7000079611,Jim Cramer,Workday,Aneel Bhusri,N,5,6,43,34,1.0,1.0,720.0,12176.0,405.866333,1280.0,Aneel Bhushri,Workday,Jim Cramer
+683,683,7000079608,Jim Cramer,Twitter,Ned Segal,N,7,8,43,37,1.0,1.0,720.0,16029.0,534.299333,1280.0,Ned Segal,Twitter,Jim Cramer
+684,684,7000079609,Jim Cramer,Twitter,Ned Segal,N,0,0,28,28,1.0,1.0,720.0,8785.0,292.833333,1280.0,Ned Segal,Twitter,Jim Cramer
+685,685,7000079605,Jim Cramer,Williams-Sonoma,Laura Alber,N,5,5,37,29,1.0,1.0,720.0,14656.0,488.533333,1280.0,Laura Alber,Williams-Sonoma,Jim Cramer
+686,686,7000079316,Jim Cramer,Liveperson,Robert Locascio,N,6,6,36,27,1.0,1.0,720.0,13388.0,446.26633300000003,1280.0,Robert Locascio,LivePerson,Jim Cramer
+687,687,7000079105,Jim Cramer,Etsy,Josh Silverman,N,0,0,27,27,1.0,1.0,720.0,7658.0,255.266333,1280.0,Josh Silverman,Etsy,Jim Cramer
+688,688,7000079077,Andrew Ross Sorkin,Uber,Dara Khosrowshahi,N,9999,9999,9999,9999,1.0,1.0,720.0,17089.0,569.633333,1280.0,Dara Khosrowshahi,Uber,Andrew Ross Sorkin
+689,689,7000079109,Jim Cramer,Bausch Health,Joe Papa,N,6,6,43,30,1.0,1.0,720.0,13041.0,434.699333,1280.0,Joe Papa,Bausch Health,Jim Cramer
+690,690,7000079106,Jim Cramer,Etsy,Josh Silverman,N,20,20,32,28,1.0,1.0,720.0,15944.0,531.466333,1280.0,Josh Silverman,Etsy,Jim Cramer
+691,691,7000079057,Tyler Mathisen,Vanguard,Tim Buckley,N,0,0,0,0,1.0,1.0,720.0,7928.0,264.26633300000003,1280.0,Tim Buckley,Vanguard,Tyler Mathisen
+692,692,7000079026,Jon Fortt,Twilio,Jeff Lawson,N,0,0,0,0,1.0,1.0,720.0,6799.0,226.633333,1280.0,Jeff Lawson,Twilio,Jon Fortt
+693,693,7000078864,Jim Cramer,Nestlé Global,Mark Schneider,N,6,7,32,30,1.0,1.0,720.0,12279.0,409.299333,1280.0,Mark Schneider,Nestlé Global,Jim Cramer
+694,694,7000078861,Jim Cramer,Wendy’S,Todd Penegor,N,6,7,35,30,1.0,1.0,720.0,13856.0,461.866333,1280.0,Todd Penegor ,Wendy's,Jim Cramer
+695,695,7000078859,Jim Cramer,Under Armour,Kevin Plank,N,0,0,28,28,1.0,1.0,720.0,9804.0,326.799333,1280.0,Kevin Plank,Under Armour,Jim Cramer
+696,696,7000078858,Jim Cramer,Under Armour,Kevin Plank,N,21,22,35,28,1.0,1.0,720.0,21850.0,728.333333,1280.0,Kevin Plank,Under Armour,Jim Cramer
+697,697,7000078802,Tyler Mathisen,Cbre,Bob Sulentic,N,0,0,0,0,1.0,1.0,720.0,6807.0,226.899333,1280.0,Bob Sulentic,CBRE,Tyler Mathisen
+698,698,7000078727,Jon Fortt / Morgan Brennan / Carl Quintanilla,Match Group Group,Mandy Ginsberg,Y,0,5,0,0,3.0,1.0,720.0,8865.0,295.49933300000004,1280.0,Mandy Ginsberg,Match Group,Jon Fortt / Morgan Brennan / Carl Quintanilla
+699,699,7000078720,Carl Quintanilla / Sara Eisen / David Faber,Parsons Corp.,Charles Harrington,Y,0,0,0,0,3.0,1.0,720.0,8727.0,290.899333,1280.0,Charles Harrington,Parsons Corp.,Carl Quintanilla / Sara Eisen / David Faber
+700,700,7000078716,Carl Quintanilla / Sara Eisen / David Faber,Sofi,Anthony Noto,Y,0,0,0,0,3.0,1.0,720.0,12694.0,423.133333,1280.0,Anthony Noto,SoFi,Carl Quintanilla / Sara Eisen / David Faber
+701,701,7000078612,Jim Cramer,1-800-Flowers.Com,Chris Mccann,N,18,18,40,29,1.0,1.0,720.0,11616.0,387.199333,1280.0,Chris McCann,1-800-Flowers.com,Jim Cramer
+702,702,7000078609,Jim Cramer,Teladoc,Jason Gorevic,N,6,7,42,30,1.0,1.0,720.0,12445.0,414.833333,1280.0,Jason Gorevic,Teladoc,Jim Cramer
+703,703,7000078547,Scott Wapner,Doubleline Capital,Jeffrey Gundlach,N,0,0,0,0,1.0,1.0,720.0,6958.0,231.933333,1280.0,Jeffrey Gundlach,DoubleLine Capital,Scott Wapner
+704,704,7000078546,Scott Wapner,Doubleline Capital,Jeffrey Gundlach,N,0,0,0,0,1.0,1.0,720.0,7731.0,257.699333,1280.0,Jeffrey Gundlach,DoubleLine Capital,Scott Wapner
+705,705,7000078433,Jim Cramer,Funko,Brian Mariotti,N,6,7,40,29,1.0,1.0,720.0,14020.0,467.333333,1280.0,Brian Mariotti,Funko,Jim Cramer
+706,706,7000078359,Kelly Evans,Glenview Capital,Larry Robbins,N,0,3,0,0,1.0,1.0,720.0,28770.0,958.999333,1280.0,Larry Robbins,Glenview Capital,Kelly Evans (call)
+707,707,7000078328,Becky Quick,Apple,Tim Cook,N,0,0,0,0,1.0,1.0,720.0,36622.0,1220.733333,1280.0,Tim Cook ,Apple ,Becky Quick
+708,708,7000078068,Becky Quick / Melissa Lee,Dairy Queen,Troy Bader,Y,0,0,0,0,2.0,1.0,720.0,6647.0,221.56633300000001,1280.0,Troy Bader,Dairy Queen,Becky Quick / Melissa Lee(*)
+709,709,7000078030,Jon Fortt / Morgan Brennan,Tableau,Adam Selipsky,Y,0,0,0,0,2.0,1.0,720.0,6179.0,205.96633300000002,1280.0,Adam Selipsky,Tableau,Jon Fortt / Morgan Brennan
+710,710,7000078025,Sara Eisen,Adidas,Kasper Rorsted,N,0,0,0,0,1.0,1.0,720.0,7349.0,244.96633300000002,1280.0,Kasper Rorsted,Adidas,Sara Eisen
+711,711,7000078020,Carl Quintanilla / Sara Eisen / David Faber,Dunkin’,David Hoffmann,Y,0,0,0,0,3.0,1.0,720.0,8018.0,267.26633300000003,1280.0,David Hoffmann,Dunkin’,Carl Quintanilla / Sara Eisen / David Faber
+712,712,7000078000,Becky Quick,Reddit And Initialized Capital,Alexis Ohanian,N,0,0,0,0,1.0,1.0,720.0,13264.0,442.133333,1280.0,Alexis Ohanian,Reddit and Initialized Capital,Becky Quick
+713,713,7000077990,Becky Quick,Brooks Running Company / Benjamin Moore Paints,Jim Weber / Dan Calkins,Y,0,0,0,0,1.0,2.0,720.0,9933.0,331.099333,1280.0,Jim Weber / Dan Calkins,Brooks Running Company / Benjamin Moore Paints,Becky Quick
+714,714,7000077992,Becky Quick,Gamco Investors,Mario Gabelli,N,0,0,0,0,1.0,1.0,720.0,17785.0,592.833333,1280.0,Mario Gabelli,GAMCO Investors,Becky Quick
+715,715,7000077793,Frank Holland,Beyond Meat,Ethan Brown,N,0,0,0,0,1.0,1.0,720.0,9090.0,302.99933300000004,1280.0,Ethan Brown,Beyond Meat,Frank Holland
+716,716,7000077785,Jon Fortt / Morgan Brennan,Fitbit,James Park,Y,0,0,0,0,2.0,1.0,720.0,6846.0,228.199333,1280.0,James Park,Fitbit,Jon Fortt / Morgan Brennan
+717,717,7000077783,Jon Fortt / Morgan Brennan,Zynga,Frank Gibeau,Y,0,0,0,0,2.0,1.0,720.0,8408.0,280.26633300000003,1280.0,Frank Gibeau,Zynga,Jon Fortt / Morgan Brennan
+718,718,7000077775,Jim Cramer / Sara Eisen / David Faber,Dow,Jim Fitterling,Y,0,0,0,0,3.0,1.0,720.0,15553.0,518.4333330000001,1280.0,Jim Fitterling,Dow,Jim Cramer / Sara Eisen / David Faber
+719,719,7000077766,Jim Cramer / Carl Quintanilla / David Faber,Citigroup,Michael Corbat,Y,0,0,0,0,3.0,1.0,720.0,7908.0,263.599333,1280.0,Michael Corbat,Citigroup,Jim Cramer / Carl Quintanilla / David Faber
+720,720,7000077673,Jim Cramer,Chegg,Dan Rosensweig,N,7,7,35,30,1.0,1.0,720.0,14643.0,488.099333,1280.0,Dan Rosensweig,Chegg,Jim Cramer
+721,721,7000077668,Jim Cramer,Advanced Micro Devices,Lisa Su,N,6,7,34,28,1.0,1.0,720.0,16272.0,542.399333,1280.0,Lisa Su,Advanced Micro Devices,Jim Cramer
+722,722,7000077669,Jim Cramer,Advanced Micro Devices,Lisa Su,N,0,0,27,27,1.0,1.0,720.0,5964.0,198.79933300000002,1280.0,Lisa Su,Advanced Micro Devices,Jim Cramer
+723,723,7000077567,Jon Fortt / Morgan Brennan / Carl Quintanilla,Akamai,Tom Leighton,Y,0,0,0,0,3.0,1.0,720.0,9716.0,323.866333,1280.0,Tom Leighton,Akamai ,Jon Fortt / Morgan Brennan / Carl Quintanilla
+724,724,7000077556,Carl Quintanilla / Sara Eisen,Mondelez,Dirk Van De Put,Y,0,0,0,0,2.0,1.0,720.0,15228.0,507.599333,1280.0,Dirk Van de Put ,Mondelez,Carl Quintanilla / Sara Eisen
+725,725,7000077455,Jim Cramer,Zebra Technologies,Anders Gustafsson,N,5,6,70,60,1.0,1.0,720.0,13806.0,460.199333,1280.0,Anders Gustafsson,Zebra Technologies,Jim Cramer
+726,726,7000077456,Jim Cramer,Shopify,Harley Finkelstein,N,22,23,35,29,1.0,1.0,720.0,14494.0,483.133333,1280.0,Harley Finkelstein,Shopify,Jim Cramer
+727,727,7000077417,Sara Eisen / Wilfred Frost,Rio Tinto,Jean-Sebastian Jacques,Y,0,0,0,0,2.0,1.0,720.0,7773.0,259.099333,1280.0,Jean-Sebastian Jacques,Rio Tinto,Sara Eisen / Wilfred Frost
+728,728,7000077401,Brian Sullivan / Kelly Evans,Bp,Bob Dudley,Y,0,0,0,0,2.0,1.0,720.0,10176.0,339.199333,1280.0,Bob Dudley,BP,Brian Sullivan / Kelly Evans 
+729,729,7000077376,Contessa Brewer / Carl Quintanilla,Greycroft,Alan Patricof,Y,0,0,0,0,2.0,1.0,720.0,11187.0,372.899333,1280.0,Alan Patricof,Greycroft,Contessa Brewer / Carl Quintanilla
+730,730,7000077375,David Faber,Quibi,Meg Whitman,N,0,0,0,0,1.0,1.0,720.0,15784.0,526.133333,1280.0,Meg Whitman,Quibi,David Faber
+731,731,7000077373,David Faber,Ebay,Devin Wenig,N,0,0,0,0,1.0,1.0,720.0,17938.0,597.9333330000001,1280.0,Devin Wenig,Ebay,David Faber
+732,732,7000077370,Sara Eisen / Carl Quintanilla,Stifel,Ron Kruszewski,Y,3,5,0,0,2.0,1.0,720.0,10863.0,362.099333,1280.0,Ron Kruszewski,Stifel,Sara Eisen / Carl Quintanilla
+733,733,7000077235,Jim Cramer,3M,Mike Roman,N,24,24,37,29,1.0,1.0,720.0,17513.0,583.766333,1280.0,Mike Roman,3M,Jim Cramer
+734,734,7000077234,Jim Cramer,3M,Mike Roman,N,0,0,28,28,1.0,1.0,720.0,6558.0,218.599333,1280.0,Mike Roman,3M,Jim Cramer
+735,735,7000077132,Deirdre Bosa / Carl Quintanilla,Airbnb / Rxr Realty,Brian Chesky / Scott Rechler,Y,0,0,0,0,2.0,2.0,720.0,17052.0,568.399333,1280.0,Brian Chesky / Scott Rechler,Airbnb / RXR Realty,Deirdre Bosa / Carl Quintanilla
+736,736,7000077131,David Faber,Goldman Sachs,David Solomon,N,0,0,0,0,1.0,1.0,720.0,20373.0,679.099333,1280.0,David Solomon,Goldman Sachs,David Faber
+737,737,7000076982,Jim Cramer,Marketaxess,Rick Mcvey,N,6,6,34,28,1.0,1.0,720.0,12867.0,428.899333,1280.0,Rick McVey ,MarketAxess,Jim Cramer
+738,738,7000076977,Jim Cramer,Cypres Semiconductor,Hassane El-Khoury,N,7,7,38,28,1.0,1.0,720.0,13595.0,453.166333,1280.0,Hassane El-Khoury,Cypres Semiconductor,Jim Cramer
+739,739,7000076974,Jim Cramer,Columbia Sportswear,Tim Doyle,N,18,18,35,29,1.0,1.0,720.0,14196.0,473.199333,1280.0,Tim Boyle,Columbia Sportswear,Jim Cramer
+740,740,7000076877,David Faber / Michael Santoli / Courtney Reagan,Intel,Bob Swan,Y,0,0,0,0,3.0,1.0,720.0,16666.0,555.533333,1280.0,Bob Swan (call),Intel,David Faber / Michael Santoli / Courtney Reagan
+741,741,7000076856,Jim Cramer / David Faber,Starbucks,Kevin Johnson,Y,0,2,0,0,2.0,1.0,720.0,12778.0,425.933333,1280.0,Kevin Johnson,Starbucks,Jim Cramer / David Faber
+742,742,7000076845,Becky Quick / Unknown,Grubhub,Matt Maloney,Y,0,0,0,0,2.0,1.0,720.0,9602.0,320.066333,1280.0,Matt Maloney,GrubHub,Becky Quick / Unknown
+743,743,7000076837,Joe Kernen,Autonation,Carl Liebert,N,0,0,8,0,1.0,1.0,720.0,8261.0,275.366333,1280.0,Carl Liebert,AutoNation,Joe Kernen
+744,744,7000076737,Jim Cramer,Centene,Michael Neidorff,N,6,6,40,29,1.0,1.0,720.0,14469.0,482.299333,1280.0,Michael Neidorff,Centene,Jim Cramer
+745,745,7000076731,Jim Cramer,Align Technology,Joe Hogan,N,6,6,38,28,1.0,1.0,720.0,13598.0,453.26633300000003,1280.0,Joe Hogan,Align Technology,Jim Cramer
+746,746,7000076638,Morgan Brennan / David Faber,Ups,David Abney,Y,0,12,0,0,2.0,1.0,720.0,14211.0,473.699333,1280.0,David Abney,UPS,Morgan Brennan / David Faber
+747,747,7000076627,Sara Eisen,Lululemon,Calvin Mcdonald,N,0,0,0,0,1.0,1.0,720.0,21159.0,705.299333,1280.0,Calvin McDonald,Lululemon,Sara Eisen
+748,748,7000076624,Kate Rogers / Jim Cramer,Chipotle,Brian Niccol,Y,0,0,0,0,2.0,1.0,720.0,12521.0,417.366333,1280.0,Brian Niccol,Chipotle,Kate Rogers / Jim Cramer
+749,749,7000076622,Jim Cramer / David Faber,Southwest Airlines,Gary Kelly,Y,0,0,0,0,2.0,1.0,720.0,11230.0,374.333333,1280.0,Gary Kelly,Southwest Airlines,Jim Cramer / David Faber
+750,750,7000076610,Joe Kernen / Michael Santoli / Becky Quick,Comcast,Brian Roberts,Y,0,6,0,0,3.0,1.0,720.0,6518.0,217.266333,1280.0,Brian Roberts,Comcast,Joe Kernen / Michael Santoli / Becky Quick
+751,751,7000076609,Joe Kernen,Comcast,Brian Roberts,N,0,0,0,0,1.0,1.0,720.0,12638.0,421.26633300000003,1280.0,Brian Roberts,Comcast,Joe Kernen
+752,752,7000076608,Joe Kernen / Michael Santoli / Becky Quick,Comcast,Brian Roberts,Y,0,0,0,0,3.0,1.0,720.0,21005.0,700.166333,1280.0,Brian Roberts,Comcast,Joe Kernen / Michael Santoli / Becky Quick
+753,753,7000076514,Jim Cramer,Servicenow,John Donahoe,N,6,6,35,30,1.0,1.0,720.0,13079.0,435.966333,1280.0,John Donahoe,ServiceNow,Jim Cramer
+754,754,7000076511,Jim Cramer,Zuora,Tien Tzuo,N,6,6,41,29,1.0,1.0,720.0,12815.0,427.166333,1280.0,Tien Tzuo,Zuora,Jim Cramer
+755,755,7000076510,Jim Cramer,Zuora,Tien Tzuo,N,0,0,28,28,1.0,1.0,720.0,5386.0,179.533333,1280.0,Tien Tzuo,Zuora,Jim Cramer
+756,756,7000076506,Jim Cramer,Domino’S,Ritch Allison,N,0,0,27,27,1.0,1.0,720.0,6694.0,223.133333,1280.0,Ritch Allison,Domino’s,Jim Cramer
+757,757,7000076508,Jim Cramer,Domino’S,Ritch Allison,N,24,24,40,30,1.0,1.0,720.0,14819.0,493.966333,1280.0,Ritch Allison,Domino’s,Jim Cramer
+758,758,7000076476,Sara Eisen / Wilfred Frost,Hawaiian Holdings,Peter Ingram,Y,0,0,0,0,2.0,1.0,720.0,10470.0,348.99933300000004,1280.0,Peter Ingram,Hawaiian Airlines,Sara Eisen / Wilfred Frost
+759,759,7000076462,Phil Lebeau,United Airlines,Oscar Munoz,N,0,0,0,0,1.0,1.0,720.0,6679.0,222.633333,1280.0,Oscar Munoz,United Airlines,Phil LeBeau
+760,760,7000076294,Sara Eisen / Wilfred Frost,Six Flag Entertainment,Jim Reid-Anderson,Y,0,0,0,0,2.0,1.0,300.0,7159.0,238.633333,534.0,Jim Reid-Anderson,Six Flag Entertainment,Sara Eisen / Wilfred Frost
+761,761,7000076406,Joe Kernen / Becky Quick / Michael Santoli / Unknown,Nasdaq,Adena Friedman,Y,0,3,0,0,4.0,1.0,720.0,9047.0,301.566333,1280.0,Adena Friedman,Nasdaq ,Joe Kernen / Becky Quick / Michael Santoli(*) / Unknown
+762,762,7000076395,Joe Kernen / Becky Quick / Michael Santoli / Unknown,Sap,Bill Mcdermott,Y,0,0,0,0,4.0,1.0,720.0,13734.0,457.799333,1280.0,Bill McDermott,SAP,Joe Kernen / Becky Quick / Michael Santoli(*) / Unknown
+763,763,7000076400,David Faber,Occidental,Vicki Hollub,N,0,0,0,0,1.0,1.0,720.0,12748.0,424.933333,1280.0,Vicki Hollub,Occidental,David Faber
+764,764,7000076321,Jim Cramer,Hasbro,Brian Goldner,N,7,7,31,30,1.0,1.0,720.0,15261.0,508.699333,1280.0,Brian Goldner,Hasbro,Jim Cramer
+765,765,7000076322,Jim Cramer,Hasbro,Brian Goldner,N,0,0,28,28,1.0,1.0,720.0,5095.0,169.833333,1280.0,Brian Goldner,Hasbro,Jim Cramer
+766,766,7000076226,Carl Quintanilla / Sara Eisen,Philip Morris,Andre Calantzopoulos,Y,0,0,0,0,2.0,1.0,720.0,14718.0,490.599333,1280.0,André Calantzopoulos,Philip Morris,Carl Quintanilla / Sara Eisen 
+767,767,7000076217,Sara Eisen,Coca-Cola,James Quincey,N,0,0,0,0,1.0,1.0,720.0,11074.0,369.133333,1280.0,James Quincey ,Coca-Cola,Sara Eisen
+768,768,7000076219,Sara Eisen,Coca-Cola,James Quincey,N,0,0,0,0,1.0,1.0,720.0,21059.0,701.966333,1280.0,James Quincey ,Coca-Cola,Sara Eisen
+769,769,7000075859,Jim Cramer,Five Below,Joel Anderson,N,6,7,39,29,1.0,1.0,720.0,13918.0,463.933333,1280.0,Joel Anderson, Five Below,Jim Cramer
+770,770,7000075798,Brian Sullivan,Bb&T,Kelly King,N,0,0,0,0,1.0,1.0,720.0,8945.0,298.166333,1280.0,Kelly King,BB&T,Brian Sullivan
+771,771,7000075778,Jon Fortt / Morgan Brennan / Carl Quintanilla / David Faber,Pinterest,Ben Silbermann,Y,0,0,0,0,4.0,1.0,720.0,20175.0,672.499333,1280.0,Ben Silbermann,Pinterest,Jon Fortt / Morgan Brennan / Carl Quintanilla / David Faber
+772,772,7000075632,Sara Eisen / Wilfred Frost / Michael Santoli,Audible,Donald Katz,Y,0,0,0,0,3.0,1.0,720.0,5630.0,187.666333,1280.0,Donald Katz,Audible,Sara Eisen / Wilfred Frost / Michael Santoli
+773,773,7000075742,Joe Kernen / Andrew Ross Sorkin / Melissa Lee,The Blackstone Group,Stephen Schwarzman,Y,0,0,0,0,3.0,1.0,720.0,32098.0,1069.933333,1280.0,Steve Schwarzman,Blackstone,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*)
+774,774,7000075741,Joe Kernen / Andrew Ross Sorkin,The Blackstone Group,Stephen Schwarzman,Y,0,0,0,0,2.0,1.0,720.0,9236.0,307.866333,1280.0,Steve Schwarzman,Blackstone,Joe Kernen / Andrew Ross Sorkin
+775,775,7000075740,Joe Kernen / Andrew Ross Sorkin / Melissa Lee,The Blackstone Group,Stephen Schwarzman,Y,0,0,0,0,3.0,1.0,300.0,7627.0,254.23333300000002,534.0,Steve Schwarzman,Blackstone,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*)
+776,776,7000075649,Jim Cramer,First Horizon,Bryan Jordan,N,6,7,33,29,1.0,1.0,720.0,13416.0,447.199333,1280.0,Bryan Jordan,First Horizon,Jim Cramer
+777,777,7000075550,Jim Cramer / Carl Quintanilla / David Faber,Qualcomm,Steve Mollenkopf,Y,0,0,0,0,3.0,1.0,300.0,36677.0,1222.566667,534.0,Steve Mollenkopf,Qualcomm,Jim Cramer / Carl Quintanilla / David Faber
+778,778,7000075547,Jim Cramer / Carl Quintanilla / David Faber,Qualcomm,Steve Mollenkopf,Y,0,0,0,0,3.0,1.0,720.0,9615.0,320.49933300000004,1280.0,Steve Mollenkopf,Qualcomm,Jim Cramer / Carl Quintanilla / David Faber
+779,779,7000075535,Phil Lebeau,Porsche North America,Klaus Zellmer,N,0,0,0,0,1.0,1.0,720.0,7362.0,245.399333,1280.0,Klaus Zellmer,Porsche North America,Phil LeBeau
+780,780,7000075473,Jim Cramer,Santander,Ana Botin,N,6,6,45,29,1.0,1.0,720.0,18796.0,626.533333,1280.0,Ana Botin,Santander,Jim Cramer
+781,781,7000075411,Phil Lebeau / Tyler Mathisen,Mercedes-Benz Usa,Dietmar Exler,Y,0,0,0,0,2.0,1.0,720.0,6164.0,205.46633300000002,1280.0,Dietmar Exler,Mercedes-Benz USA,Phil LeBeau / Tyler Mathisen
+782,782,7000075343,Joe Kernen / Andrew Ross Sorkin / Melissa Lee,Blackrock,Larry Fink,Y,0,4,38,0,3.0,1.0,720.0,31198.0,1039.933333,1280.0,Larry Fink,BlackRock,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*)
+783,783,7000075336,Joe Kernen / Andrew Ross Sorkin / Melissa Lee,Blackrock,Larry Fink,Y,0,0,0,0,3.0,1.0,720.0,10050.0,334.99933300000004,1280.0,Larry Fink,BlackRock,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*)
+784,784,7000075335,Joe Kernen / Andrew Ross Sorkin / Melissa Lee,Blackrock,Larry Fink,Y,0,0,0,0,3.0,1.0,720.0,6181.0,206.033333,1280.0,Larry Fink,BlackRock,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*)
+785,785,7000075338,Joe Kernen / Andrew Ross Sorkin / Melissa Lee,Blackrock,Larry Fink,Y,0,0,37,0,3.0,1.0,720.0,14009.0,466.966333,1280.0,Larry Fink,BlackRock,Joe Kernen / Andrew Ross Sorkin / Melissa Lee(*)
+786,786,7000075272,Jim Cramer,Chevron,Michael Wirth,N,6,7,35,29,1.0,1.0,720.0,12333.0,411.099333,1280.0,Mike Wirth,Chevron,Jim Cramer
+787,787,7000075267,Jim Cramer,Conagra,Sean Connolly,N,6,7,45,29,1.0,1.0,720.0,14018.0,467.26633300000003,1280.0,Sean Connolly,Conagra,Jim Cramer
+788,788,7000075226,Kelly Evans,Bridgestone Golf,Dan Murphy,N,0,0,0,0,1.0,1.0,720.0,1507.0,50.233333,1280.0,Dan Murphy,Bridgestone Golf,Kelly Evans
+789,789,7000074974,Jim Cramer,Bristol-Myers Squibb,Giovanni Caforio,N,6,7,39,30,1.0,1.0,720.0,13900.0,463.333333,1280.0,Giovanni Caforio,Bristol-Myers,Jim Cramer
+790,790,7000074973,Jim Cramer,Bristol-Myers Squibb,Giovanni Caforio,N,0,0,28,28,1.0,1.0,720.0,5364.0,178.79933300000002,1280.0,Giovanni Caforio,Bristol-Myers,Jim Cramer
+791,791,7000074873,David Faber,Disney,Bob Iger,N,0,0,0,0,1.0,1.0,720.0,57941.0,1931.3663329999997,1280.0,Bob Iger ,Disney,David Faber
+792,792,7000074835,David Faber,Disney,Bob Iger,N,0,0,0,0,1.0,1.0,720.0,11578.0,385.933333,1280.0,Bob Iger ,Disney,David Faber
+793,793,7000074823,David Faber,Disney,Bob Iger,N,0,0,0,0,1.0,1.0,720.0,5404.0,180.133333,1280.0,Bob Iger ,Disney,David Faber
+794,794,7000074822,David Faber,Disney,Bob Iger,N,0,0,0,0,1.0,1.0,720.0,5695.0,189.833333,1280.0,Bob Iger ,Disney,David Faber
+795,795,7000074787,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Chevron,Michael Wirth,Y,0,0,0,0,3.0,1.0,720.0,26686.0,889.533333,1280.0,Michael Wirth,Chevron,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+796,796,7000074783,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Chevron,Michael Wirth,Y,0,6,0,0,3.0,1.0,720.0,14347.0,478.233333,1280.0,Michael Wirth,Chevron,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+797,797,7000074732,Jim Cramer,Stockx,Josh Luber,N,7,9,32,29,1.0,1.0,720.0,13268.0,442.26633300000003,1280.0,Josh Luber,StockX,Jim Cramer
+798,798,7000074731,Jim Cramer,Macy'S,Jeffrey Gennette,N,6,7,33,29,1.0,1.0,720.0,19869.0,662.299333,1280.0,Jeffrey Gennette,Macy's,Jim Cramer
+799,799,7000074730,Jim Cramer,Macy'S,Jeffrey Gennette,N,0,0,27,27,1.0,1.0,720.0,3851.0,128.366333,1280.0,Jeffrey Gennette,Macy's,Jim Cramer
+800,800,7000074637,Jon Fortt / Morgan Brennan / Carl Quintanilla,Pagerduty,Jennifer Tejada,Y,0,0,0,0,3.0,1.0,720.0,6522.0,217.399333,1280.0,Jennifer Tejada,PagerDuty,Jon Fortt / Morgan Brennan / Carl Quintanilla
+801,801,7000074617,Carl Quintanilla / Jim Cramer,Anthony Noto,Sofi,Y,0,0,0,0,2.0,1.0,720.0,14502.0,483.399333,1280.0,SoFi,Anthony Noto,Carl Quintanilla / Jim Cramer
+802,802,7000074519,Jim Cramer,Ollie’S,Mark Butler,N,6,7,34,29,1.0,1.0,720.0,15937.0,531.233333,1280.0,Mark Butler,Ollie’s,Jim Cramer
+803,803,7000074515,Jim Cramer,Kohl’S,Michelle Gass,N,6,7,34,29,1.0,1.0,720.0,15874.0,529.133333,1280.0,Michelle Gass,Kohl’s,Jim Cramer
+804,804,7000074425,Jon Fortt / Morgan Brennan / Carl Quintanilla,Levi’S,Chip Bergh,Y,0,0,0,0,3.0,1.0,720.0,23483.0,782.766333,1280.0,Chip Bergh,Levi's,Jon Fortt / Morgan Brennan / Carl Quintanilla
+805,805,7000074423,Jon Fortt / Morgan Brennan / Carl Quintanilla,Levi’S,Chip Bergh,Y,0,0,0,0,3.0,1.0,720.0,9503.0,316.76633300000003,1280.0,Chip Bergh,Levi's,Jon Fortt / Morgan Brennan / Carl Quintanilla
+806,806,7000074377,Andrew Ross Sorkin / Melissa Lee,Delta Air Lines,Ed Bastian,Y,0,0,0,0,2.0,1.0,720.0,16268.0,542.266333,1280.0,Ed Bastian,Delta Air Lines,Andrew Ross Sorkin / Melissa Lee(*)
+807,807,7000074378,Phil Lebeau,Delta Air Lines,Ed Bastian,N,0,0,0,0,1.0,1.0,720.0,4993.0,166.433333,1280.0,Ed Bastian,Delta Air Lines,Phil LeBeau (call)
+808,808,7000074232,Jim Cramer,Hannon Armstrong,Jeff Eckel,N,6,7,37,29,1.0,1.0,720.0,14522.0,484.066333,1280.0,Jeff Eckel ,Hannon Armstrong,Jim Cramer
+809,809,7000074126,Carl Quintanilla / Morgan Brennan / David Faber,Alcon,David Endicott,Y,0,0,0,0,3.0,1.0,720.0,8664.0,288.799333,1280.0,David Endicott,Alcon,Carl Quintanilla / Morgan Brennan / David Faber
+810,810,7000074035,Jim Cramer,Dirty Lemon-Parent Iris Nova,Zak Normandin,N,9,9,43,29,1.0,1.0,720.0,13022.0,434.066333,1280.0,Zak Normandin,Dirty Lemon-parent Iris Nova,Jim Cramer
+811,811,7000074032,Jim Cramer,2U,Christopher Paucek,N,6,6,39,29,1.0,1.0,720.0,13448.0,448.26633300000003,1280.0,Christopher Paucek ,2U,Jim Cramer
+812,812,7000073990,Seema Mody,Norwegian Cruise Line,Frank Del Rio,N,0,0,0,0,1.0,1.0,720.0,6829.0,227.633333,1280.0,Frank Del Rio,Norwegian Cruise Line ,Seema Mody
+813,813,7000073933,Sara Eisen / Carl Quintanilla,Philip Morris,Andre Calantzopoulos,Y,0,7,0,0,2.0,1.0,720.0,13351.0,445.033333,1280.0,André Calantzopoulos,Philip Morris,Sara Eisen / Carl Quintanilla
+814,814,7000073735,Jim Cramer,Alder Biopharmaceuticals,Robert Azelby,N,6,7,32,28,1.0,1.0,720.0,10804.0,360.133333,1280.0,Robert Azelby,Alder Biopharmaceuticals,Jim Cramer
+815,815,7000073628,Sara Eisen,Under Armour,Kevin Plank,N,0,0,0,0,1.0,1.0,720.0,19209.0,640.299333,1280.0,Kevin Plank (call),Under Armour,Sara Eisen
+816,816,7000073493,Jim Cramer,Constellation Brands,Bill Newlands,N,6,7,35,30,1.0,1.0,720.0,13495.0,449.833333,1280.0,Bill Newlands,Constellation ,Jim Cramer
+817,817,7000073488,Jim Cramer,Grubhub,Matt Maloney,N,0,0,28,28,1.0,1.0,720.0,5417.0,180.56633300000001,1280.0,Matt Maloney,GrubHub,Jim Cramer
+818,818,7000073489,Jim Cramer,Grubhub,Matt Maloney,N,6,7,37,29,1.0,1.0,720.0,15668.0,522.266333,1280.0,Matt Maloney,GrubHub,Jim Cramer
+819,819,7000073437,Contessa Brewer,Walmart,Doug Mcmillon,N,0,1,0,0,1.0,1.0,720.0,16969.0,565.633333,1280.0,Doug McMillon,Walmart,Contessa Brewer
+820,820,7000073435,Contessa Brewer,Walmart,Doug Mcmillon,N,0,0,0,0,1.0,1.0,720.0,8921.0,297.366333,1280.0,Doug McMillon,Walmart,Contessa Brewer
+821,821,7000073434,Contessa Brewer,Walmart,Doug Mcmillon,N,0,0,0,0,1.0,1.0,720.0,6694.0,223.133333,1280.0,Doug McMillon,Walmart,Contessa Brewer
+822,822,7000073377,Morgan Brennan / Carl Quintanilla / Michael Santoli,Affirm,Max Levchin,Y,0,0,0,0,3.0,1.0,720.0,13111.0,437.033333,1280.0,Max Levchin,Affirm,Morgan Brennan / Carl Quintanilla / Michael Santoli
+823,823,7000073334,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Rigup,Xuan Yong,Y,6,6,13,0,3.0,1.0,720.0,12246.0,408.199333,1280.0,Xuan Yong,RigUp,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+824,824,7000073225,Sara Eisen / Wilfred Frost,Box,Aaron Levie,Y,0,0,0,0,2.0,1.0,720.0,15465.0,515.499333,1280.0,Aaron Levie,Box,Sara Eisen / Wilfred Frost
+825,825,7000073222,Sara Eisen / Wilfred Frost,Signet,Gina Drosos,Y,0,0,0,0,2.0,1.0,300.0,7762.0,258.733333,534.0,Gina Drosos,Signet,Sara Eisen / Wilfred Frost
+826,826,7000073176,Jon Fortt / Morgan Brennan / Carl Quintanilla,Verizon,Hans Vestberg,Y,0,0,0,0,3.0,1.0,720.0,19442.0,648.066333,1280.0,Hans Vestberg,Verizon,Jon Fortt / Morgan Brennan / Carl Quintanilla
+827,827,7000073182,Jon Fortt / Morgan Brennan,Matternet,Andreas Raptopoulos,Y,0,0,0,0,2.0,1.0,300.0,11856.0,395.2,534.0,Andreas Raptopoulos,Matternet,Jon Fortt / Morgan Brennan
+828,828,7000073069,Jim Cramer,Yext,Howard Lerman,N,6,7,32,30,1.0,1.0,720.0,11633.0,387.76633300000003,1280.0,Howard Lerman,Yext,Jim Cramer
+829,829,7000071823,Carl Quintanilla / Sara Eisen,Barneys New York,Daniella Vitale,Y,0,0,0,0,2.0,1.0,720.0,13764.0,458.799333,1280.0,Daniella Vitale,Barneys New York,Carl Quintanilla / Sara Eisen
+830,830,7000072987,Wilfred Frost,Bank Of America,Brian Moynihan,N,0,0,0,0,1.0,1.0,720.0,18454.0,615.133333,1280.0,Brian Moynihan,Bank of America ,Wilfred Frost
+831,831,7000072985,Wilfred Frost,Bank Of America,Brian Moynihan,N,0,0,0,0,1.0,1.0,720.0,7243.0,241.433333,1280.0,Brian Moynihan,Bank of America ,Wilfred Frost
+832,832,7000072956,Jim Cramer / Carl Quintanilla,Dow Inc.,Jim Fitterling,Y,0,0,0,0,2.0,1.0,720.0,15144.0,504.799333,1280.0,Jim Fitterling,Dow Inc.,Jim Cramer / Carl Quintanilla 
+833,833,7000072812,Kelly Evans / Tyler Mathisen / Melissa Lee,Alexandria Real Estate Equities,Joel Marcus,Y,0,0,0,0,3.0,1.0,720.0,8142.0,271.399333,1280.0,Joel Marcus,Alexandria Real Estate Equities,Kelly Evans / Tyler Mathisen / Melissa Lee(*)
+834,834,7000072768,Morgan Brennan,Freightwaves,Craig Fuller,N,0,0,0,0,1.0,1.0,720.0,7522.0,250.73333300000002,1280.0,Craig Fuller,FreightWaves,Morgan Brennan
+835,835,7000072748,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,Discovery,David Zaslav,Y,0,0,0,0,4.0,1.0,720.0,19848.0,661.599333,1280.0,David Zaslav,Discovery,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown
+836,836,7000072371,Jim Cramer,Hello Alfred,Marcela Sapone / Jessica Beck,Y,0,0,14,0,1.0,2.0,720.0,11548.0,384.933333,1280.0,Marcela Sapone / Jessica Beck,Hello Alfred,Jim Cramer
+837,837,7000072088,Kelly Evans / Tyler Mathisen,Redfin,Glenn Kelman,Y,0,0,0,0,2.0,1.0,720.0,3576.0,119.19933300000001,1280.0,Glenn Kelman,Redfin,Kelly Evans / Tyler Mathisen
+838,838,7000072036,Jon Fortt / Morgan Brennan / David Faber,Ellevest,Sallie L. Krawcheck,Y,0,0,0,0,3.0,1.0,720.0,11309.0,376.966333,1280.0,Sallie Krawcheck,Ellevest,Jon Fortt / Morgan Brennan / David Faber
+839,839,7000072005,Jim Cramer / David Faber,Servicenow,John Donahoe,Y,0,0,0,0,2.0,1.0,720.0,8413.0,280.433333,1280.0,John Donahoe,ServiceNow,Jim Cramer / David Faber
+840,840,7000071995,Joe Kernen / Michael Santoli /  Kayla Tausche,Nucor,John Ferriola,Y,0,0,0,0,3.0,1.0,720.0,14492.0,483.066333,1280.0,John Ferriola,Nucor,Joe Kernen / Michael Santoli /  Kayla Tausche
+841,841,7000071920,Jim Cramer,Paychex,Marty Mucci,N,6,7,40,29,1.0,1.0,720.0,14199.0,473.299333,1280.0,Martin Mucci ,Paychex,Jim Cramer
+842,842,7000071913,Jim Cramer,Pvh,Manny Chirico,N,6,7,35,29,1.0,1.0,720.0,14470.0,482.333333,1280.0,Manny Chirico,PVH,Jim Cramer
+843,843,7000071710,Jim Cramer,Five9,Rowan Trollope,N,6,7,34,29,1.0,1.0,720.0,11946.0,398.199333,1280.0,Rowan Trollope,Five9,Jim Cramer
+844,844,7000071510,Jim Cramer,Thermo Fisher Scientific,Marc Casper,N,6,7,37,29,1.0,1.0,720.0,12121.0,404.033333,1280.0,Marc Casper,Thermo Fisher Scientific,Jim Cramer
+845,845,7000071509,Jim Cramer,Pegasystems,Alan Trefler,N,6,7,33,29,1.0,1.0,720.0,11884.0,396.133333,1280.0,Alan Trefler,Pegasystems,Jim Cramer
+846,846,7000071224,Jim Cramer,Planet Fitness,Chris Rondeau,N,6,6,36,28,1.0,1.0,720.0,12567.0,418.899333,1280.0,Chris Rondeau,Planet Fitness,Jim Cramer
+847,847,7000071219,Jim Cramer,Iridium Communications,Matthew Desch,N,6,7,41,29,1.0,1.0,720.0,12711.0,423.699333,1280.0,Matthew Desch,Iridium Communications,Jim Cramer
+848,848,7000071113,Sara Eisen / Carl Quintanilla,Papa John'S / Starboard Value / Nba Hall Of Famer,Steve Ritchie / Jeffrey Smith / Shaquille O’Neal,Y,0,0,0,0,2.0,3.0,720.0,29834.0,994.466333,1280.0,Steve Ritchie / Jeffrey Smith / Shaquille O’Neal,Papa John's / Starboard Value / NBA hall of famer ,Sara Eisen / Carl Quintanilla
+849,849,7000071094,Joe Kernen / Becky Quick / Wilfred Frost,Rent The Runway,Jennifer Hyman,Y,0,0,0,0,3.0,1.0,720.0,15414.0,513.799333,1280.0,Jennifer Hyman,Rent the Runway,Joe Kernen / Becky Quick / Wilfred Frost
+850,850,7000070934,Josh Lipton,Oracle,Mark Hurd,N,0,0,0,0,1.0,1.0,720.0,15873.0,529.099333,1280.0,Mark Hurd (call),Oracle,Josh Lipton
+851,851,7000070925,Jon Fortt / Julia Boorstin / Carl Quintanilla,Levi’S,Chip Bergh,Y,0,0,0,0,3.0,1.0,720.0,15325.0,510.833333,1280.0,Charles Bergh,Levi's,Jon Fortt / Julia Boorstin / Carl Quintanilla
+852,852,7000070910,Jim Cramer / Carl Quintanilla,Micron Technology,Sanjay Mehrotra,Y,0,0,0,0,2.0,1.0,720.0,13506.0,450.199333,1280.0,Sanjay Mehrotra,Micron Technology,Jim Cramer / Carl Quintanilla
+853,853,7000070756,Kayla Tausche,J.P. Morgan / American University,Jamie Dimon / Sylvia Mathews Burwell,Y,0,0,0,0,1.0,2.0,720.0,2276.0,75.866333,1280.0,Jamie Dimon / Sylvia Mathews Burwell,J.P. Morgan / American University,Kayla Tausche
+854,854,7000070755,Kayla Tausche,J.P. Morgan / American University,Jamie Dimon / Sylvia Mathews Burwell,Y,0,0,0,0,1.0,2.0,720.0,23933.0,797.766333,1280.0,Jamie Dimon / Sylvia Mathews Burwell,J.P. Morgan / American University,Kayla Tausche
+855,855,7000070487,Joe Kernen / Melissa Lee / Becky Quick,Proofpoint,Gary Steele,Y,0,0,0,0,3.0,1.0,720.0,5338.0,177.933333,1280.0,Gary Steele,Proofpoint,Joe Kernen / Melissa Lee / Becky Quick
+856,856,7000070404,Sara Eisen / Wilfred Frost,Fidelity National Information Services,Gary Norcross,Y,0,0,0,0,2.0,1.0,720.0,9173.0,305.76633300000003,1280.0,Gary Norcross,Fidelity National Information Services,Sara Eisen / Wilfred Frost
+857,857,7000070403,Sara Eisen / Wilfred Frost,Tilray,Brendan Kennedy,Y,0,0,30,30,2.0,1.0,720.0,13228.0,440.933333,1280.0,Brendan Kennedy,Tilray ,Sara Eisen / Wilfred Frost
+858,858,7000070400,Michael Santoli / Wilfred Frost,Tilray,Brendan Kennedy,Y,0,0,0,0,2.0,1.0,720.0,4956.0,165.199333,1280.0,Brendan Kennedy,Tilray ,Michael Santoli / Wilfred Frost
+859,859,7000070294,Joe Kernen / Becky Quick / Unknown,Marriott International,Arne Sorenson,Y,0,0,12,0,3.0,1.0,720.0,9444.0,314.799333,1280.0,Arne Sorenson,Marriott International,Joe Kernen / Becky Quick / Unknown
+860,860,7000070021,Jon Fortt / Contessa Brewer / Carl Quintanilla,Kayak,Steve Hafner,Y,0,0,0,0,3.0,1.0,720.0,6317.0,210.56633300000001,1280.0,Steve Hafner,Kayak,Jon Fortt / Contessa Brewer / Carl Quintanilla
+861,861,7000069987,Joe Kernen / Becky Quick / Unknown,Ulta Beauty,Mary Dillon,Y,0,0,0,0,3.0,1.0,720.0,11074.0,369.133333,1280.0,Mary Dillon,Ulta Beauty,Joe Kernen / Becky Quick / Unknown
+862,862,7000069853,Kelly Evans,Bank Of America,Brian Moynihan,N,0,0,0,0,1.0,1.0,720.0,6246.0,208.199333,1280.0,Brian Moynihan,Bank of America,Kelly Evans
+863,863,7000069851,Kelly Evans,Bank Of America,Brian Moynihan,N,0,0,0,0,1.0,1.0,720.0,17219.0,573.966333,1280.0,Brian Moynihan,Bank of America,Kelly Evans
+864,864,7000069481,Brian Sullivan / Contessa Brewer,Bp,Bob Dudley,Y,0,0,0,0,2.0,1.0,720.0,11424.0,380.799333,1280.0,Bob Dudley,BP,Brian Sullivan / Contessa Brewer
+865,865,7000069480,Wilfred Frost / Brian Sullivan,Bp,Bob Dudley,Y,0,0,0,0,2.0,1.0,720.0,1692.0,56.399333,1280.0,Bob Dudley,BP,Wilfred Frost / Brian Sullivan
+866,866,7000069429,Brian Sullivan / Melissa Lee,Chevron,Michael Wirth,Y,0,0,0,0,2.0,1.0,720.0,10554.0,351.799333,1280.0,Michael Wirth,Chevron,Brian Sullivan / Melissa Lee
+867,867,7000069404,Brian Sullivan,Hess,John Hess,N,0,0,0,0,1.0,1.0,720.0,8924.0,297.466333,1280.0,John Hess,Hess,Brian Sullivan
+868,868,7000069391,Joe Kernen,Siemens Ag,Joe Kaeser,N,0,0,5,0,1.0,1.0,720.0,10317.0,343.899333,1280.0,Joe Kaeser,Siemens AG,Joe Kernen
+869,869,7000069285,Morgan Brennan / Wilfred Frost,Bloomin’ Brands,Liz Smith Joins,Y,0,0,0,0,2.0,1.0,720.0,7822.0,260.733333,1280.0,Liz Smith joins,Bloomin’ Brands,Morgan Brennan / Wilfred Frost
+870,870,7000069230,Jon Fortt / Morgan Brennan / Carl Quintanilla,Nvidia,Jensen Huang,Y,0,0,0,0,3.0,1.0,720.0,16978.0,565.9333330000001,1280.0,Jensen Huang (call),Nvidia,Jon Fortt / Morgan Brennan / Carl Quintanilla
+871,871,7000069214,David Faber,Softbank,Masayoshi Son,N,0,0,0,0,1.0,1.0,720.0,2907.0,96.899333,1280.0,Masayoshi Son,SoftBank,David Faber
+872,872,7000069216,Michael Santoli / David Faber / Carl Quintanilla / Unknown,Sotheby’S,Tad Smith,Y,0,0,0,0,4.0,1.0,720.0,10013.0,333.76633300000003,1280.0,Tad Smith,Sotheby’s,Michael Santoli / David Faber / Carl Quintanilla / Unknown
+873,873,7000069017,Sara Eisen / Wilfred Frost,Williams-Sonoma,Laura Alber,Y,0,0,0,0,2.0,1.0,720.0,11338.0,377.933333,1280.0,Laura Alber,Williams-Sonoma,Sara Eisen / Wilfred Frost
+874,874,7000069009,Kelly Evans / Tyler Mathisen,Invitae,Sean George,Y,0,0,0,0,2.0,1.0,720.0,8908.0,296.933333,1280.0,Sean George,Invitae,Kelly Evans / Tyler Mathisen
+875,875,7000069016,David Faber,Softbank,Masayoshi Son,N,0,0,0,0,1.0,1.0,720.0,104323.0,3477.433333,1280.0,Masayoshi Son,SoftBank,David Faber
+876,876,7000068973,David Faber,Softbank,Masayoshi Son,N,0,0,0,0,1.0,1.0,720.0,13449.0,448.299333,1280.0,Masayoshi Son,SoftBank,David Faber
+877,877,7000068964,David Faber,Softbank,Masayoshi Son,N,0,0,0,0,1.0,1.0,720.0,4646.0,154.866333,1280.0,Masayoshi Son,SoftBank,David Faber
+878,878,7000068960,David Faber,Softbank,Masayoshi Son,N,2,2,0,0,1.0,1.0,720.0,11320.0,377.333333,1280.0,Masayoshi Son,SoftBank,David Faber
+879,879,7000068953,Carl Quintanilla / Sara Eisen / David Faber,Softbank,Masayoshi Son,Y,0,0,0,0,3.0,1.0,720.0,6469.0,215.633333,1280.0,Masayoshi Son,SoftBank,Carl Quintanilla / Sara Eisen / David Faber
+880,880,7000068944,Carl Quintanilla / Jim Cramer / David Faber,Softbank,Masayoshi Son,Y,0,0,15,0,3.0,1.0,720.0,9281.0,309.366333,1280.0,Masayoshi Son,SoftBank,Carl Quintanilla / Jim Cramer / David Faber
+881,881,7000068943,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Etsy,Josh Silverman,Y,0,3,0,0,3.0,1.0,720.0,11892.0,396.399333,1280.0,Josh Silverman,Etsy,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+882,882,7000068794,Phil Lebeau,Alaska Airlines,Brad Tilden,N,0,0,0,0,1.0,1.0,720.0,4477.0,149.23333300000002,1280.0,Brad Tilden,Alaska Airlines,Phil LeBeau (not show)
+883,883,7000068782,Phil Lebeau / Melissa Lee,American Airlines,Doug Parker,Y,0,0,0,0,2.0,1.0,720.0,5662.0,188.73333300000002,1280.0,Doug Parker ,American Airlines,Phil LeBeau / Melissa Lee
+884,884,7000068767,Phil Lebeau,United Airlines,Oscar Munoz,N,0,0,20,20,1.0,1.0,720.0,3879.0,129.29933300000002,1280.0,Oscar Munoz,United Airlines,Phil LeBeau
+885,885,7000068747,Jon Fortt / Morgan Brennan / Carl Quintanilla,Carvana,Ernie Garcia,Y,0,0,0,0,3.0,1.0,720.0,7981.0,266.033333,1280.0,Ernie Garcia,Carvana,Jon Fortt / Morgan Brennan / Carl Quintanilla
+886,886,7000068733,Sara Eisen / Carl Quintanilla,Canopy Growth Corporation,Bruce Linton,Y,0,0,0,0,2.0,1.0,720.0,11297.0,376.566333,1280.0,Bruce Linton,Canopy Growth,Sara Eisen / Carl Quintanilla
+887,887,7000068722,Becky Quick,Exxon,Darren Woods,N,0,4,0,0,1.0,1.0,720.0,7817.0,260.566333,1280.0,Darren Woods,Exxon,Becky Quick
+888,888,7000068700,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Again Capital,John Kilduff,Y,0,0,0,0,3.0,1.0,720.0,11128.0,370.933333,1280.0,John Kilduff,Again Capital,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+889,889,7000068698,Becky Quick / Joe Kernen / Andrew Ross Sorkin,Exxon,Darren Woods,Y,2,5,0,0,3.0,1.0,720.0,11333.0,377.76633300000003,1280.0,Darren Woods,Exxon,Becky Quick / Joe Kernen / Andrew Ross Sorkin
+890,890,7000068556,Sara Eisen / Wilfred Frost,Csx,Jim Foote,Y,0,0,0,0,2.0,1.0,720.0,12660.0,421.99933300000004,1280.0,Jim Foote,CSX,Sara Eisen / Wilfred Frost
+891,891,7000068516,Jon Fortt / Morgan Brennan / Carl Quintanilla,Siemens Usa,Barbara Humpton,Y,0,0,0,0,3.0,1.0,720.0,16041.0,534.699333,1280.0,Barbara Humpton,Siemens USA,Jon Fortt / Morgan Brennan / Carl Quintanilla
+892,892,7000068513,Carl Quintanilla / Sara Eisen,Suntory Holdings,Takeshi Niinami,Y,0,0,0,0,2.0,1.0,720.0,10659.0,355.299333,1280.0,Takeshi Niinami,Suntory Holdings,Carl Quintanilla / Sara Eisen
+893,893,7000068301,Brian Sullivan / Becky Quick,Newmont Mining,Gary Goldberg,Y,0,0,0,0,2.0,1.0,720.0,5870.0,195.666333,1280.0,Gary Goldberg,Newmont Mining,Brian Sullivan / Becky Quick
+894,894,7000068296,Courtney Reagan / Becky Quick,Target,Brian Cornell,Y,0,0,0,0,2.0,1.0,720.0,14615.0,487.166333,1280.0,Brian Cornell,Target,Courtney Reagan / Becky Quick
+895,895,7000067825,Jon Fortt / Contessa Brewer,Autodesk,Andrew Anagnos,Y,0,0,0,0,2.0,1.0,720.0,7927.0,264.233333,1280.0,Andrew Anagnost,Autodesk,Jon Fortt / Contessa Brewer
+896,896,7000067639,Melissa Lee / Tyler Mathisen,Horizon Pharma,Timothy Walbert,Y,0,0,7,0,2.0,1.0,720.0,7601.0,253.366333,1280.0,Timothy Walbert,Horizon Pharma,Melissa Lee / Tyler Mathisen
+897,897,7000067559,Andrew Ross Sorkin,Barrick Gold,Mark Bristow,N,3,8,3,0,1.0,1.0,720.0,12882.0,429.399333,1280.0,Mark Bristow,Barrick Gold,Andrew Ross Sorkin
+898,898,7000066863,Becky Quick / Joe Kernen,Berkshire Hathaway,Warren Buffett,Y,0,0,0,0,2.0,1.0,720.0,215633.0,7187.766333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick / Joe Kernen
+899,899,7000066839,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,14946.0,498.199333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+900,900,7000066842,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,5613.0,187.099333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+901,901,7000066840,Joe Kernen,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,5716.0,190.533333,1280.0,Warren Buffett,Berkshire Hathaway,Joe Kernen
+902,902,7000066837,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,3540.0,117.99933300000001,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+903,903,7000066835,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,5439.0,181.29933300000002,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+904,904,7000066834,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,3384.0,112.799333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+905,905,7000066833,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,8294.0,276.466333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+906,906,7000066832,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,5635.0,187.833333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+907,907,7000066831,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,7794.0,259.799333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+908,908,7000066829,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,5121.0,170.699333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+909,909,7000066828,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,9403.0,313.433333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+910,910,7000066825,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,5056.0,168.533333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+911,911,7000066824,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,6342.0,211.399333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+912,912,7000066823,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,15908.0,530.266333,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+913,913,7000066813,Becky Quick,Berkshire Hathaway,Warren Buffett,N,0,0,0,0,1.0,1.0,720.0,3416.0,113.86633300000001,1280.0,Warren Buffett,Berkshire Hathaway,Becky Quick 
+914,914,7000066548,Jon Fortt / Morgan Brennan,Intuit,Sasan Goodarzi,Y,0,0,0,0,2.0,1.0,720.0,8641.0,288.033333,1280.0,Sasan Goodarzi,Intuit,Jon Fortt / Morgan Brennan
+915,915,7000066528,Wilfred Frost / Morgan Brennan / Carl Quintanilla,Hpe,Antonio Neri,Y,0,0,0,0,3.0,1.0,720.0,10712.0,357.066333,1280.0,Antonio Neri,HPE,Wilfred Frost / Morgan Brennan / Carl Quintanilla
+916,916,7000066507,Joe Kernen / Becky Quick / Unknown,Autonation,Mike Jackson / Carl Liebert,Y,0,6,0,0,3.0,2.0,720.0,20772.0,692.399333,1280.0,Mike Jackson / Carl Liebert,AutoNation,Joe Kernen / Becky Quick / Unknown
+917,917,7000066368,Sara Eisen / Wilfred Frost,Hormel Foods,Jim Snee,Y,0,0,0,0,2.0,1.0,720.0,10201.0,340.033333,1280.0,Jim Snee,Hormel Foods,Sara Eisen / Wilfred Frost
+918,918,7000066123,Jim Cramer,Shopify / Hasbro / Twilio / Sendgrid / Iff / Tableau / Norfolk Southern / Ventas,Harley Finkelstein / Brian Goldner / Jeff Lawson / Sameer Dholakia / Andreas Fibig / Adam Selipsky / James A. Squires / Debra Cafaro,Y,9999,9999,9999,9999,1.0,8.0,720.0,3839.0,127.966333,1280.0,Harley Finkelstein / Brian Goldner / Jeff Lawson / Sameer Dholakia / Andreas Fibig / Adam Selipsky / James A. Squires / Debra Cafaro,Shopify / Hasbro / Twilio / SendGrid / IFF / Tableau / Norfolk Southern / Ventas,Jim Cramer
+919,919,7000066088,Kelly Evans / Tyler Mathisen / Melissa Lee,Tilray,Brendan Kennedy,Y,0,0,0,0,3.0,1.0,720.0,11084.0,369.466333,1280.0,Brendan Kennedy,Tilray,Kelly Evans / Tyler Mathisen / Melissa Lee
+920,920,7000066067,Kelly Evans,Ritchie Bros,Ravi Saligram,N,0,0,0,0,1.0,1.0,720.0,7561.0,252.033333,1280.0,Ravi Saligram,Ritchie Bros,Kelly Evans
+921,921,7000065897,Wilfred Frost,Paypal,Daniel Schulman,N,0,0,0,0,1.0,1.0,720.0,9081.0,302.699333,1280.0,Dan Schulman,PayPal,Wilfred Frost
+922,922,7000065529,Jim Cramer,Johnson & Johnson,Alex Gorsky,N,6,7,35,29,1.0,1.0,720.0,14940.0,497.99933300000004,1280.0,Alex Gorsky,Johnson & Johnson,Jim Cramer
+923,923,7000065528,Jim Cramer,Johnson & Johnson,Alex Gorsky,N,0,0,27,27,1.0,1.0,720.0,1916.0,63.866333,1280.0,Alex Gorsky,Johnson & Johnson,Jim Cramer
+924,924,7000065416,Aditi Roy / Carl Quintanilla,Canopy Growth Corporation,Bruce Linton,Y,0,0,0,0,2.0,1.0,720.0,7539.0,251.29933300000002,1280.0,Bruce Linton,Canopy Growth,Aditi Roy / Carl Quintanilla
+925,925,7000065322,Jim Cramer,Waste Management,James Fish,N,6,6,35,30,1.0,1.0,720.0,13127.0,437.566333,1280.0,Jim Fish,Waste Management,Jim Cramer
+926,926,7000065318,Jim Cramer,Twilio / Sendgrid,Jeff Lawson / Sameer Dholakia,Y,6,7,43,29,1.0,2.0,720.0,15550.0,518.333333,1280.0,Jeff Lawson / Sameer Dholakia,Twilio / SendGrid,Jim Cramer
+927,927,7000065316,Jim Cramer,Twilio / Sendgrid,Jeff Lawson / Sameer Dholakia,Y,0,0,28,28,1.0,2.0,720.0,1967.0,65.566333,1280.0,Jeff Lawson / Sameer Dholakia,Twilio / SendGrid,Jim Cramer
+928,928,7000065278,Melissa Lee / Tyler Mathisen,Ryder System,Robert Sanchez,Y,0,0,0,0,2.0,1.0,720.0,7498.0,249.933333,1280.0,Robert Sanchez,Ryder System,Melissa Lee / Tyler Mathisen
+929,929,7000065244,Jon Fortt / Morgan Brennan / David Faber,Surveymonkey,Zander Lurie,Y,0,0,0,0,3.0,1.0,720.0,6442.0,214.73333300000002,1280.0,Zander Lurie,SurveyMonkey,Jon Fortt / Morgan Brennan / David Faber
+930,930,7000065239,Jon Fortt / Morgan Brennan / David Faber,Six Flag Entertainment,Jim Reid-Anderson,Y,0,0,0,0,3.0,1.0,720.0,12735.0,424.49933300000004,1280.0,Jim Reid-Anderson,Six Flag Entertainment,Jon Fortt / Morgan Brennan / David Faber
+931,931,7000065232,Michael Santoli / Sara Eisen,Coca-Cola,James Quincey,Y,0,5,0,0,2.0,1.0,720.0,16250.0,541.666333,1280.0,James Quincey,Coca-Cola,Michael Santoli / Sara Eisen
+932,932,7000065210,Jim Cramer,Cisco,Chuck Robbins,N,0,0,0,0,1.0,1.0,720.0,6145.0,204.833333,1280.0,Chuck Robbins,Cisco,Jim Cramer
+933,933,7000065211,Jim Cramer / David Faber,Cisco,Chuck Robbins,Y,0,0,0,0,2.0,1.0,720.0,16083.0,536.099333,1280.0,Chuck Robbins,Cisco,Jim Cramer / David Faber
+934,934,7000065106,Jim Cramer,Tableau,Adam Selipsky,N,7,7,37,29,1.0,1.0,720.0,12938.0,431.26633300000003,1280.0,Adam Selipsky ,Tableau,Jim Cramer
+935,935,7000065102,Jim Cramer,International Flavors & Fragrances,Andreas Fibig,N,18,18,42,29,1.0,1.0,720.0,13258.0,441.933333,1280.0,Andreas Fibig ,International Flavors & Fragrances,Jim Cramer
+936,936,7000065078,Leslie Picker / Sara Eisen / Wilfred Frost,Goldman Sachs,David Solomon,Y,0,0,0,0,3.0,1.0,720.0,29870.0,995.666333,1280.0,David Solomon,Goldman Sachs,Leslie Picker / Sara Eisen / Wilfred Frost
+937,937,7000065077,Leslie Picker / Wilfred Frost,Goldman Sachs,David Solomon,Y,0,0,0,0,2.0,1.0,720.0,9927.0,330.899333,1280.0,David Solomon,Goldman Sachs,Leslie Picker / Wilfred Frost
+938,938,7000065074,Leslie Picker,Goldman Sachs,David Solomon,N,0,0,0,0,1.0,1.0,720.0,5113.0,170.433333,1280.0,David Solomon,Goldman Sachs,Leslie Picker
+939,939,7000065075,Sara Eisen,Goldman Sachs,David Solomon,N,0,0,0,0,1.0,1.0,720.0,6536.0,217.866333,1280.0,David Solomon,Goldman Sachs,Sara Eisen
+940,940,7000065072,Leslie Picker,Goldman Sachs,David Solomon,N,0,0,0,0,1.0,1.0,720.0,5405.0,180.166333,1280.0,David Solomon,Goldman Sachs,Leslie Picker
+941,941,7000065018,Phil Lebeau,Bmw North America,Bernhard Kuhnt,N,0,0,0,0,1.0,1.0,720.0,7937.0,264.566333,1280.0,Bernhard Kuhnt ,BMW North America,Phil LeBeau
+942,942,7000064907,Jim Cramer,Ventas,Deb Cafaro,N,6,7,40,29,1.0,1.0,720.0,13596.0,453.199333,1280.0,Deb Cafaro,Ventas,Jim Cramer
+943,943,7000064825,Jon Fortt,At&T Communications,John Donovan,N,0,0,0,0,1.0,1.0,720.0,8655.0,288.49933300000004,1280.0,John Donovan ,AT&T Communications,Jon Fortt
+944,944,7000064824,Jon Fortt,Ibm,Ginni Rometty,N,0,0,0,0,1.0,1.0,720.0,15223.0,507.433333,1280.0,Ginni Rometty,IBM,Jon Fortt
+945,945,7000064823,Jon Fortt,Ibm,Ginni Rometty,N,0,0,0,0,1.0,1.0,720.0,6994.0,233.133333,1280.0,Ginni Rometty,IBM,Jon Fortt
+946,946,7000064821,Morgan Brennan / Carl Quintanilla,Chegg,Dan Rosensweig,Y,0,0,0,0,2.0,1.0,720.0,8773.0,292.433333,1280.0,Dan Rosensweig,Chegg,Morgan Brennan / Carl Quintanilla
+947,947,7000064692,Jim Cramer,Hasbro,Brian Goldner,N,0,0,28,28,1.0,1.0,720.0,1909.0,63.63333299999999,1280.0,Brian Goldner,Hasbro,Jim Cramer
+948,948,7000064695,Jim Cramer,S&P Global,Doug Peterson,N,0,0,28,28,1.0,1.0,720.0,1671.0,55.699332999999996,1280.0,Doug Peterson,S&P Global,Jim Cramer
+949,949,7000064694,Jim Cramer,Hasbro,Brian Goldner,N,6,7,34,29,1.0,1.0,720.0,15784.0,526.133333,1280.0,Brian Goldner,Hasbro,Jim Cramer
+950,950,7000064690,Jim Cramer,Norfolk Southern,James A. Squires,N,6,7,35,30,1.0,1.0,720.0,14717.0,490.566333,1280.0,James A. Squires,Norfolk Southern,Jim Cramer
+951,951,7000064696,Jim Cramer,S&P Global,Doug Peterson,N,6,7,33,29,1.0,1.0,720.0,15395.0,513.166333,1280.0,Doug Peterson,S&P Global ,Jim Cramer
+952,952,7000064617,Carl Quintanilla / Sara Eisen / David Faber,Spirit Airlines,Ted Christie,Y,0,0,0,0,3.0,1.0,720.0,10536.0,351.199333,1280.0,Ted Christie,Spirit Airlines,Carl Quintanilla / Sara Eisen / David Faber
+953,953,7000064444,Jim Cramer,Evolus / Iac / Clorox,David Moatazedi / Joey Levin / Benno O. Dorer,Y,9999,9999,9999,9999,1.0,3.0,720.0,3310.0,110.33333300000001,1280.0,David Moatazedi / Joey Levin / Benno O. Dorer,Evolus / IAC / Clorox,Jim Cramer
+954,954,7000064386,Jon Fortt / Carl Quintanilla,Zendesk,Mikkel Svane,Y,0,0,0,0,2.0,1.0,720.0,7859.0,261.966333,1280.0,Mikkel Svane,Zendesk,Jon Fortt / Carl Quintanilla
+955,955,7000064263,Jim Cramer,Evolus,David Moatazedi,N,6,7,39,29,1.0,1.0,720.0,11349.0,378.299333,1280.0,David Moatazedi,Evolus,Jim Cramer
+956,956,7000064260,Jim Cramer,Iac,Joey Levin,N,0,0,28,28,1.0,1.0,720.0,1803.0,60.099332999999994,1280.0,Joey Levin,IAC ,Jim Cramer
+957,957,7000064262,Jim Cramer,Iac,Joey Levin,N,7,7,41,29,1.0,1.0,720.0,17107.0,570.233333,1280.0,Joey Levin,IAC ,Jim Cramer
+958,958,7000064216,Kelly Evans / Tyler Mathisen,Dunkin’,David Hoffmann,Y,0,0,0,0,2.0,1.0,720.0,9264.0,308.799333,1280.0,David Hoffman,Dunkin’,Kelly Evans / Tyler Mathisen
+959,959,7000064174,David Faber,Bb&T / Suntrust,Kelly King / Bill Rogers,Y,0,0,0,0,1.0,2.0,720.0,7606.0,253.533333,1280.0,Kelly King / Bill Rogers,BB&T / SunTrust,David Faber
+960,960,7000064060,Jim Cramer,Centene,Michael Neidorff,N,7,7,44,28,1.0,1.0,720.0,12007.0,400.233333,1280.0,Michael Neidorff,Centene,Jim Cramer
+961,961,7000064005,Kelly Evans / Tyler Mathisen,New York Times,Mark Thompson,Y,0,0,0,0,2.0,1.0,720.0,9253.0,308.433333,1280.0,Mark Thompson,New York Times ,Kelly Evans / Tyler Mathisen
+962,962,7000064004,Kelly Evans / Tyler Mathisen,New York Times,Mark Thompson,Y,0,0,0,0,2.0,1.0,720.0,18179.0,605.966333,1280.0,Mark Thompson,New York Times ,Kelly Evans / Tyler Mathisen
+963,963,7000063971,Sara Eisen / David Faber,Take-Two,Strauss Zelnick,Y,0,5,0,0,2.0,1.0,720.0,18287.0,609.566333,1280.0,Strauss Zelnick,Take-Two,Sara Eisen / David Faber
+964,964,7000063852,Jim Cramer,Maxmyinterest,Gary Zimmerman,N,9,9,35,28,1.0,1.0,720.0,11608.0,386.933333,1280.0,Gary Zimmerman,MaxMyInterest,Jim Cramer
+965,965,7000063847,Jim Cramer,Shark Tank,Robert Herjavec,N,9,9,39,28,1.0,1.0,720.0,15697.0,523.233333,1280.0,Robert Herjavec,Shark Tank,Jim Cramer
+966,966,7000063656,Jim Cramer,Clorox,Benno Dorer,N,6,6,34,20,1.0,1.0,720.0,14049.0,468.299333,1280.0,Benno Dorer ,Clorox,Jim Cramer
+967,967,7000063427,Jim Cramer,Carbon,Joseph Desimone,N,9,10,37,29,1.0,1.0,720.0,13006.0,433.533333,1280.0,Joseph DeSimone,Carbon,Jim Cramer
+968,968,7000063422,Jim Cramer,Adp,Carlos Rodriguez,N,6,6,34,28,1.0,1.0,720.0,11067.0,368.899333,1280.0,Carlos Rodriguez,ADP,Jim Cramer
+969,969,7000063360,Jim Cramer,Paypal / Meritor / Nucor / Rbn Energy / American Electric Power,John Rainey / Jay Craig / John J. Ferriola / Rusty Braziel / Nick Akins,Y,9999,9999,9999,9999,1.0,5.0,720.0,4207.0,140.23333300000002,1280.0,John Rainey / Jay Craig / John J. Ferriola / Rusty Braziel / Nick Akins,PayPal / Meritor / Nucor / RBN Energy / American Electric Power,Jim Cramer
+970,970,7000063299,Joe Kernen / Wilfred Frost / Becky Quick,Exxon,Darren Woods,Y,0,0,0,0,3.0,1.0,720.0,17903.0,596.766333,1280.0,Darren Woods,Exxon,Joe Kernen / Wilfred Frost / Becky Quick
+971,971,7000063110,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Koch Disruptive Technologies / Desktop Metal,Chase Koch / Ric Fulop,Y,0,0,35,0,3.0,2.0,720.0,16122.0,537.399333,1280.0,Chase Koch / Ric Fulop,Koch Disruptive Technologies / Desktop Metal,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+972,972,7000063098,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Koch Disruptive Technologies / Desktop Metal,Chase Koch / Ric Fulop,Y,0,0,0,0,3.0,2.0,720.0,12576.0,419.199333,1280.0,Chase Koch / Ric Fulop,Koch Disruptive Technologies / Desktop Metal,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+973,973,7000063093,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Kraft Group,Robert Kraft,Y,0,0,0,0,3.0,1.0,720.0,22008.0,733.599333,1280.0,Robert Kraft,Kraft Group,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+974,974,7000062986,Jim Cramer,Servicenow,John Donahoe,N,6,6,45,28,1.0,1.0,720.0,14676.0,489.199333,1280.0,John Donahoe,ServiceNow,Jim Cramer
+975,975,7000062984,Jim Cramer,American Electric Power,Nick Akins,N,6,7,45,29,1.0,1.0,720.0,14086.0,469.533333,1280.0,Nick Akins,American Electric Power,Jim Cramer
+976,976,7000062979,Jim Cramer,Domino’S,Ritch Allison,N,0,0,27,27,1.0,1.0,720.0,1760.0,58.666332999999995,1280.0,Ritch Allison,Domino’s,Jim Cramer
+977,977,7000062982,Jim Cramer,Domino’S,Ritch Allison,N,14,14,44,30,1.0,1.0,720.0,13961.0,465.366333,1280.0,Ritch Allison,Domino’s,Jim Cramer
+978,978,7000062907,Phil Lebeau / Kelly Evans,Boeing,Dennis Muilenburg,Y,0,0,0,0,2.0,1.0,720.0,12343.0,411.433333,1280.0,Dennis Muilenburg,Boeing,Phil LeBeau / Kelly Evans
+979,979,7000062906,Phil Lebeau / Kelly Evans,Boeing,Dennis Muilenburg,Y,0,0,0,0,2.0,1.0,720.0,4872.0,162.399333,1280.0,Dennis Muilenburg,Boeing,Phil LeBeau / Kelly Evans
+980,980,7000062893,Jon Fortt / Morgan Brennan / Seema Mody,Royal Caribbean,Richard Fain,Y,0,0,0,0,3.0,1.0,720.0,9656.0,321.866333,1280.0,Richard Fain,Royal Caribbean,Jon Fortt / Morgan Brennan / Seema Mody
+981,981,7000062519,Kelly Evans / Melissa Lee / Unknown,Noah Kerner,Acorns,Y,0,0,0,0,3.0,1.0,300.0,10560.0,352.352,534.0,Acorns,Noah Kerner,Kelly Evans / Melissa Lee / Unknown
+982,982,7000062860,Jim Cramer / David Faber,Advanced Micro Devices,Lisa Su,Y,0,20,0,0,2.0,1.0,720.0,17264.0,575.466333,1280.0,Lisa Su,Advanced Micro Devices,Jim Cramer / David Faber
+983,983,7000062858,Jim Cramer,Advanced Micro Devices,Lisa Su,N,0,19,0,0,1.0,1.0,720.0,9191.0,306.366333,1280.0,Lisa Su,Advanced Micro Devices,Jim Cramer
+984,984,7000062844,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Wheels Up,Kenny Dichter,Y,0,0,21,0,3.0,1.0,720.0,11294.0,376.466333,1280.0,Kenny Dichter,Wheels Up,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+985,985,7000062762,Jim Cramer,Nucor,John Ferriola,N,0,0,27,27,1.0,1.0,720.0,1784.0,59.466333,1280.0,John Ferriola,Nucor,Jim Cramer
+986,986,7000062761,Jim Cramer,Nucor,John Ferriola,N,6,7,51,29,1.0,1.0,720.0,13390.0,446.333333,1280.0,John Ferriola,Nucor,Jim Cramer
+987,987,7000062724,Morgan Brennan / Wilfred Frost,Mount Sinai Health System,Ken David,Y,0,0,0,0,2.0,1.0,720.0,7828.0,260.933333,1280.0,Dr. Kenneth Davis,Mount Sinai Health System,Morgan Brennan / Wilfred Frost
+988,988,7000062255,Jim Cramer,Wells Fargo,Tim Sloan,N,6,7,34,29,1.0,1.0,720.0,23377.0,779.233333,1280.0,Tim Sloan,Wells Fargo,Jim Cramer
+989,989,105701286,Jim Cramer,Wells Fargo,Tim Sloan,N,8888,8888,8888,8888,1.0,1.0,,,,,Tim Sloan,Wells Fargo,Jim Cramer
+990,990,7000062140,Andrew Ross Sorkin,Vista Equity Partners,Robert F. Smith,N,0,0,0,0,1.0,1.0,720.0,15430.0,514.333333,1280.0,Robert F. Smith,Vista Equity Partners,Andrew Ross Sorkin
+991,991,7000062052,Jim Cramer,Okta,Todd Mckinnon,N,6,7,39,30,1.0,1.0,720.0,13052.0,435.066333,1280.0,Todd McKinnon,Okta,Jim Cramer
+992,992,7000062050,Jim Cramer,Okta,Todd Mckinnon,N,0,0,28,28,1.0,1.0,720.0,1639.0,54.63333299999999,1280.0,Todd McKinnon,Okta,Jim Cramer
+993,993,7000062047,Jim Cramer,United Rentals,Mike Kneeland / Matthew Flannery,Y,6,7,46,29,1.0,2.0,720.0,12159.0,405.299333,1280.0,Mike Kneeland / Matthew Flannery,United Rentals,Jim Cramer
+994,994,7000061992,Kelly Evans / Phil Lebeau,American Airlines,Doug Parker,Y,0,0,0,0,2.0,1.0,720.0,7821.0,260.699333,1280.0,Doug Parker,American Airlines,Kelly Evans / Phil LeBeau 
+995,995,7000061958,Carl Quintanilla / David Faber,Union Pacific,Lance Fritz,Y,0,0,0,0,2.0,1.0,720.0,8776.0,292.533333,1280.0,Lance Fritz,Union Pacific,Carl Quintanilla / David Faber
+996,996,7000061947,Sara Eisen,Procter & Gamble,David Taylor,N,0,0,0,0,1.0,1.0,720.0,19114.0,637.133333,1280.0,David Taylor,Procter & Gamble,Sara Eisen
+997,997,7000061943,Jim Cramer / Carl Quintanilla,Southwest Airlines,Gary Kelly,Y,0,0,0,0,2.0,1.0,720.0,13231.0,441.033333,1280.0,Gary Kelly,Southwest Airlines,Jim Cramer / Carl Quintanilla
+998,998,7000061930,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Ey,Mark Weinberger,Y,8888,8888,8888,8888,3.0,1.0,,,,,Mark Weinberger,EY,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+999,999,7000061922,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Goldman Sachs,David Solomon,Y,0,0,0,0,3.0,1.0,720.0,3451.0,115.03333300000001,1280.0,David Solomon,Goldman Sachs,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1000,1000,7000061923,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Goldman Sachs,David Solomon,Y,0,0,0,0,3.0,1.0,720.0,26077.0,869.233333,1280.0,David Solomon,Goldman Sachs,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1001,1001,7000061917,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Morgan Stanley,James Gorman,Y,0,0,0,0,3.0,1.0,720.0,18459.0,615.299333,1280.0,James Gorman,Morgan Stanley,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1002,1002,7000061913,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Workday,Aneel Bhusri,Y,0,0,0,0,3.0,1.0,720.0,9793.0,326.433333,1280.0,Aneel Bhusri,Workday,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1003,1003,7000061910,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Humana,Bruce Broussard,Y,0,0,3,0,3.0,1.0,720.0,8941.0,298.033333,1280.0,Bruce Broussard,Humana,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1004,1004,7000061895,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Tpg,Jim Coulter,Y,0,0,0,0,3.0,1.0,720.0,11349.0,378.299333,1280.0,Jim Coulter,TPG,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1005,1005,7000061679,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan,Jamie Dimon,Y,0,0,0,0,3.0,1.0,720.0,1892.0,63.06633299999999,1280.0,Jamie Dimon ,J.P. Morgan,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1006,1006,7000061674,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Uber,Dara Khosrowshahi,Y,0,0,0,0,3.0,1.0,720.0,7595.0,253.166333,1280.0,Dara Khosrowshahi,Uber,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1007,1007,7000061720,Jim Cramer / David Faber / Carl Quintanilla,Viacomcbs,Bob Bakish,Y,0,0,0,0,3.0,1.0,300.0,15713.0,524.290433,534.0,Bob Bakish,Viacom,Jim Cramer / David Faber / Carl Quintanilla
+1008,1008,7000061671,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Uber,Dara Khosrowshahi,Y,0,0,0,0,3.0,1.0,720.0,17854.0,595.133333,1280.0,Dara Khosrowshahi,Uber,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1009,1009,7000061669,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Bernard Tyson,Kaiser Permanente,Y,0,0,6,0,3.0,1.0,720.0,10540.0,351.333333,1280.0,Kaiser Permanente,Bernard Tyson,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1010,1010,7000061666,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan,Jamie Dimon,Y,0,0,0,0,3.0,1.0,720.0,5511.0,183.699333,1280.0,Jamie Dimon,J.P. Morgan Chase,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1011,1011,7000061665,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan,Jamie Dimon,Y,0,0,0,0,3.0,1.0,720.0,8177.0,272.566333,1280.0,Jamie Dimon,J.P. Morgan Chase,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1012,1012,7000061667,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan,Jamie Dimon,Y,0,0,6,0,3.0,1.0,720.0,31611.0,1053.699333,1280.0,Jamie Dimon,J.P. Morgan Chase,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1013,1013,7000061663,Joe Kernen / Andrew Ross Sorkin / Becky Quick,J.P. Morgan,Jamie Dimon,Y,0,0,0,0,3.0,1.0,720.0,7006.0,233.533333,1280.0,Jamie Dimon,J.P. Morgan Chase,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1014,1014,7000061727,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Paypal,Daniel Schulman,Y,0,0,0,0,3.0,1.0,300.0,12707.0,423.990233,534.0,Dan Schulman,PayPal,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1015,1015,7000061660,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Dell Technologies,Michael Dell,Y,0,0,11,0,3.0,1.0,720.0,10879.0,362.633333,1280.0,Michael Dell,Dell Technologies,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1016,1016,7000061658,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Anheuser-Busch Inbev,Carlos Brito,Y,0,2,0,0,3.0,1.0,720.0,13328.0,444.26633300000003,1280.0,Carlos Brito,Anheuser-Busch Inbev,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1017,1017,7000061662,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Cisco,Chuck Robbins,Y,0,0,18,0,3.0,1.0,720.0,14413.0,480.433333,1280.0,Chuck Robbins,Cisco,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1018,1018,7000061653,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Coca-Cola,James Quincey,Y,0,0,0,0,3.0,1.0,720.0,7166.0,238.866333,1280.0,James Quincey,Coca-Cola,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1019,1019,7000061644,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Chevron,Michael Wirth,Y,0,0,0,0,3.0,1.0,720.0,16249.0,541.633333,1280.0,Michael Wirth,Chevron,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1020,1020,7000061643,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Chevron,Michael Wirth,Y,0,0,0,0,3.0,1.0,720.0,5519.0,183.96633300000002,1280.0,Michael Wirth,Chevron,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1021,1021,7000061565,Jim Cramer,Logitech International,Bracken Darrell,N,21,21,41,30,1.0,1.0,720.0,13430.0,447.666333,1280.0,Bracken Darrell ,Logitech International,Jim Cramer
+1022,1022,7000061519,Kelly Evans / Tyler Mathisen,Priceline.Com,Brett Keller,Y,0,0,0,0,2.0,1.0,720.0,8295.0,276.49933300000004,1280.0,Brett Keller,Priceline.com,Kelly Evans / Tyler Mathisen
+1023,1023,7000061450,Sara Eisen,Valueact Capital,Jeff Ubben,N,0,0,0,0,1.0,1.0,720.0,24227.0,807.566333,1280.0,Jeff Ubben,ValueAct Capital,Sara Eisen
+1024,1024,7000061433,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Bp,Bob Dudley,Y,0,0,44,0,3.0,1.0,720.0,10774.0,359.133333,1280.0,Bob Dudley,BP,Joe Kernen /Andrew Ross Sorkin / Becky Quick
+1025,1025,7000061429,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Ibm,Ginni Rometty,Y,0,0,0,0,3.0,1.0,720.0,13455.0,448.49933300000004,1280.0,Ginni Rometty,IBM,Joe Kernen /Andrew Ross Sorkin / Becky Quick
+1026,1026,7000061422,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Ups,David Abney,Y,0,0,0,0,3.0,1.0,720.0,16215.0,540.499333,1280.0,David Abney,UPS,Joe Kernen /Andrew Ross Sorkin / Becky Quick
+1027,1027,7000061413,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Marriott International,Arne Sorenson,Y,0,0,0,0,3.0,1.0,720.0,3714.0,123.799333,1280.0,Arne Sorenson,Marriott International,Joe Kernen /Andrew Ross Sorkin / Becky Quick
+1028,1028,7000061414,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Marriott International,Arne Sorenson,Y,0,0,0,0,3.0,1.0,720.0,12791.0,426.366333,1280.0,Arne Sorenson,Marriott International,Joe Kernen /Andrew Ross Sorkin / Becky Quick
+1029,1029,7000061409,Joe Kernen /Andrew Ross Sorkin / Becky Quick,The Blackstone Group,Stephen Schwarzman,Y,0,0,0,0,3.0,1.0,720.0,4345.0,144.833333,1280.0,Steve Schwarzman,Blackstone,Joe Kernen /Andrew Ross Sorkin / Becky Quick
+1030,1030,7000061403,Joe Kernen /Andrew Ross Sorkin / Becky Quick,Bank Of America,Brian Moynihan,Y,0,0,0,0,3.0,1.0,720.0,9048.0,301.599333,1280.0,Brian Moynihan,Bank of America,Joe Kernen /Andrew Ross Sorkin / Becky Quick
+1031,1031,7000061404,Sara Eisen,Salesforce,Marc Benioff,N,0,0,0,0,1.0,1.0,720.0,10904.0,363.466333,1280.0,Marc Benioff,Salesforce,Sara Eisen
+1032,1032,7000060493,Michael Santoli / Andrew Ross Sorkin / Becky Quick,1-800-Got-Junk,Brian Scudamore,Y,0,0,0,0,3.0,1.0,720.0,6314.0,210.46633300000002,1280.0,Brian Scudamore,1-800-GOT-JUNK,Michael Santoli / Andrew Ross Sorkin / Becky Quick
+1033,1033,7000060394,Jim Cramer,Appian Corp.,Matt Calkins,N,6,6,34,28,1.0,1.0,720.0,13239.0,441.299333,1280.0,Matt Calkins,Appian Corp.,Jim Cramer
+1034,1034,7000060388,Jim Cramer,Kirkland Lake Gold,Tony Makuch,N,0,0,26,26,1.0,1.0,720.0,1863.0,62.099332999999994,1280.0,Tony Makuch,Kirkland Lake Gold,Jim Cramer
+1035,1035,7000060389,Jim Cramer,Kirkland Lake Gold,Tony Makuch,N,6,6,13,2,1.0,1.0,720.0,11457.0,381.899333,1280.0,Tony Makuch,Kirkland Lake Gold,Jim Cramer
+1036,1036,7000060212,Jim Cramer,New Relic,Lew Cirne,N,6,7,35,29,1.0,1.0,720.0,13084.0,436.133333,1280.0,Lew Cirne,New Relic,Jim Cramer
+1037,1037,7000060110,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Blackrock,Larry Fink,Y,0,0,33,0,3.0,1.0,720.0,31244.0,1041.466333,1280.0,Larry Fink,BlackRock,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1038,1038,7000060094,Phil Lebeau / Andrew Ross Sorkin / Becky Quick,United Airlines,Oscar Munoz,Y,0,0,0,0,3.0,1.0,720.0,15932.0,531.066333,1280.0,Oscar Munoz,United Airlines,Phil LeBeau / Andrew Ross Sorkin / Becky Quick
+1039,1039,7000060087,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Larry Fink,Blackrock,Y,0,0,33,0,3.0,1.0,720.0,9303.0,310.099333,1280.0,BlackRock,Larry Fink,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1040,1040,7000060086,Joe Kernen / Andrew Ross Sorkin / Becky Quick,Larry Fink,Blackrock,Y,0,0,0,0,3.0,1.0,720.0,13185.0,439.49933300000004,1280.0,BlackRock,Larry Fink,Joe Kernen / Andrew Ross Sorkin / Becky Quick
+1041,1041,7000059937,Kate Rogers / Melissa Lee / Kelly Evans / Tyler Mathisen,Domino’S,Ritch Allison,Y,0,0,0,0,4.0,1.0,720.0,9315.0,310.49933300000004,1280.0,Ritch Allison,Domino’s,Kate Rogers / Melissa Lee / Kelly Evans / Tyler Mathisen
+1042,1042,7000059885,Kate Rogers / Sara Eisen,Chipotle,Brian Niccol,Y,0,0,0,0,2.0,1.0,720.0,11311.0,377.033333,1280.0,Brian Niccol,Chipotle,Kate Rogers / Sara Eisen
+1043,1043,7000059848,Andrew Ross Sorkin / Becky Quick,Tilray / Privateer Holdings,Brendan Kennedy,Y,0,0,0,0,2.0,1.0,720.0,14234.0,474.466333,1280.0,Brendan Kennedy,Tilray / Privateer Holdings,Andrew Ross Sorkin / Becky Quick
+1044,1044,7000059845,Phil Lebeau,Delta Air Lines,Ed Bastian,N,0,1,0,0,1.0,1.0,720.0,5567.0,185.56633300000001,1280.0,Ed Bastian,Delta Air Lines,Phil LeBeau
+1045,1045,7000059846,Andrew Ross Sorkin / Becky Quick,Delta Air Lines,Ed Bastian,Y,0,0,0,0,2.0,1.0,720.0,8256.0,275.199333,1280.0,Ed Bastian,Delta Air Lines,Andrew Ross Sorkin / Becky Quick
+1046,1046,7000059777,Jim Cramer,,,N,6,6,39,30,1.0,0.0,720.0,7593.0,253.099333,1280.0,,,Jim Cramer
+1047,1047,7000059776,Jim Cramer,,,N,0,0,28,28,1.0,0.0,720.0,1904.0,63.466333,1280.0,,,Jim Cramer
+1048,1048,7000059748,Sara Eisen / Wilfred Frost,Kroger,Rodney Mcmullen,Y,0,0,0,0,2.0,1.0,720.0,5855.0,195.166333,1280.0,Rodney McMullen,Kroger,Sara Eisen / Wilfred Frost
+1049,1049,7000059652,Phil Lebeau,Fiat Chrysler,Mike Manley,N,1,1,0,0,1.0,1.0,720.0,2363.0,78.76633299999999,1280.0,Mike Manley,Fiat Chrysler,Phil LeBeau
+1050,1050,7000059637,Phil Lebeau,Volkswagen U.S.,Scott Keogh,N,0,0,0,0,1.0,1.0,720.0,5757.0,191.899333,1280.0,Scott Keogh,Volkswagen U.S.,Phil LeBeau
+1051,1051,7000059624,Phil Lebeau,Ford,Jim Hackett,N,0,0,0,0,1.0,1.0,720.0,6582.0,219.399333,1280.0,Jim Hackett,Ford,Phil LeBeau
+1052,1052,7000059412,Jim Cramer,Apple / Edxcom / Canopy Growth Corporation / Allergan / Novartis / Amgen,Tim Cook / Kevin Sayer / Bruce Linton / Brenton L. Saunders / Dr. Vasant Narasimhan / Robert A. Bradway,Y,9999,9999,9999,9999,1.0,6.0,720.0,3754.0,125.13333300000001,1280.0,Tim Cook / Kevin Sayer / Bruce Linton / Brenton L. Saunders / Dr. Vasant Narasimhan / Robert A. Bradway,Apple / EDXCOM / Canopy Growth Corporation / Allergan / Novartis / Amgen,Jim Cramer
+1053,1053,7000059355,Phil Lebeau,General Motors,Mary Barra,N,0,0,0,0,1.0,1.0,720.0,6167.0,205.56633300000001,1280.0,Mary Barra,General Motors,Phil LeBeau
+1054,1054,7000059247,Jim Cramer,Intel,Bob Swan,N,0,0,28,28,1.0,1.0,720.0,1965.0,65.499333,1280.0,Bob Swan ,Intel,Jim Cramer
+1055,1055,7000059253,Jim Cramer,Salesforce,Keith Block,N,7,7,33,28,1.0,1.0,720.0,14830.0,494.333333,1280.0,Keith Block ,Salesforce,Jim Cramer
+1056,1056,7000059248,Jim Cramer,Intel,Bob Swan,N,7,7,36,30,1.0,1.0,720.0,15294.0,509.799333,1280.0,Bob Swan ,Intel,Jim Cramer
+1057,1057,7000059046,Jim Cramer,Dexcom,Kevin Sayer,N,7,7,36,29,1.0,1.0,720.0,12129.0,404.299333,1280.0,Kevin Sayer,Dexcom,Jim Cramer
+1058,1058,7000059038,Jim Cramer,Constellation Brands,Bill Newlands / Rob Sands,Y,0,0,27,27,1.0,2.0,720.0,1902.0,63.399333,1280.0,Bill Newlands / Rob Sands,Constellation Brands,Jim Cramer
+1059,1059,7000059043,Jim Cramer,Canopy Growth Corporation,Bruce Linton,N,6,6,38,29,1.0,1.0,720.0,14801.0,493.366333,1280.0,Bruce Linton,Canopy Growth,Jim Cramer
+1060,1060,7000059040,Jim Cramer,Constellation Brands,Bill Newlands / Rob Sands,Y,13,13,31,29,1.0,2.0,720.0,16359.0,545.299333,1280.0,Bill Newlands / Rob Sands,Constellation Brands,Jim Cramer
+1061,1061,7000059003,Julia Boorstin,Viacomcbs,Bob Bakish,N,0,0,0,0,1.0,1.0,720.0,7408.0,246.933333,1280.0,Bob Bakish,Viacom,Julia Boorstin
+1062,1062,7000058975,Jon Fortt / Julia Boorstin,At&T Communications,John Donovan,Y,0,0,0,0,2.0,1.0,720.0,11088.0,369.599333,1280.0,John Donovan,AT&T Communications,Jon Fortt / Julia Boorstin
+1063,1063,7000058967,Jon Fortt,Micron,Sanjay Mehrotra,N,0,0,0,0,1.0,1.0,720.0,12204.0,406.799333,1280.0,Sanjay Mehrotra,Micron,Jon Fortt
+1064,1064,7000058662,Jim Cramer,Bausch Health Companies,Joseph Papa,N,10,11,41,30,1.0,1.0,720.0,14498.0,483.26633300000003,1280.0,Joseph Papa,Bausch Health Companies,Jim Cramer
+1065,1065,7000058658,Jim Cramer,Amgen,Robert A. Bradway,N,0,0,28,28,1.0,1.0,720.0,2132.0,71.066333,1280.0,Robert A. Bradway,Amgen,Jim Cramer
+1066,1066,7000058656,Jim Cramer,Novartis,Vasant Narasimhan,N,0,0,28,28,1.0,1.0,720.0,1921.0,64.033333,1280.0,Dr. Vasant Narasimhan,Novartis,Jim Cramer
+1067,1067,7000058659,Jim Cramer,Amgen,Robert A. Bradway,N,12,13,32,29,1.0,1.0,720.0,15489.0,516.299333,1280.0,Robert A. Bradway,Amgen,Jim Cramer
+1068,1068,7000058657,Jim Cramer,Novartis,Vasant Narasimhan,N,11,11,35,29,1.0,1.0,720.0,14703.0,490.099333,1280.0,Vas Narasimhan,Novartis,Jim Cramer
+1069,1069,7000058137,Jim Cramer,Amn Healthcare,Susan Salka,N,7,7,39,30,1.0,1.0,720.0,11339.0,377.966333,1280.0,Susan Salka,AMN Healthcare Services,Jim Cramer
+1070,1070,7000058136,Jim Cramer,Amn Healthcare,Susan Salka,N,0,0,28,28,1.0,1.0,720.0,1896.0,63.199332999999996,1280.0,Susan Salka,AMN Healthcare Services,Jim Cramer
+1071,1071,7000056709,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown,Canary,Dan Eberhart,Y,0,0,0,0,4.0,1.0,720.0,6474.0,215.79933300000002,1280.0,Dan Eberhart,Canary,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Unknown
+1072,1072,7000056604,Jim Cramer,Acreage Holdings,Kevin Murphy,N,9,10,38,28,1.0,1.0,720.0,11884.0,396.133333,1280.0,Kevin Murphy,Acreage Holdings,Jim Cramer
+1073,1073,7000056602,Jim Cramer,Acreage Holdings,Kevin Murphy,N,0,0,26,26,1.0,1.0,720.0,1622.0,54.06633299999999,1280.0,Kevin Murphy,Acreage Holdings,Jim Cramer
+1074,1074,7000056600,Jim Cramer,Paychex,Marty Mucci,N,6,6,42,29,1.0,1.0,720.0,12898.0,429.933333,1280.0,Marty Mucci,Paychex,Jim Cramer
+1075,1075,7000056585,Sara Eisen / Michael Santoli,Carnival,Arnold Donald,Y,0,0,0,0,2.0,1.0,720.0,7687.0,256.233333,1280.0,Arnold Donald,Carnival,Sara Eisen / Michael Santoli
+1076,1076,7000056420,Jim Cramer,Eli Lilly,David Ricks,N,0,0,28,28,1.0,1.0,720.0,1882.0,62.733332999999995,1280.0,Dave Ricks ,Eli Lilly,Jim Cramer
+1077,1077,7000056414,Jim Cramer,Micron Technology,Sanjay Mehrotra,N,0,0,28,28,1.0,1.0,720.0,1377.0,45.899333,1280.0,Sanjay Mehrotra,Micron Technology,Jim Cramer
+1078,1078,7000056421,Jim Cramer,Eli Lilly,David Ricks,N,6,6,35,29,1.0,1.0,720.0,17047.0,568.233333,1280.0,Dave Ricks ,Eli Lilly,Jim Cramer
+1079,1079,7000056416,Jim Cramer,Micron Technology,Sanjay Mehrotra,N,6,6,35,29,1.0,1.0,720.0,12849.0,428.299333,1280.0,Sanjay Mehrotra,Micron Technology,Jim Cramer
+1080,1080,7000056288,Joe Kernen / Andrew Ross Sorkin / Unknown,Glaxosmithkline,Emma Walmsley,Y,0,0,3,0,3.0,1.0,720.0,29182.0,972.733333,1280.0,Emma Walmsley,GlaxoSmithKline,Joe Kernen / Andrew Ross Sorkin / Unknown
+1081,1081,7000056287,Joe Kernen,Glaxosmithkline,Emma Walmsley,N,0,0,0,0,1.0,1.0,720.0,9407.0,313.566333,1280.0,Emma Walmsley,GlaxoSmithKline,Joe Kernen
+1082,1082,7000056209,Jim Cramer,Walmart E-Commerce Usa,Marc Lore,N,0,0,28,28,1.0,1.0,720.0,1761.0,58.699332999999996,1280.0,Marc Lore,Walmart E-Commerce USA,Jim Cramer
+1083,1083,7000056213,Jim Cramer,Trex,Jim Cline,N,6,6,38,29,1.0,1.0,720.0,12003.0,400.099333,1280.0,Jim Cline,Trex,Jim Cramer
+1084,1084,7000056212,Jim Cramer,Walmart E-Commerce Usa,Marc Lore,N,6,7,42,29,1.0,1.0,720.0,15176.0,505.866333,1280.0,Marc Lore,Walmart E-Commerce USA,Jim Cramer
+1085,1085,7000056150,Tyler Mathisen,Tilray,Brendan Kennedy,N,0,0,0,0,1.0,1.0,720.0,2533.0,84.43333299999999,1280.0,Brendan Kennedy,Tilray,Tyler Mathisen
+1086,1086,7000056127,Josh Lipton,Oracle,Mark Hurd,N,0,0,0,0,1.0,1.0,720.0,11572.0,385.733333,1280.0,Mark Hurd (call),Oracle,Josh Lipton
+1087,1087,7000055999,Jim Cramer,Nestlé Global / Starbucks,Mark Schneider / Kevin Johnson,Y,10,10,38,30,1.0,2.0,720.0,12646.0,421.533333,1280.0,Mark Schneider / Kevin Johnson,Nestlé Global / Starbucks,Jim Cramer
+1088,1088,7000055994,Jim Cramer,Johnson & Johnson,Alex Gorsky,N,35,35,30,30,1.0,1.0,720.0,27025.0,900.833333,1280.0,Alex Gorsky,Johnson & Johnson,Jim Cramer
+1089,1089,7000055992,Jim Cramer,Johnson & Johnson,Alex Gorsky,N,0,0,27,27,1.0,1.0,720.0,1677.0,55.899333,1280.0,Alex Gorsky,Johnson & Johnson,Jim Cramer
+1090,1090,7000055767,Jim Cramer,Okta,Todd Mckinnon,N,6,7,37,28,1.0,1.0,720.0,10788.0,359.599333,1280.0,Todd McKinnon,Okta,Jim Cramer
+1091,1091,7000055764,Jim Cramer,Centene,Michael Neidorff,N,6,7,42,28,1.0,1.0,720.0,12208.0,406.933333,1280.0,Michael Neidorff,Centene,Jim Cramer
+1092,1092,7000055763,Jim Cramer,Starbucks / Uber,Kevin Johnson / Dara Khosrowshahi,Y,3,3,38,28,1.0,2.0,720.0,18513.0,617.099333,1280.0,Kevin Johnson / Dara Khosrowshahi,Starbucks / Uber,Jim Cramer
+1093,1093,7000055762,Jim Cramer,Starbucks / Uber,Kevin Johnson / Dara Khosrowshahi,Y,0,0,26,26,1.0,2.0,720.0,1631.0,54.366333,1280.0,Kevin Johnson / Dara Khosrowshahi,Starbucks / Uber,Jim Cramer
+1094,1094,7000055658,Jim Cramer,Starbucks,Kevin Johnson,N,0,0,0,0,1.0,1.0,720.0,5384.0,179.46633300000002,1280.0,Kevin Johnson,Starbucks,Jim Cramer 
+1095,1095,7000055659,Jim Cramer,Starbucks,Kevin Johnson / Dara Khosrowshahi,Y,0,0,0,0,1.0,2.0,720.0,3903.0,130.099333,1280.0,Kevin Johnson / Dara Khosrowshahi,Starbucks,Jim Cramer 
+1096,1096,7000055655,Jim Cramer,Starbucks,Kevin Johnson,N,0,0,0,0,1.0,1.0,720.0,5491.0,183.033333,1280.0,Kevin Johnson,Starbucks,Jim Cramer 
+1097,1097,7000055654,Jim Cramer,Starbucks,Kevin Johnson,N,0,2,0,0,1.0,1.0,720.0,14089.0,469.633333,1280.0,Kevin Johnson,Starbucks,Jim Cramer 
+1098,1098,7000055575,Jim Cramer,Adobe,Shantanu Narayen,N,7,7,36,28,1.0,1.0,720.0,16152.0,538.399333,1280.0,Shantanu Narayen,Adobe,Jim Cramer
+1099,1099,7000055570,Jim Cramer,Adobe,Shantanu Narayen,N,0,0,28,28,1.0,1.0,720.0,2149.0,71.633333,1280.0,Shantanu Narayen,Adobe,Jim Cramer
+1100,1100,105625405,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Phil Lebeau / Unknown,Delta Air Lines,Ed Bastian,Y,8888,8888,8888,8888,5.0,1.0,,,,,Ed Bastian,Delta Air Lines,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Phil LeBeau / Unknown
+1101,1101,7000055451,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Phil Lebeau / Unknown,Delta Air Lines,Ed Bastian,Y,0,0,0,0,5.0,1.0,720.0,18908.0,630.266333,1280.0,Ed Bastian,Delta Air Lines,Joe Kernen / Andrew Ross Sorkin / Becky Quick / Phil LeBeau / Unknown
+1102,1102,7000055324,Jim Cramer,Signet,Gina Drosos,N,9,9,33,30,1.0,1.0,720.0,15453.0,515.099333,1280.0,Gina Drosos,Signet,Jim Cramer
+1103,1103,7000055322,Jim Cramer,Fireeye,Kevin Mandia,N,25,25,41,29,1.0,1.0,720.0,19480.0,649.333333,1280.0,Kevin Mandia ,FireEye,Jim Cramer
+1104,1104,7000055319,Jim Cramer,Fireeye,Kevin Mandia,N,0,0,27,27,1.0,1.0,720.0,1687.0,56.233332999999995,1280.0,Kevin Mandia ,FireEye,Jim Cramer
+1105,1105,7000055326,Jim Cramer,Wix.Com,Avishai Abrahami,N,6,7,43,29,1.0,1.0,720.0,12802.0,426.733333,1280.0,Avishai Abrahami ,Wix.com ,Jim Cramer
+1106,1106,7000055231,Jon Fortt / Morgan Brennan / Carl Quintanilla,Ups,David Abney,Y,0,0,0,0,3.0,1.0,720.0,7699.0,256.633333,1280.0,David Abney,UPS,Jon Fortt / Morgan Brennan / Carl Quintanilla
+1107,1107,7000055098,Jim Cramer,Masimo Corp.,Joe Kiani,N,6,6,33,29,1.0,1.0,720.0,12489.0,416.299333,1280.0,Joe Kiani,Masimo Corp.,Jim Cramer
+1108,1108,7000055001,Sara Eisen,Coca-Cola,James Quincey,N,0,0,0,0,1.0,1.0,720.0,6090.0,202.999333,1280.0,James Quincey,Coca-Cola,Sara Eisen
+1109,1109,7000054993,Joe Kernen / Michael Santoli / Andrew Ross Sorkin / Becky Quick/ Unknown,Nextdoor,Sarah Friar,Y,0,0,0,0,5.0,1.0,720.0,13509.0,450.299333,1280.0,Sarah Friar,Nextdoor,Joe Kernen / Michael Santoli / Andrew Ross Sorkin / Becky Quick/ Unknown
+1110,1110,7000054897,Jim Cramer,Tech Data,Rich Hume,N,6,6,33,30,1.0,1.0,720.0,11929.0,397.633333,1280.0,Rich Hume,Tech Data,Jim Cramer
+1111,1111,7000054892,Jim Cramer,Splunk,Doug Merritt,N,7,8,49,29,1.0,1.0,720.0,15394.0,513.133333,1280.0,Doug Merritt,Splunk,Jim Cramer
+1112,1112,7000054890,Jim Cramer,Splunk,Doug Merritt,N,0,0,27,27,1.0,1.0,720.0,2255.0,75.166333,1280.0,Doug Merritt,Splunk,Jim Cramer
+1113,1113,7000054670,Jim Cramer,Union Square Hospitality Group / Union Square Hospitality Group / Goldbelly,Danny Meyer / Mark Leavitt / / Joe Ariel,Y,6,7,68,59,1.0,4.0,720.0,21582.0,719.399333,1280.0,Danny Meyer / Mark Leavitt / / Joe Ariel ,Union Square Hospitality Group / Union Square Hospitality Group / Goldbelly,Jim Cramer
+1114,1114,7000054652,Jim Cramer,Ollie’S / Yum! Brands / Coupa / Groupon / U.S. Concrete,Mark Butler / Greg Creed / Rob Bernshteyn / Rich Williams / Bill Sandbrook,Y,9999,9999,9999,9999,1.0,5.0,720.0,3492.0,116.39933300000001,1280.0,Mark Butler / Greg Creed / Rob Bernshteyn / Rich Williams / Bill Sandbrook,Ollie’s / Yum! Brands / Coupa / Groupon / U.S. Concrete,Jim Cramer
+1115,1115,7000054667,Jim Cramer,Domo,Josh James,N,6,6,37,28,1.0,1.0,720.0,11560.0,385.333333,1280.0,Josh James,Domo,Jim Cramer
+1116,1116,7000054545,Andrew Ross Sorkin / Becky Quick,Ey,Mark Weinberger,Y,0,0,0,0,2.0,1.0,720.0,7132.0,237.73333300000002,1280.0,Mark Weinberger,EY,Andrew Ross Sorkin / Becky Quick
+1117,1117,7000054461,Jim Cramer,Yum Brands,Greg Creed,N,7,7,37,29,1.0,1.0,720.0,14467.0,482.233333,1280.0,Greg Creed,Yum Brands,Jim Cramer
+1118,1118,7000054466,Jim Cramer,Us Concrete,Bill Sandbrook,N,0,0,27,27,1.0,1.0,720.0,1662.0,55.399333,1280.0,Bill Sandbrook,US Concrete,Jim Cramer
+1119,1119,7000054459,Jim Cramer,Yum Brands,Greg Creed,N,0,0,28,28,1.0,1.0,720.0,1622.0,54.06633299999999,1280.0,Greg Creed,Yum Brands,Jim Cramer
+1120,1120,7000054467,Jim Cramer,Us Concrete,Bill Sandbrook,N,7,7,36,29,1.0,1.0,720.0,14086.0,469.533333,1280.0,Bill Sandbrook,US Concrete,Jim Cramer
+1121,1121,7000054465,Jim Cramer,Ollie’S,Mark Butler,N,6,7,41,29,1.0,1.0,720.0,12640.0,421.333333,1280.0,Mark Butler,Ollie’s,Jim Cramer
+1122,1122,7000054126,Jim Cramer,Anaplan,Frank Calderoni,N,5,5,38,30,1.0,1.0,720.0,11273.0,375.76633300000003,1280.0,Frank Calderoni,Anaplan,Jim Cramer
+1123,1123,7000054123,Jim Cramer,Coupa Software,Robert Bernshteyn,N,5,5,52,29,1.0,1.0,720.0,11364.0,378.799333,1280.0,Robert Bernshteyn,Coupa Software,Jim Cramer
+1124,1124,7000054127,Jim Cramer,Marathon Petroleum Corp.,Gary Heminger,N,0,0,27,27,1.0,1.0,720.0,2591.0,86.366333,1280.0,Gary Heminger,Marathon Petroleum Corp.,Jim Cramer
+1125,1125,7000054120,Jim Cramer,Marathon Petroleum Corp.,Gary Heminger,N,5,5,45,30,1.0,1.0,720.0,15228.0,507.599333,1280.0,Gary Heminger,Marathon Petroleum Corp.,Jim Cramer
+1126,1126,7000053898,Jim Cramer,Groupon,Rich Williams,N,0,0,27,27,1.0,1.0,720.0,1813.0,60.433333,1280.0,Rich Williams,Groupon,Jim Cramer
+1127,1127,7000053894,Jim Cramer,Groupon,Rich Williams,N,6,6,33,29,1.0,1.0,720.0,14046.0,468.199333,1280.0,Rich Williams,Groupon,Jim Cramer
+1128,1128,7000053851,Morgan Brennan / Carl Quintanilla,Huntington Ingalls Industries,Michael Petters,Y,0,0,0,0,2.0,1.0,720.0,6684.0,222.79933300000002,1280.0,Michael Petters,Huntington Ingalls Industries,Morgan Brennan / Carl Quintanilla
+1129,1129,7000053797,Joe Kernen / Michael Santoli / Becky Quick / Unknown,Snap-On,Nick Pinchuk,Y,0,0,0,0,4.0,1.0,720.0,11887.0,396.233333,1280.0,Nick Pinchuk,Snap-On,Joe Kernen / Michael Santoli / Becky Quick / Unknown
+1130,1130,7000053794,Joe Kernen,Spark Therapeutics,Jeffrey Marrazzo,N,0,0,0,0,1.0,1.0,720.0,11713.0,390.433333,1280.0,Jeffrey Marrazzo,Spark Therapeutics,Joe Kernen
+1131,1131,7000053681,Jim Cramer,Kar Auction Services,Jim Hallett,N,6,7,43,28,1.0,1.0,720.0,11381.0,379.366333,1280.0,Jim Hallett, Kar Auction Services,Jim Cramer
+1132,1132,7000053644,Jim Cramer,Dollar Tree / Pvh,Gary Philbin / Manny Chirico,Y,9999,9999,9999,9999,1.0,2.0,720.0,2964.0,98.79933299999999,1280.0,Gary Philbin / Manny Chirico ,Dollar Tree / PVH,Jim Cramer
+1133,1133,7000053419,Jim Cramer,Sofi,Anthony Noto,N,6,7,41,30,1.0,1.0,720.0,13043.0,434.76633300000003,1280.0,Anthony Noto,SoFi,Jim Cramer
+1134,1134,7000053418,Jim Cramer,Sofi,Anthony Noto,N,0,0,27,27,1.0,1.0,720.0,1839.0,61.299333,1280.0,Anthony Noto,SoFi,Jim Cramer
+1135,1135,7000053417,Jim Cramer,Dollar Tree,Gary Philbin,N,18,18,40,29,1.0,1.0,720.0,14258.0,475.26633300000003,1280.0,Gary Philbin,Dollar Tree,Jim Cramer
+1136,1136,7000053411,Jim Cramer,Pvh,Manny Chirico,N,0,0,28,28,1.0,1.0,720.0,1758.0,58.599332999999994,1280.0,Manny Chirico ,PVH,Jim Cramer
+1137,1137,7000053413,Jim Cramer,Pvh,Manny Chirico,N,6,7,35,29,1.0,1.0,720.0,14280.0,475.99933300000004,1280.0,Manny Chirico ,PVH,Jim Cramer
