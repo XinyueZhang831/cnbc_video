@@ -3,6 +3,7 @@
 ```bash
 pip install selenium
 pip install difflib
+pip install pandas
 ```
 
 
