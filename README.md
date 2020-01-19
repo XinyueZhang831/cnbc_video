@@ -24,6 +24,12 @@ Get baic infomation of video, includes number of frames. video width, video leng
 ### CNBC_cleandata.py
 Clean all data, count numbers of CEOs, Companies and Hosts
 
+### CNBCopenpose.py
+Analyze with ffmpeg and openpose
+
+### testing.py
+Inside test, test basic analysis
+
 ## Data
 
 ### video_info.csv
