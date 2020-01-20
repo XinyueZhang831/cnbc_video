@@ -149,7 +149,7 @@ This code will save to the place you want to save it.
 
 ## Common Error
 
-### Install
+### * Install
 
 #### Could NOT find vecLib
 
@@ -161,7 +161,7 @@ under line 438 paste:
 
 vecLib_INCLUDE_DIR:PATH=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/vecLib.framework/Headers
 
-### Run openpose
+### * Run openpose
 
 ### - model not found
 
