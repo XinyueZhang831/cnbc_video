@@ -124,7 +124,7 @@ make -j`sysctl -n hw.logicalcpu`
 
 ## Test OpenPose:
 
-- Check this [link](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/quick_start.md#quick-start)
+### - Check this [link](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/quick_start.md#quick-start)
 
 In your terminal under openpose your can test, this code will display the result but not save
 
@@ -144,7 +144,7 @@ This code will save to the place you want to save it.
 ./build/examples/openpose/openpose.bin --image_dir examples/media/ --write_images output/ --face --hand'
 ```
 
-- Inside the [test folder](https://github.com/XinyueZhang831/cnbc_video/tree/master/test), I wrote a code to test if the openpose work or not.
+### - Inside the [test folder](https://github.com/XinyueZhang831/cnbc_video/tree/master/test), I wrote a code to test if the openpose work or not.
 
 
 ## Common Error
