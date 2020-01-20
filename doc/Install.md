@@ -42,7 +42,7 @@ brew install boost boost-python3
 brew install automake libtool
 ```
 
-## Intall Openpose
+## Install Openpose
 
 Open terminal tool and cd to the dir you want to install openpose
 
