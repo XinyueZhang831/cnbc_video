@@ -149,15 +149,19 @@ This code will save to the place you want to save it.
 
 ## Common Error
 
-### * Install
+### * Installation
 
-#### Could NOT find vecLib
+#### - Could NOT find vecLib
 
 open openpose/build/caffe/src/openpose_lib-build/CMakeCache.txt
 
 under line 438 paste:
 
 //vecLib include directory
+#### - no protobuf:
+
+Since Cmake build with Caffe, it should include protobuf automaticly. If it doesn't, check [this link](https://www.dazhuanlan.com/2019/08/15/5d5514f5efcdc/) to install protobuf and related setting.
+
 
 vecLib_INCLUDE_DIR:PATH=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/vecLib.framework/Headers
 
