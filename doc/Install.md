@@ -163,15 +163,18 @@ vecLib_INCLUDE_DIR:PATH=/Applications/Xcode.app/Contents/Developer/Platforms/Mac
 
 ### Run openpose
 
-### model not found
+### - model not found
 
 When use openpose on command line, it must be inside openpose dir
 
-### no such directory (cannot save output)
+### - no such directory (cannot save output)
 
 you need to build output folder under openpose dir first
 
 
+# Install ffmpeg:
+
+Chech [ffmpeg link](http://macappstore.org/ffmpeg/)
 
 ## Reference
 
