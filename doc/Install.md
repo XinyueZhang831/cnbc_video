@@ -107,7 +107,7 @@ git clone https://github.com/pybind/pybind11.git
 
 ### - Almost done
 
-Click Configure Butter, if everything correct there will be no read either in the list of items or in the text box.
+Click Configure button, if everything correct there will be no red either in the list of items or in the text box.
 
 If configure successed, there will be a Configure Done message in the text box.
 
