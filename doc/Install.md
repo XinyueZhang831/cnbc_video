@@ -66,7 +66,7 @@ git clone https://github.com/pybind/pybind11.git
 
 ## Modify Cmake
 
-![Cmake](/images/cmake.jpg)
+![Cmake](/doc/Cmake.jpg)
 
 ### - Where is the source code: your openpose directory
 
