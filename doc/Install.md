@@ -172,9 +172,25 @@ When use openpose on command line, it must be inside openpose dir
 you need to build output folder under openpose dir first
 
 
-# Install ffmpeg:
+# Install ffmpeg
 
 Chech [ffmpeg link](http://macappstore.org/ffmpeg/)
+
+## test ffmpeg
+
+In command-line tool
+
+```bash
+# 1 frame from each 10 sec and save to out put, not limite start and end time
+ffmpeg -i /video_dir.mp4 -r 1/10 /output_dir/output_%0d5.png
+
+# 1 frame from each 10 sec and save to out put, limite start and end time
+ffmpeg -i /video_dir.mp4 -ss start_time(sec) -to end_time(sec) -r 1/10 /output_dir/output_%0d5.png'
+
+# 1 frame from a specific time
+ffmpeg -ss time(00:00:00) -i /video_dir.mp4 -vframes 1 /output_dir/output_%0d5.png
+```
+ffmpeg screenshot [How to extract 1 screenshot for a video with ffmpeg at a given time?](https://stackoverflow.com/questions/27568254/how-to-extract-1-screenshot-for-a-video-with-ffmpeg-at-a-given-time)
 
 ## Reference
 
