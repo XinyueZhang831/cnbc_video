@@ -185,7 +185,7 @@ In command-line tool
 ffmpeg -i /video_dir.mp4 -r 1/10 /output_dir/output_%0d5.png
 
 # 1 frame from each 10 sec and save to out put, limite start and end time
-ffmpeg -i /video_dir.mp4 -ss start_time(sec) -to end_time(sec) -r 1/10 /output_dir/output_%0d5.png'
+ffmpeg -i /video_dir.mp4 -ss start_time(sec) -to end_time(sec) -r 1/10 /output_dir/output_%0d5.png
 
 # 1 frame from a specific time
 ffmpeg -ss time(00:00:00) -i /video_dir.mp4 -vframes 1 /output_dir/output_%0d5.png
@@ -202,3 +202,4 @@ ffmpeg screenshot [How to extract 1 screenshot for a video with ffmpeg at a give
  
  - [OpenPose Quick Start](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/quick_start.md#quick-start)
 
+ - [How to extract 1 screenshot for a video with ffmpeg at a given time?](https://stackoverflow.com/questions/27568254/how-to-extract-1-screenshot-for-a-video-with-ffmpeg-at-a-given-time)
