@@ -176,7 +176,7 @@ you need to build output folder under openpose dir first
 
 Chech [ffmpeg link](http://macappstore.org/ffmpeg/)
 
-## test ffmpeg
+## Test ffmpeg
 
 In command-line tool
 
