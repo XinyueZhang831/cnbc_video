@@ -14,19 +14,19 @@ pip install pandas
 ## Code
 
 ### CNBC_videoid.py
-WebScrapy video id and url from [CNBC CEO Interviews](https://www.cnbc.com/video-ceo-interviews/)
+Inside Webscrapy_youtubedl, WebScrapy video id and url from [CNBC CEO Interviews](https://www.cnbc.com/video-ceo-interviews/)
 
 ### CNBC_videodetail.py
-WebScrapy video information, include name of the show, potential host(s)
+Inside Webscrapy_youtubedl, WebScrapy video information, include name of the show, potential host(s)
 
 ### CNBC_youtubdl.py
-Download CNBC video with [youtube_dl](https://github.com/ytdl-org/youtube-dl)
+Inside Webscrapy_youtubedl, download CNBC video with [youtube_dl](https://github.com/ytdl-org/youtube-dl)
 
 ### CNBC_videodetail.py
-Get baic infomation of video, includes number of frames. video width, video length and video duration
+Inside Webscrapy_youtubedl, get baic infomation of video, includes number of frames. video width, video length and video duration
 
 ### CNBC_cleandata.py
-Clean all data, count numbers of CEOs, Companies and Hosts
+Inside Clean, clean all data, count numbers of CEOs, Companies and Hosts
 
 ### CNBCopenpose.py
 Analyze with ffmpeg and openpose
