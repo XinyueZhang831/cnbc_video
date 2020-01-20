@@ -1,6 +1,6 @@
 # CNBC Analysis
 
-With Openpose and ffmpeg
+With Openpose and ffmpeg, [detail](https://github.com/XinyueZhang831/cnbc_video/blob/master/doc/Install.md)
 
 # CNBC_VideoData
 ## Package
