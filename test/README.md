@@ -25,3 +25,5 @@ This code is used to test openpose and ffmpeg function, inlude:
 
 - time: a frame at the specific time (e.g. '00:06:37')
 
+- df: video information output directory
+
