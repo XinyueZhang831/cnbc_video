@@ -184,8 +184,8 @@ In command-line tool
 # 1 frame from each 10 sec and save to out put, not limite start and end time
 ffmpeg -i /video_dir.mp4 -r 1/10 /output_dir/output_%0d5.png
 
-# 1 frame from each 10 sec and save to out put, limite start and end time
-ffmpeg -i /video_dir.mp4 -ss start_time(sec) -to end_time(sec) -r 1/10 /output_dir/output_%0d5.png
+# 1 frame from each 10 sec and save to out put, limite start and end time, time format: second
+ffmpeg -i /video_dir.mp4 -ss start_time -to end_time -r 1/10 /output_dir/output_%0d5.png
 
 # 1 frame from a specific time, time format 00:00:00
 ffmpeg -ss time -i /video_dir.mp4 -vframes 1 /output_dir/output_%0d5.png
