@@ -179,7 +179,7 @@ you need to build output folder under openpose dir first
 
 # Install ffmpeg
 
-Chech [ffmpeg link](http://macappstore.org/ffmpeg/)
+Check [ffmpeg link](http://macappstore.org/ffmpeg/)
 
 ## Test ffmpeg
 
